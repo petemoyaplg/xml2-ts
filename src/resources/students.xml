@@ -1,0 +1,14 @@
+<students>
+    <student graduated="yes">
+        <id>1</id>
+        <name>Hussein</name>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Alex</name>
+		<student>
+			<id>3</id>
+			<name>PLG</name>
+		</student>
+    </student>
+</students>
