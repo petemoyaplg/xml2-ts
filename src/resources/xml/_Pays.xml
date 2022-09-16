@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<enveloppe id="490000020" identifiant="ARCA" timestamp="2022-06-24T11:36:41.5144224">
+  <reponseDocumentation id="934942328">
+    <pays id="CD" libelle="République Démocratique du Congo" ohada="true"/>
+    <pays id="AF" libelle="Afghanistan" ohada="false"/>
+    <pays id="ZA" libelle="Afrique du Sud" ohada="false"/>
+    <pays id="AL" libelle="Albanie" ohada="false"/>
+    <pays id="DZ" libelle="Algérie" ohada="false"/>
+    <pays id="DE" libelle="Allemagne" ohada="false"/>
+    <pays id="AD" libelle="Andorre" ohada="false"/>
+    <pays id="AO" libelle="Angola" ohada="false"/>
+    <pays id="AI" libelle="Anguilla" ohada="false"/>
+    <pays id="AQ" libelle="Antarctique" ohada="false"/>
+    <pays id="AG" libelle="Antigua-et-Barbuda" ohada="false"/>
+    <pays id="AN" libelle="Antilles Néerlandaises" ohada="false"/>
+    <pays id="SA" libelle="Arabie Saoudite" ohada="false"/>
+    <pays id="AR" libelle="Argentine" ohada="false"/>
+    <pays id="AM" libelle="Arménie" ohada="false"/>
+    <pays id="AW" libelle="Aruba" ohada="false"/>
+    <pays id="AU" libelle="Australie" ohada="false"/>
+    <pays id="AT" libelle="Autriche" ohada="false"/>
+    <pays id="AZ" libelle="Azerbaïdjan" ohada="false"/>
+    <pays id="BS" libelle="Bahamas" ohada="false"/>
+    <pays id="BH" libelle="Bahreïn" ohada="false"/>
+    <pays id="BD" libelle="Bangladesh" ohada="false"/>
+    <pays id="BB" libelle="Barbade" ohada="false"/>
+    <pays id="BY" libelle="Bélarus" ohada="false"/>
+    <pays id="BE" libelle="Belgique" ohada="false"/>
+    <pays id="BZ" libelle="Belize" ohada="false"/>
+    <pays id="BJ" libelle="Bénin" ohada="true"/>
+    <pays id="BM" libelle="Bermudes" ohada="false"/>
+    <pays id="BT" libelle="Bhoutan" ohada="false"/>
+    <pays id="BO" libelle="Bolivie" ohada="false"/>
+    <pays id="BA" libelle="Bosnie-Herzégovine" ohada="false"/>
+    <pays id="BW" libelle="Botswana" ohada="false"/>
+    <pays id="BR" libelle="Brésil" ohada="false"/>
+    <pays id="BN" libelle="Brunéi Darussalam" ohada="false"/>
+    <pays id="BG" libelle="Bulgarie" ohada="false"/>
+    <pays id="BF" libelle="Burkina Faso" ohada="true"/>
+    <pays id="BI" libelle="Burundi" ohada="false"/>
+    <pays id="KH" libelle="Cambodge" ohada="false"/>
+    <pays id="CM" libelle="Cameroun" ohada="true"/>
+    <pays id="CA" libelle="Canada" ohada="false"/>
+    <pays id="CV" libelle="Cap-vert" ohada="false"/>
+    <pays id="CL" libelle="Chili" ohada="false"/>
+    <pays id="CN" libelle="Chine" ohada="false"/>
+    <pays id="CY" libelle="Chypre" ohada="false"/>
+    <pays id="CO" libelle="Colombie" ohada="false"/>
+    <pays id="KM" libelle="Comores" ohada="true"/>
+    <pays id="CR" libelle="Costa Rica" ohada="false"/>
+    <pays id="CI" libelle="Côte d'Ivoire" ohada="true"/>
+    <pays id="HR" libelle="Croatie" ohada="false"/>
+    <pays id="CU" libelle="Cuba" ohada="false"/>
+    <pays id="DK" libelle="Danemark" ohada="false"/>
+    <pays id="DJ" libelle="Djibouti" ohada="false"/>
+    <pays id="DM" libelle="Dominique" ohada="false"/>
+    <pays id="EG" libelle="Égypte" ohada="false"/>
+    <pays id="SV" libelle="El Salvador" ohada="false"/>
+    <pays id="AE" libelle="Émirats Arabes Unis" ohada="false"/>
+    <pays id="EC" libelle="Équateur" ohada="false"/>
+    <pays id="ER" libelle="Érythrée" ohada="false"/>
+    <pays id="ES" libelle="Espagne" ohada="false"/>
+    <pays id="EE" libelle="Estonie" ohada="false"/>
+    <pays id="FM" libelle="États Fédérés de Micronésie" ohada="false"/>
+    <pays id="US" libelle="États-Unis" ohada="false"/>
+    <pays id="ET" libelle="Éthiopie" ohada="false"/>
+    <pays id="RU" libelle="Fédération de Russie" ohada="false"/>
+    <pays id="FJ" libelle="Fidji" ohada="false"/>
+    <pays id="FI" libelle="Finlande" ohada="false"/>
+    <pays id="FR" libelle="France" ohada="false"/>
+    <pays id="GA" libelle="Gabon" ohada="true"/>
+    <pays id="GM" libelle="Gambie" ohada="false"/>
+    <pays id="GE" libelle="Géorgie" ohada="false"/>
+    <pays id="GS" libelle="Géorgie du Sud et les Îles Sandwich du Sud" ohada="false"/>
+    <pays id="GH" libelle="Ghana" ohada="false"/>
+    <pays id="GI" libelle="Gibraltar" ohada="false"/>
+    <pays id="GR" libelle="Grèce" ohada="false"/>
+    <pays id="GD" libelle="Grenade" ohada="false"/>
+    <pays id="GL" libelle="Groenland" ohada="false"/>
+    <pays id="GP" libelle="Guadeloupe" ohada="false"/>
+    <pays id="GU" libelle="Guam" ohada="false"/>
+    <pays id="GT" libelle="Guatemala" ohada="false"/>
+    <pays id="GN" libelle="Guinée" ohada="true"/>
+    <pays id="GQ" libelle="Guinée Équatoriale" ohada="true"/>
+    <pays id="GW" libelle="Guinée-Bissau" ohada="true"/>
+    <pays id="GY" libelle="Guyana" ohada="false"/>
+    <pays id="GF" libelle="Guyane Française" ohada="false"/>
+    <pays id="HT" libelle="Haïti" ohada="false"/>
+    <pays id="HN" libelle="Honduras" ohada="false"/>
+    <pays id="HK" libelle="Hong-Kong" ohada="false"/>
+    <pays id="HU" libelle="Hongrie" ohada="false"/>
+    <pays id="BV" libelle="Île Bouvet" ohada="false"/>
+    <pays id="CX" libelle="Île Christmas" ohada="false"/>
+    <pays id="IM" libelle="Île de Man" ohada="false"/>
+    <pays id="NF" libelle="Île Norfolk" ohada="false"/>
+    <pays id="FK" libelle="Îles (malvinas) Falkland" ohada="false"/>
+    <pays id="AX" libelle="Îles Åland" ohada="false"/>
+    <pays id="KY" libelle="Îles Caïmanes" ohada="false"/>
+    <pays id="CC" libelle="Îles Cocos (Keeling)" ohada="false"/>
+    <pays id="CK" libelle="Îles Cook" ohada="false"/>
+    <pays id="FO" libelle="Îles Féroé" ohada="false"/>
+    <pays id="HM" libelle="Îles Heard et Mcdonald" ohada="false"/>
+    <pays id="MP" libelle="Îles Mariannes du Nord" ohada="false"/>
+    <pays id="MH" libelle="Îles Marshall" ohada="false"/>
+    <pays id="UM" libelle="Îles Mineures Éloignées des États-Unis" ohada="false"/>
+    <pays id="SB" libelle="Îles Salomon" ohada="false"/>
+    <pays id="TC" libelle="Îles Turks et Caïques" ohada="false"/>
+    <pays id="VG" libelle="Îles Vierges Britanniques" ohada="false"/>
+    <pays id="VI" libelle="Îles Vierges des États-Unis" ohada="false"/>
+    <pays id="IN" libelle="Inde" ohada="false"/>
+    <pays id="ID" libelle="Indonésie" ohada="false"/>
+    <pays id="IQ" libelle="Iraq" ohada="false"/>
+    <pays id="IE" libelle="Irlande" ohada="false"/>
+    <pays id="IS" libelle="Islande" ohada="false"/>
+    <pays id="IL" libelle="Israël" ohada="false"/>
+    <pays id="IT" libelle="Italie" ohada="false"/>
+    <pays id="LY" libelle="Jamahiriya Arabe Libyenne" ohada="false"/>
+    <pays id="JM" libelle="Jamaïque" ohada="false"/>
+    <pays id="JP" libelle="Japon" ohada="false"/>
+    <pays id="JO" libelle="Jordanie" ohada="false"/>
+    <pays id="KZ" libelle="Kazakhstan" ohada="false"/>
+    <pays id="KE" libelle="Kenya" ohada="false"/>
+    <pays id="KG" libelle="Kirghizistan" ohada="false"/>
+    <pays id="KI" libelle="Kiribati" ohada="false"/>
+    <pays id="KW" libelle="Koweït" ohada="false"/>
+    <pays id="LS" libelle="Lesotho" ohada="false"/>
+    <pays id="LV" libelle="Lettonie" ohada="false"/>
+    <pays id="MK" libelle="L'ex-République Yougoslave de Macédoine" ohada="false"/>
+    <pays id="LB" libelle="Liban" ohada="false"/>
+    <pays id="LR" libelle="Libéria" ohada="false"/>
+    <pays id="LI" libelle="Liechtenstein" ohada="false"/>
+    <pays id="LT" libelle="Lituanie" ohada="false"/>
+    <pays id="LU" libelle="Luxembourg" ohada="false"/>
+    <pays id="MO" libelle="Macao" ohada="false"/>
+    <pays id="MG" libelle="Madagascar" ohada="false"/>
+    <pays id="MY" libelle="Malaisie" ohada="false"/>
+    <pays id="MW" libelle="Malawi" ohada="false"/>
+    <pays id="MV" libelle="Maldives" ohada="false"/>
+    <pays id="ML" libelle="Mali" ohada="true"/>
+    <pays id="MT" libelle="Malte" ohada="false"/>
+    <pays id="MA" libelle="Maroc" ohada="false"/>
+    <pays id="MQ" libelle="Martinique" ohada="false"/>
+    <pays id="MU" libelle="Maurice" ohada="false"/>
+    <pays id="MR" libelle="Mauritanie" ohada="false"/>
+    <pays id="YT" libelle="Mayotte" ohada="false"/>
+    <pays id="MX" libelle="Mexique" ohada="false"/>
+    <pays id="MC" libelle="Monaco" ohada="false"/>
+    <pays id="MN" libelle="Mongolie" ohada="false"/>
+    <pays id="MS" libelle="Montserrat" ohada="false"/>
+    <pays id="MZ" libelle="Mozambique" ohada="false"/>
+    <pays id="MM" libelle="Myanmar" ohada="false"/>
+    <pays id="NA" libelle="Namibie" ohada="false"/>
+    <pays id="NR" libelle="Nauru" ohada="false"/>
+    <pays id="NP" libelle="Népal" ohada="false"/>
+    <pays id="NI" libelle="Nicaragua" ohada="false"/>
+    <pays id="NE" libelle="Niger" ohada="true"/>
+    <pays id="NG" libelle="Nigéria" ohada="false"/>
+    <pays id="NU" libelle="Niué" ohada="false"/>
+    <pays id="NO" libelle="Norvège" ohada="false"/>
+    <pays id="NC" libelle="Nouvelle-Calédonie" ohada="false"/>
+    <pays id="NZ" libelle="Nouvelle-Zélande" ohada="false"/>
+    <pays id="OM" libelle="Oman" ohada="false"/>
+    <pays id="UG" libelle="Ouganda" ohada="false"/>
+    <pays id="UZ" libelle="Ouzbékistan" ohada="false"/>
+    <pays id="PK" libelle="Pakistan" ohada="false"/>
+    <pays id="PW" libelle="Palaos" ohada="false"/>
+    <pays id="PA" libelle="Panama" ohada="false"/>
+    <pays id="PG" libelle="Papouasie-Nouvelle-Guinée" ohada="false"/>
+    <pays id="PY" libelle="Paraguay" ohada="false"/>
+    <pays id="NL" libelle="Pays-Bas" ohada="false"/>
+    <pays id="PE" libelle="Pérou" ohada="false"/>
+    <pays id="PH" libelle="Philippines" ohada="false"/>
+    <pays id="PN" libelle="Pitcairn" ohada="false"/>
+    <pays id="PL" libelle="Pologne" ohada="false"/>
+    <pays id="PF" libelle="Polynésie Française" ohada="false"/>
+    <pays id="PR" libelle="Porto Rico" ohada="false"/>
+    <pays id="PT" libelle="Portugal" ohada="false"/>
+    <pays id="QA" libelle="Qatar" ohada="false"/>
+    <pays id="SY" libelle="République Arabe Syrienne" ohada="false"/>
+    <pays id="CF" libelle="République Centrafricaine" ohada="true"/>
+    <pays id="KR" libelle="République de Corée" ohada="false"/>
+    <pays id="MD" libelle="République de Moldova" ohada="false"/>
+    <pays id="LA" libelle="République Démocratique Populaire Lao" ohada="false"/>
+    <pays id="DO" libelle="République Dominicaine" ohada="false"/>
+    <pays id="CG" libelle="République du Congo" ohada="true"/>
+    <pays id="IR" libelle="République Islamique d'Iran" ohada="false"/>
+    <pays id="KP" libelle="République Populaire Démocratique de Corée" ohada="false"/>
+    <pays id="CZ" libelle="République Tchèque" ohada="false"/>
+    <pays id="TZ" libelle="République-Unie de Tanzanie" ohada="false"/>
+    <pays id="RE" libelle="Réunion" ohada="false"/>
+    <pays id="RO" libelle="Roumanie" ohada="false"/>
+    <pays id="GB" libelle="Royaume-Uni" ohada="false"/>
+    <pays id="RW" libelle="Rwanda" ohada="false"/>
+    <pays id="EH" libelle="Sahara Occidental" ohada="false"/>
+    <pays id="SH" libelle="Sainte-Hélène" ohada="false"/>
+    <pays id="LC" libelle="Sainte-Lucie" ohada="false"/>
+    <pays id="KN" libelle="Saint-Kitts-et-Nevis" ohada="false"/>
+    <pays id="SM" libelle="Saint-Marin" ohada="false"/>
+    <pays id="PM" libelle="Saint-Pierre-et-Miquelon" ohada="false"/>
+    <pays id="VA" libelle="Saint-Siège (état de la Cité du Vatican)" ohada="false"/>
+    <pays id="VC" libelle="Saint-Vincent-et-les Grenadines" ohada="false"/>
+    <pays id="WS" libelle="Samoa" ohada="false"/>
+    <pays id="AS" libelle="Samoa Américaines" ohada="false"/>
+    <pays id="ST" libelle="Sao Tomé-et-Principe" ohada="false"/>
+    <pays id="SN" libelle="Sénégal" ohada="true"/>
+    <pays id="CS" libelle="Serbie-et-Monténégro" ohada="false"/>
+    <pays id="SC" libelle="Seychelles" ohada="false"/>
+    <pays id="SL" libelle="Sierra Leone" ohada="false"/>
+    <pays id="SG" libelle="Singapour" ohada="false"/>
+    <pays id="SK" libelle="Slovaquie" ohada="false"/>
+    <pays id="SI" libelle="Slovénie" ohada="false"/>
+    <pays id="SO" libelle="Somalie" ohada="false"/>
+    <pays id="SD" libelle="Soudan" ohada="false"/>
+    <pays id="LK" libelle="Sri Lanka" ohada="false"/>
+    <pays id="SE" libelle="Suède" ohada="false"/>
+    <pays id="CH" libelle="Suisse" ohada="false"/>
+    <pays id="SR" libelle="Suriname" ohada="false"/>
+    <pays id="SJ" libelle="Svalbard et Île Jan Mayen" ohada="false"/>
+    <pays id="SZ" libelle="Swaziland" ohada="false"/>
+    <pays id="TJ" libelle="Tadjikistan" ohada="false"/>
+    <pays id="TW" libelle="Taïwan" ohada="false"/>
+    <pays id="TD" libelle="Tchad" ohada="true"/>
+    <pays id="TF" libelle="Terres Australes Françaises" ohada="false"/>
+    <pays id="IO" libelle="Territoire Britannique de l'Océan Indien" ohada="false"/>
+    <pays id="PS" libelle="Territoire Palestinien Occupé" ohada="false"/>
+    <pays id="TH" libelle="Thaïlande" ohada="false"/>
+    <pays id="TL" libelle="Timor-Leste" ohada="false"/>
+    <pays id="TG" libelle="Togo" ohada="true"/>
+    <pays id="TK" libelle="Tokelau" ohada="false"/>
+    <pays id="TO" libelle="Tonga" ohada="false"/>
+    <pays id="TT" libelle="Trinité-et-Tobago" ohada="false"/>
+    <pays id="TN" libelle="Tunisie" ohada="false"/>
+    <pays id="TM" libelle="Turkménistan" ohada="false"/>
+    <pays id="TR" libelle="Turquie" ohada="false"/>
+    <pays id="TV" libelle="Tuvalu" ohada="false"/>
+    <pays id="UA" libelle="Ukraine" ohada="false"/>
+    <pays id="UY" libelle="Uruguay" ohada="false"/>
+    <pays id="VU" libelle="Vanuatu" ohada="false"/>
+    <pays id="VE" libelle="Venezuela" ohada="false"/>
+    <pays id="VN" libelle="Viet Nam" ohada="false"/>
+    <pays id="WF" libelle="Wallis et Futuna" ohada="false"/>
+    <pays id="YE" libelle="Yémen" ohada="false"/>
+    <pays id="ZM" libelle="Zambie" ohada="false"/>
+    <pays id="ZW" libelle="Zimbabwe" ohada="false"/>
+  </reponseDocumentation>
+</enveloppe>

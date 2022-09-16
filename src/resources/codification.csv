@@ -1,0 +1,124 @@
+CARB LRD	Citerne à hydrocarbures lourds	2022-06-16T14:23:21.076564	type_carosserie	true
+CARB LEG	Citerne à hydrocarbures légers	2022-06-16T14:23:21.026604	type_carosserie	true
+CIT GAZ	Citerne à gaz liquéfiés	2022-06-16T14:23:20.974562	type_carosserie	true
+CIT CHIM	Citerne à produits chimiques	2022-06-16T14:23:20.915564	type_carosserie	true
+CIT BETA	Citerne pour aliments du bétail	2022-06-16T14:23:20.873611	type_carosserie	true
+CIT ALTD	Citerne à produit alimentaire à température dirigée	2022-06-16T14:23:20.829609	type_carosserie	true
+CIT ALIM	Citerne à produits alimentaires	2022-06-16T14:23:20.778571	type_carosserie	true
+CASIERS	Casiers	2022-06-16T14:23:20.734599	type_carosserie	true
+BETAIL	Bétaillère	2022-06-16T14:23:20.682568	type_carosserie	true
+BEN CERE	Bennes céréalières	2022-06-16T14:23:20.638565	type_carosserie	true
+BENNE	Bennes dont le déchargement est effectué mécaniquement par le fond à l'aide d'un convoyeur à raclettes, d'une vis sans fin, etc... ou Bennes basculantes de chantier et de travaux publics	2022-06-16T14:23:20.587567	type_carosserie	true
+BEN AMO	Bennes amovibles	2022-06-16T14:23:20.544554	type_carosserie	true
+PR SREM	Pour semi-remorques	2022-06-16T14:23:20.503467	type_carosserie	true
+PR REM	Pour remorques	2022-06-16T14:23:20.442349	type_carosserie	true
+FOREST	Forestier	2022-06-16T14:23:20.396304	type_carosserie	true
+CAR	Autocar	2022-06-16T14:23:20.337499	type_carosserie	true
+BUS	Autobus	2022-06-16T14:23:20.29727	type_carosserie	true
+NON SPEC	Divers (non spécifiée)	2022-06-16T14:23:20.250269	type_carosserie	true
+HANDICAP	Handicapés	2022-06-16T14:23:20.210268	type_carosserie	true
+CIALE	Commerciale	2022-06-16T14:23:20.165501	type_carosserie	true
+BREAK	Break	2022-06-16T14:23:20.104904	type_carosserie	true
+CABR	Cabriolet	2022-06-16T14:23:20.050903	type_carosserie	true
+CI	Conduite intérieure	2022-06-16T14:23:20.003904	type_carosserie	true
+CLTRM	Cyclomoteurs non carrossés à trois roues affectés au transport de marchandises	2022-06-16T14:23:19.940904	type_carosserie	true
+CYCLM	Cyclomoteurs carrossés à trois roues affectés au transport de marchandises	2022-06-16T14:23:19.901905	type_carosserie	true
+CLTRP	Cyclomoteurs non carrossés à trois roues	2022-06-16T14:23:19.851904	type_carosserie	true
+VTTE	Cyclomoteurs carrossés à trois roues (voiturettes)	2022-06-16T14:23:19.783956	type_carosserie	true
+QLOMM	Quadricycles lourds à moteur affectés au transport de marchandises	2022-06-16T14:23:19.732906	type_carosserie	true
+QLOMP	Quadricycles lourds à moteur affectés au transport de personnes	2022-06-16T14:23:19.690904	type_carosserie	true
+QLEM	Quadricycles légers à moteur	2022-06-16T14:23:19.625178	type_carosserie	true
+TMM2	Autres tricycles affectés au transport de marchandises	2022-06-16T14:23:19.584182	type_carosserie	true
+TMM1	Tricycles de poids à vide ≤ 550 kg et puissance maximale nette CE ≤ 15 kw affectés au transport de marchandises	2022-06-16T14:23:19.544179	type_carosserie	true
+TMP2	Autres tricycles affectés au transport de personnes	2022-06-16T14:23:19.487781	type_carosserie	true
+TMP1	Tricycles dont le poids à vide n'excède pas 550 kg et dont la puissance maximale nette CE n'excède pas 15 kW affectés au transport de personnes	2022-06-16T14:23:19.435821	type_carosserie	true
+SIDE-CAR	Motocyclettes avec side-car intégré (véhicule à trois roues non symétriques)	2022-06-16T14:23:19.394784	type_carosserie	true
+SOLO-SIDE-CAR	Motocyclettes avec side-car adjoint	2022-06-16T14:23:19.347817	type_carosserie	true
+SOLO	Motocyclettes sans side-car (solo)	2022-06-16T14:23:19.293782	type_carosserie	true
+20	Motorcycles	2022-06-16T14:16:01.129886	type_vehicule	true
+6	Buses	2022-06-16T14:16:01.127746	type_vehicule	true
+5	Medium Trucks	2022-06-16T14:16:01.124889	type_vehicule	true
+4	Trailers	2022-06-16T14:16:01.121175	type_vehicule	true
+3	Heavy-Duty Tractors	2022-06-16T14:16:01.117886	type_vehicule	true
+2	light commercial	2022-06-16T14:16:01.115886	type_vehicule	true
+1	voitures	2022-06-16T14:16:01.112886	type_vehicule	true
+XXX	Autres	2022-06-16T14:16:00.860362	usage_vehicule	true
+TRP	Transport	2022-06-16T14:16:00.854905	usage_vehicule	true
+PRO	Professionnel	2022-06-16T14:16:00.850361	usage_vehicule	true
+PRV	Priv�	2022-06-16T14:16:00.804362	usage_vehicule	true
+HH	Hydrogène-Electricité (hybride non rechargeable)	2022-06-16T14:23:25.067561	energie_vehicule	true
+HE	Hydrogène-Electricité (hybride rechargeable)	2022-06-16T14:23:25.02048	energie_vehicule	true
+H2	Hydrogène	2022-06-16T14:23:24.973509	energie_vehicule	true
+AC	Air comprimé	2022-06-16T14:23:24.903288	energie_vehicule	true
+PL	Pétrole lampant	2022-06-16T14:23:24.831288	energie_vehicule	true
+GE	Mélange gazogène-essence	2022-06-16T14:23:24.788286	energie_vehicule	true
+GG	Mélange gazogène-gazole	2022-06-16T14:23:24.725288	energie_vehicule	true
+GZ	Autres hydrocarbures gazeux comprimés	2022-06-16T14:23:24.670288	energie_vehicule	true
+GA	Gazogène	2022-06-16T14:23:24.613288	energie_vehicule	true
+ET	Ethanol	2022-06-16T14:23:24.567288	energie_vehicule	true
+EL	Electricité	2022-06-16T14:23:24.519191	energie_vehicule	true
+NH	Gaz naturel-électricité (hybride non rechargeable)	2022-06-16T14:23:24.46319	energie_vehicule	true
+NE	Gaz naturel-électricité (hybride rechargeable)	2022-06-16T14:23:24.407108	energie_vehicule	true
+GN	Gaz naturel	2022-06-16T14:23:24.338521	energie_vehicule	true
+PH	Monocarburation GPL-électricité (hybride non rechargeable)	2022-06-16T14:23:24.290565	energie_vehicule	true
+PE	Monocarburation GPL-électricité (hybride rechargeable)	2022-06-16T14:23:24.240561	energie_vehicule	true
+GP	Gaz de pétrole liquéfié GPL (mélange spécial de butane et de propane, à l'exception des butane et propane commerciaux) utilisé en tant que carburant exclusif	2022-06-16T14:23:24.195522	energie_vehicule	true
+GQ	Mélange de gazole et gaz naturel (dual fuel) et électricité (hybride non rechargeable)	2022-06-16T14:23:24.137525	energie_vehicule	true
+GM	Mélange de gazole et gaz naturel (dual fuel) et électricité (hybride rechargeable)	2022-06-16T14:23:24.08656	energie_vehicule	true
+G2	Bicarburation gazole-GPL	2022-06-16T14:23:24.028415	energie_vehicule	true
+1A	Mélange de gazole et gaz naturel (véhicule dual fuel type 1A)	2022-06-16T14:23:23.971414	energie_vehicule	true
+GF	Mélange de gazole et gaz naturel (dual fuel)	2022-06-16T14:23:23.922414	energie_vehicule	true
+GH	Gazole-électricité (hybride non rechargeable)	2022-06-16T14:23:23.875413	energie_vehicule	true
+GL	Gazole-électricité (hybride rechargeable)	2022-06-16T14:23:23.811413	energie_vehicule	true
+GO	Gazole	2022-06-16T14:23:23.754415	energie_vehicule	true
+FH	Superéthanol-électricité (hybride non rechargeable)	2022-06-16T14:23:23.714326	energie_vehicule	true
+FL	Superéthanol-électricité (hybride rechargeable)	2022-06-16T14:23:23.655327	energie_vehicule	true
+FN	Bicarburation superéthanol-gaz naturel	2022-06-16T14:23:23.598326	energie_vehicule	true
+FG	Bicarburation superéthanol-GPL	2022-06-16T14:23:23.535361	energie_vehicule	true
+FE	Superéthanol	2022-06-16T14:23:23.486361	energie_vehicule	true
+EP	Bicarburation essence-gaz naturel et électricité (hybride non rechargeable)	2022-06-16T14:23:23.443444	energie_vehicule	true
+EQ	Bicarburation essence-GPL et électricité (hybride non rechargeable)	2022-06-16T14:23:23.379395	energie_vehicule	true
+EH	Essence-électricité (hybride non rechargeable)	2022-06-16T14:23:23.325359	energie_vehicule	true
+EM	Bicarburation essence-gaz naturel et électricité (hybride rechargeable)	2022-06-16T14:23:23.281358	energie_vehicule	true
+ER	Bicarburation essence-GPL et électricité (hybride rechargeable)	2022-06-16T14:23:23.213359	energie_vehicule	true
+EE	Essence électricité (hybride rechargeable)	2022-06-16T14:23:23.169473	energie_vehicule	true
+EN	Bicarburation essence-gaz naturel	2022-06-16T14:23:23.113041	energie_vehicule	true
+EG	Bicarburation essence-GPL	2022-06-16T14:23:23.058994	energie_vehicule	true
+ES	Essence	2022-06-16T14:23:23.006044	energie_vehicule	true
+AGRICOLE	Agricole	2022-06-16T14:23:22.954995	type_carosserie	true
+VOIRIE	Voirie	2022-06-16T14:23:22.899998	type_carosserie	true
+TRAVAUX	Travaux publics et industriels	2022-06-16T14:23:22.856027	type_carosserie	true
+SANITAIR	Sanitaire	2022-06-16T14:23:22.814994	type_carosserie	true
+MAGASIN	Magasin	2022-06-16T14:23:22.768035	type_carosserie	true
+INCENDIE	Incendie	2022-06-16T14:23:22.714041	type_carosserie	true
+GRUE	Grue	2022-06-16T14:23:22.65804	type_carosserie	true
+FG FUNER	Fourgon funéraire	2022-06-16T14:23:22.613261	type_carosserie	true
+FG BLIND	Fourgon blindé	2022-06-16T14:23:22.557994	type_carosserie	true
+DEPANNAG	Dépannage	2022-06-16T14:23:22.510035	type_carosserie	true
+CHAR POR	Chariot porteur	2022-06-16T14:23:22.461994	type_carosserie	true
+CARAVANE	Caravane	2022-06-16T14:23:22.413033	type_carosserie	true
+BOM	Bennes à ordures ménagères	2022-06-16T14:23:22.370994	type_carosserie	true
+BAZ FOR	Bazar forain	2022-06-16T14:23:22.323994	type_carosserie	true
+ATELIER	Atelier	2022-06-16T14:23:22.279994	type_carosserie	true
+AMBULAN	Ambulance (pour personne couchée)	2022-06-16T14:23:22.216511	type_carosserie	true
+TB	Triqueballe	2022-06-16T14:23:22.155511	type_carosserie	true
+AR FORES	Arrière-train forestier	2022-06-16T14:23:22.090511	type_carosserie	true
+AR TRAIN	Arrière-train routier	2022-06-16T14:23:22.047549	type_carosserie	true
+AV TRAIN	Avant-train routier	2022-06-16T14:23:21.997511	type_carosserie	true
+PTE CONT	Porte-conteneurs ou caisses mobiles ou amovibles	2022-06-16T14:23:21.954511	type_carosserie	true
+PTE ENG	Porte-engins	2022-06-16T14:23:21.888512	type_carosserie	true
+CHAS-CAB	Châssis-cabine	2022-06-16T14:23:21.83551	type_carosserie	true
+PLSC	Carrosserie à parois latérales souples coulissantes	2022-06-16T14:23:21.792511	type_carosserie	true
+SAVOYARD	Savoyardes	2022-06-16T14:23:21.749542	type_carosserie	true
+PTE VOIT	Porte-voitures	2022-06-16T14:23:21.693438	type_carosserie	true
+PTE FER	Porte-fers	2022-06-16T14:23:21.625438	type_carosserie	true
+PTE BAT	Porte-bateau	2022-06-16T14:23:21.578572	type_carosserie	true
+PLATEAU	Plateau	2022-06-16T14:23:21.534479	type_carosserie	true
+BETON	Bétonnière	2022-06-16T14:23:21.478516	type_carosserie	true
+DERIV VP	Fourgonnette dérivée de VP	2022-06-16T14:23:21.425475	type_carosserie	true
+FG TD	Fourgon à température dirigée	2022-06-16T14:23:21.381969	type_carosserie	true
+FOURGON	Fourgon avec parois et toit rigides	2022-06-16T14:23:21.332477	type_carosserie	true
+BACHE	Fourgon bâché avec parois rigides	2022-06-16T14:23:21.286437	type_carosserie	true
+CIT PULV	Citerne à produits pulvérulents ou granulaires	2022-06-16T14:23:21.238439	type_carosserie	true
+CIT EAU	Citerne à eau	2022-06-16T14:23:21.190439	type_carosserie	true
+CIT VID	Citerne à vidange	2022-06-16T14:23:21.144427	type_carosserie	true

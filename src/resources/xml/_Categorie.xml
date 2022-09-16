@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<enveloppe id="490000017" identifiant="ARCA" timestamp="2022-06-24T08:41:22.336324">
+  <reponseDocumentation id="934942325">
+    <categorie actif="true">
+      <code>VTMRC</code>
+      <libelle>RC véhicule terrestre à moteur</libelle>
+      <branche idBranche="10">
+        <libelle>10 - Responsabilité civile des véhicules terrestres automoteurs</libelle>
+        <nomBranche>IARD</nomBranche>
+      </branche>
+    </categorie>
+    <categorie actif="true">
+      <code>VTMDA</code>
+      <libelle>Dommages tous accidents véhicule</libelle>
+      <branche idBranche="03">
+        <libelle>03 - Dommages des véhicules terrestres</libelle>
+        <nomBranche>IARD</nomBranche>
+      </branche>
+    </categorie>
+    <categorie actif="true">
+      <code>VTMIN</code>
+      <libelle>Incendie véhicule terrestres</libelle>
+      <branche idBranche="08">
+        <libelle>08 - Incendie et les éléments naturels</libelle>
+        <nomBranche>IARD</nomBranche>
+      </branche>
+    </categorie>
+    <categorie actif="true">
+      <code>VTMVL</code>
+      <libelle>Vol véhicule terrestres</libelle>
+      <branche idBranche="09">
+        <libelle>09 - Autres dommages aux biens</libelle>
+        <nomBranche>IARD</nomBranche>
+      </branche>
+    </categorie>
+    <categorie actif="true">
+      <code>VTMBG</code>
+      <libelle>Bris de glace véhicule terrestres</libelle>
+      <branche idBranche="09">
+        <libelle>09 - Autres dommages aux biens</libelle>
+        <nomBranche>IARD</nomBranche>
+      </branche>
+    </categorie>
+    <categorie actif="true">
+      <code>VTMOC</code>
+      <libelle>Occupant véhicule terrestres</libelle>
+      <branche idBranche="01">
+        <libelle>01 - Accidents corporels</libelle>
+        <nomBranche>IARD</nomBranche>
+      </branche>
+    </categorie>
+  </reponseDocumentation>
+</enveloppe>

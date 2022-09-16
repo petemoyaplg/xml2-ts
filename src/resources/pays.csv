@@ -1,0 +1,241 @@
+﻿483;CD;République Démocratique du Congo;true
+484;AF;Afghanistan;false
+485;ZA;Afrique du Sud;false
+486;AL;Albanie;false
+487;DZ;Algérie;false
+488;DE;Allemagne;false
+489;AD;Andorre;false
+490;AO;Angola;false
+491;AI;Anguilla;false
+492;AQ;Antarctique;false
+493;AG;Antigua-et-Barbuda;false
+494;AN;Antilles Néerlandaises;false
+495;SA;Arabie Saoudite;false
+496;AR;Argentine;false
+497;AM;Arménie;false
+498;AW;Aruba;false
+499;AU;Australie;false
+500;AT;Autriche;false
+501;AZ;Azerbaïdjan;false
+502;BS;Bahamas;false
+503;BH;Bahreïn;false
+504;BD;Bangladesh;false
+505;BB;Barbade;false
+506;BY;Bélarus;false
+507;BE;Belgique;false
+508;BZ;Belize;false
+509;BJ;Bénin;true
+510;BM;Bermudes;false
+511;BT;Bhoutan;false
+512;BO;Bolivie;false
+513;BA;Bosnie-Herzégovine;false
+514;BW;Botswana;false
+515;BR;Brésil;false
+516;BN;Brunéi Darussalam;false
+517;BG;Bulgarie;false
+518;BF;Burkina Faso;true
+519;BI;Burundi;false
+520;KH;Cambodge;false
+521;CM;Cameroun;true
+522;CA;Canada;false
+523;CV;Cap-vert;false
+524;CL;Chili;false
+525;CN;Chine;false
+526;CY;Chypre;false
+527;CO;Colombie;false
+528;KM;Comores;true
+529;CR;Costa Rica;false
+530;CI;Côte d'Ivoire;true
+531;HR;Croatie;false
+532;CU;Cuba;false
+533;DK;Danemark;false
+534;DJ;Djibouti;false
+535;DM;Dominique;false
+536;EG;Égypte;false
+537;SV;El Salvador;false
+538;AE;Émirats Arabes Unis;false
+539;EC;Équateur;false
+540;ER;Érythrée;false
+541;ES;Espagne;false
+542;EE;Estonie;false
+543;FM;États Fédérés de Micronésie;false
+544;US;États-Unis;false
+545;ET;Éthiopie;false
+546;RU;Fédération de Russie;false
+547;FJ;Fidji;false
+548;FI;Finlande;false
+549;FR;France;false
+550;GA;Gabon;true
+551;GM;Gambie;false
+552;GE;Géorgie;false
+553;GS;Géorgie du Sud et les Îles Sandwich du Sud;false
+554;GH;Ghana;false
+555;GI;Gibraltar;false
+556;GR;Grèce;false
+557;GD;Grenade;false
+558;GL;Groenland;false
+559;GP;Guadeloupe;false
+560;GU;Guam;false
+561;GT;Guatemala;false
+562;GN;Guinée;true
+563;GQ;Guinée Équatoriale;true
+564;GW;Guinée-Bissau;true
+565;GY;Guyana;false
+566;GF;Guyane Française;false
+567;HT;Haïti;false
+568;HN;Honduras;false
+569;HK;Hong-Kong;false
+570;HU;Hongrie;false
+571;BV;Île Bouvet;false
+572;CX;Île Christmas;false
+573;IM;Île de Man;false
+574;NF;Île Norfolk;false
+575;FK;Îles (malvinas) Falkland;false
+576;AX;Îles Åland;false
+577;KY;Îles Caïmanes;false
+578;CC;Îles Cocos (Keeling);false
+579;CK;Îles Cook;false
+580;FO;Îles Féroé;false
+581;HM;Îles Heard et Mcdonald;false
+582;MP;Îles Mariannes du Nord;false
+583;MH;Îles Marshall;false
+584;UM;Îles Mineures Éloignées des États-Unis;false
+585;SB;Îles Salomon;false
+586;TC;Îles Turks et Caïques;false
+587;VG;Îles Vierges Britanniques;false
+588;VI;Îles Vierges des États-Unis;false
+589;IN;Inde;false
+590;ID;Indonésie;false
+591;IQ;Iraq;false
+592;IE;Irlande;false
+593;IS;Islande;false
+594;IL;Israël;false
+595;IT;Italie;false
+596;LY;Jamahiriya Arabe Libyenne;false
+597;JM;Jamaïque;false
+598;JP;Japon;false
+599;JO;Jordanie;false
+600;KZ;Kazakhstan;false
+601;KE;Kenya;false
+602;KG;Kirghizistan;false
+603;KI;Kiribati;false
+604;KW;Koweït;false
+605;LS;Lesotho;false
+606;LV;Lettonie;false
+607;MK;L'ex-République Yougoslave de Macédoine;false
+608;LB;Liban;false
+609;LR;Libéria;false
+610;LI;Liechtenstein;false
+611;LT;Lituanie;false
+612;LU;Luxembourg;false
+613;MO;Macao;false
+614;MG;Madagascar;false
+615;MY;Malaisie;false
+616;MW;Malawi;false
+617;MV;Maldives;false
+618;ML;Mali;true
+619;MT;Malte;false
+620;MA;Maroc;false
+621;MQ;Martinique;false
+622;MU;Maurice;false
+623;MR;Mauritanie;false
+624;YT;Mayotte;false
+625;MX;Mexique;false
+626;MC;Monaco;false
+627;MN;Mongolie;false
+628;MS;Montserrat;false
+629;MZ;Mozambique;false
+630;MM;Myanmar;false
+631;NA;Namibie;false
+632;NR;Nauru;false
+633;NP;Népal;false
+634;NI;Nicaragua;false
+635;NE;Niger;true
+636;NG;Nigéria;false
+637;NU;Niué;false
+638;NO;Norvège;false
+639;NC;Nouvelle-Calédonie;false
+640;NZ;Nouvelle-Zélande;false
+641;OM;Oman;false
+642;UG;Ouganda;false
+643;UZ;Ouzbékistan;false
+644;PK;Pakistan;false
+645;PW;Palaos;false
+646;PA;Panama;false
+647;PG;Papouasie-Nouvelle-Guinée;false
+648;PY;Paraguay;false
+649;NL;Pays-Bas;false
+650;PE;Pérou;false
+651;PH;Philippines;false
+652;PN;Pitcairn;false
+653;PL;Pologne;false
+654;PF;Polynésie Française;false
+655;PR;Porto Rico;false
+656;PT;Portugal;false
+657;QA;Qatar;false
+658;SY;République Arabe Syrienne;false
+659;CF;République Centrafricaine;true
+660;KR;République de Corée;false
+661;MD;République de Moldova;false
+662;LA;République Démocratique Populaire Lao;false
+663;DO;République Dominicaine;false
+664;CG;République du Congo;true
+665;IR;République Islamique d'Iran;false
+666;KP;République Populaire Démocratique de Corée;false
+667;CZ;République Tchèque;false
+668;TZ;République-Unie de Tanzanie;false
+669;RE;Réunion;false
+670;RO;Roumanie;false
+671;GB;Royaume-Uni;false
+672;RW;Rwanda;false
+673;EH;Sahara Occidental;false
+674;SH;Sainte-Hélène;false
+675;LC;Sainte-Lucie;false
+676;KN;Saint-Kitts-et-Nevis;false
+677;SM;Saint-Marin;false
+678;PM;Saint-Pierre-et-Miquelon;false
+679;VA;Saint-Siège (état de la Cité du Vatican);false
+680;VC;Saint-Vincent-et-les Grenadines;false
+681;WS;Samoa;false
+682;AS;Samoa Américaines;false
+683;ST;Sao Tomé-et-Principe;false
+684;SN;Sénégal;true
+685;CS;Serbie-et-Monténégro;false
+686;SC;Seychelles;false
+687;SL;Sierra Leone;false
+688;SG;Singapour;false
+689;SK;Slovaquie;false
+690;SI;Slovénie;false
+691;SO;Somalie;false
+692;SD;Soudan;false
+693;LK;Sri Lanka;false
+694;SE;Suède;false
+695;CH;Suisse;false
+696;SR;Suriname;false
+697;SJ;Svalbard et Île Jan Mayen;false
+698;SZ;Swaziland;false
+699;TJ;Tadjikistan;false
+700;TW;Taïwan;false
+701;TD;Tchad;true
+702;TF;Terres Australes Françaises;false
+703;IO;Territoire Britannique de l'Océan Indien;false
+704;PS;Territoire Palestinien Occupé;false
+705;TH;Thaïlande;false
+706;TL;Timor-Leste;false
+707;TG;Togo;true
+708;TK;Tokelau;false
+709;TO;Tonga;false
+710;TT;Trinité-et-Tobago;false
+711;TN;Tunisie;false
+712;TM;Turkménistan;false
+713;TR;Turquie;false
+714;TV;Tuvalu;false
+715;UA;Ukraine;false
+716;UY;Uruguay;false
+717;VU;Vanuatu;false
+718;VE;Venezuela;false
+719;VN;Viet Nam;false
+720;WF;Wallis et Futuna;false
+721;YE;Yémen;false
+722;ZM;Zambie;false
+723;ZW;Zimbabwe;false

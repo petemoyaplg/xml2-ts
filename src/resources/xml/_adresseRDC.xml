@@ -1,0 +1,1921 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<enveloppe id="490000016" identifiant="ARCA" timestamp="2022-06-24T08:38:12.2731835">
+  <reponseDocumentation id="934942324">
+    <province code="P/Bas-Uele" libelle="Bas-Uele">
+      <villes>
+        <ville code="T/Aketi" libelle="Territoire d'Aketi">
+          <commune code="C/Avuru-Duma" libelle="Chefferie Avuru-Duma"/>
+          <commune code="C/Avuru-Gatanga" libelle="Chefferie Avuru-Gatanga"/>
+          <commune code="C/Bondongola" libelle="Chefferie Bondongola"/>
+          <commune code="S/Kilongwandi (Mongwandi)" libelle="Secteur Kilongwandi (Mongwandi)"/>
+          <commune code="S/Mabinza" libelle="Secteur Mabinza"/>
+          <commune code="C/Mobati-Boyele" libelle="Chefferie Mobati-Boyele"/>
+          <commune code="S/Ngbongi" libelle="Secteur Ngbongi"/>
+          <commune code="S/Yoko" libelle="Secteur Yoko"/>
+          <commune code="C/Likati" libelle="Likati"/>
+        </ville>
+        <ville code="T/Ango" libelle="Territoire d'Ango">
+          <commune code="C/Ezo" libelle="Chefferie Ezo"/>
+          <commune code="C/Mopoy" libelle="Chefferie Mopoy"/>
+          <commune code="C/Ngindo" libelle="Chefferie Ngindo"/>
+          <commune code="C/Sasa" libelle="Chefferie Sasa"/>
+          <commune code="C/Ango" libelle="Ango"/>
+          <commune code="C/Dakwa" libelle="Dakwa"/>
+        </ville>
+        <ville code="T/Bambesa" libelle="Territoire de Bambesa">
+          <commune code="C/Bakete" libelle="Chefferie Bakete"/>
+          <commune code="C/Bolungwa" libelle="Chefferie Bolungwa"/>
+          <commune code="C/Bokapo" libelle="Chefferie Bokapo"/>
+          <commune code="C/Mondongwale" libelle="Chefferie Mondongwale"/>
+          <commune code="C/Bokiba" libelle="Chefferie Bokiba"/>
+          <commune code="C/Makere I" libelle="Chefferie Makere I"/>
+          <commune code="C/Makere II" libelle="Chefferie Makere II"/>
+          <commune code="C/Makere-Bakete" libelle="Chefferie Makere-Bakete"/>
+          <commune code="C/Mange" libelle="Chefferie Mange"/>
+          <commune code="C/Bambesa" libelle="Bambesa"/>
+          <commune code="C/Zobia" libelle="Zobia"/>
+        </ville>
+        <ville code="T/Bondo" libelle="Territoire de Bondo">
+          <commune code="C/Biamange" libelle="Chefferie Biamange"/>
+          <commune code="C/Bosso" libelle="Chefferie Bosso"/>
+          <commune code="C/Deni" libelle="Chefferie Deni"/>
+          <commune code="C/Duaru" libelle="Chefferie Duaru"/>
+          <commune code="C/Gama" libelle="Chefferie Gama"/>
+          <commune code="C/Gaya" libelle="Chefferie Gaya"/>
+          <commune code="C/Goa" libelle="Chefferie Goa"/>
+          <commune code="C/Kasa (Bondo)" libelle="Chefferie Kasa (Bondo)"/>
+          <commune code="C/Mobenge-Mondila" libelle="Chefferie Mobenge-Mondila"/>
+          <commune code="C/Soa" libelle="Chefferie Soa"/>
+          <commune code="C/Baye" libelle="Baye"/>
+          <commune code="C/Bili" libelle="Bili"/>
+          <commune code="C/Monga" libelle="Monga"/>
+          <commune code="C/Ndu" libelle="Ndu"/>
+        </ville>
+        <ville code="T/Poko" libelle="Territoire de Poko">
+          <commune code="S/Abarambo" libelle="Secteur Abarambo"/>
+          <commune code="S/Babena" libelle="Secteur Babena"/>
+          <commune code="C/Bakangaie-Avuru" libelle="Chefferie Bakangaie-Avuru"/>
+          <commune code="C/Gamu" libelle="Chefferie Gamu"/>
+          <commune code="S/Kembisa" libelle="Secteur Kembisa"/>
+          <commune code="C/Kipate" libelle="Chefferie Kipate"/>
+          <commune code="C/Kumendeni" libelle="Chefferie Kumendeni"/>
+          <commune code="C/Mabanga" libelle="Chefferie Mabanga"/>
+          <commune code="C/Madi" libelle="Chefferie Madi"/>
+          <commune code="C/Malele" libelle="Chefferie Malele"/>
+          <commune code="C/Ngbaradi" libelle="Chefferie Ngbaradi"/>
+          <commune code="C/Soronga" libelle="Chefferie Soronga"/>
+          <commune code="C/Zune" libelle="Chefferie Zune"/>
+          <commune code="C/Poko" libelle="Poko"/>
+        </ville>
+        <ville code="T/Buta" libelle="Territoire de Buta">
+          <commune code="C/Barisi-Mongingita" libelle="Chefferie Barisi-Mongingita"/>
+          <commune code="C/Bayeu-Bogbama" libelle="Chefferie Bayeu-Bogbama"/>
+          <commune code="C/Bayeu-Bogongea" libelle="Chefferie Bayeu-Bogongea"/>
+          <commune code="C/Mobati" libelle="Chefferie Mobati"/>
+          <commune code="C/Monganzulu" libelle="Chefferie Monganzulu"/>
+          <commune code="C/Nguru" libelle="Chefferie Nguru"/>
+          <commune code="C/Titule" libelle="Titule"/>
+        </ville>
+        <ville code="V/Aketi" libelle="Aketi">
+          <commune code="C/Itimbiri" libelle="Itimbiri"/>
+          <commune code="C/Ngbongade" libelle="Ngbongade"/>
+          <commune code="C/Tinda" libelle="Tinda"/>
+        </ville>
+        <ville code="V/Bondo" libelle="Bondo">
+          <commune code="C/Bondo" libelle="Bondo"/>
+          <commune code="C/Uele" libelle="Uele"/>
+          <commune code="C/Zagili" libelle="Zagili"/>
+        </ville>
+        <ville code="V/Buta" libelle="Buta">
+          <commune code="C/Babade" libelle="Babade"/>
+          <commune code="C/Dobea" libelle="Dobea"/>
+          <commune code="C/Finant" libelle="Finant"/>
+          <commune code="C/Tepatondele" libelle="Tepatondele"/>
+        </ville>
+        <ville code="V/Dingila" libelle="Dingila">
+          <commune code="C/Bambili" libelle="Bambili"/>
+          <commune code="C/Dingila" libelle="Dingila"/>
+          <commune code="C/Tobola" libelle="Tobola"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Equateur" libelle="Equateur">
+      <villes>
+        <ville code="V/Mbandaka" libelle="Mbandaka">
+          <commune code="C/Mbandaka" libelle="Mbandaka"/>
+          <commune code="C/Wangata" libelle="Wangata"/>
+        </ville>
+        <ville code="T/Basankusu" libelle="Territoire de Basankusu">
+          <commune code="S/Basankusu" libelle="Secteur Basankusu"/>
+          <commune code="S/Gombalo" libelle="Secteur Gombalo"/>
+          <commune code="S/Waka-Bokeka" libelle="Secteur Waka-Bokeka"/>
+          <commune code="C/Bokakata" libelle="Bokakata"/>
+        </ville>
+        <ville code="T/Bikoro" libelle="Territoire de Bikoro">
+          <commune code="S/Ekonda" libelle="Secteur Ekonda"/>
+          <commune code="S/Elanga" libelle="Secteur Elanga"/>
+          <commune code="S/Lac Ntomba" libelle="Secteur Lac Ntomba"/>
+          <commune code="C/Bikoro" libelle="Bikoro"/>
+        </ville>
+        <ville code="T/Bolomba" libelle="Territoire de Bolomba">
+          <commune code="S/Bolomba" libelle="Secteur Bolomba"/>
+          <commune code="S/Busira" libelle="Secteur Busira"/>
+          <commune code="C/Dianga" libelle="Chefferie Dianga"/>
+          <commune code="S/Lusanganya" libelle="Secteur Lusanganya"/>
+          <commune code="S/Mampoko" libelle="Secteur Mampoko"/>
+          <commune code="C/Bolomba" libelle="Bolomba"/>
+        </ville>
+        <ville code="T/Ingende" libelle="Territoire d'Ingende">
+          <commune code="S/Bokatola" libelle="Secteur Bokatola"/>
+          <commune code="S/Duali" libelle="Secteur Duali"/>
+          <commune code="S/Eungu" libelle="Secteur Eungu"/>
+          <commune code="C/Ingende" libelle="Ingende"/>
+        </ville>
+        <ville code="T/Bomongo" libelle="Territoire de Bomongo">
+          <commune code="S/Djamba" libelle="Secteur Djamba"/>
+          <commune code="S/Ngiri" libelle="Secteur Ngiri"/>
+          <commune code="C/Bomongo" libelle="Bomongo"/>
+        </ville>
+        <ville code="T/Mankanza" libelle="Territoire de Mankanza">
+          <commune code="S/Bangala" libelle="Secteur Bangala"/>
+          <commune code="S/Moeko" libelle="Secteur Moeko"/>
+          <commune code="S/Ndobo" libelle="Secteur Ndobo"/>
+          <commune code="C/Makanza" libelle="Makanza"/>
+        </ville>
+        <ville code="T/Lukolela" libelle="Territoire de Lukolela">
+          <commune code="S/Mpama" libelle="Secteur Mpama"/>
+          <commune code="S/Banunu" libelle="Secteur Banunu"/>
+          <commune code="S/Lusakany" libelle="Secteur Lusakany"/>
+          <commune code="C/Lukolela (Lukolela)" libelle="Lukolela (Lukolela)"/>
+        </ville>
+        <ville code="V/Basankusu" libelle="Basankusu">
+          <commune code="C/Baenga" libelle="Baenga"/>
+          <commune code="C/Basankusu" libelle="Basankusu"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Haut-Katanga" libelle="Haut-Katanga">
+      <villes>
+        <ville code="V/Lubumbashi" libelle="Lubumbashi">
+          <commune code="C/Kamalondo" libelle="Kamalondo"/>
+          <commune code="C/Kampemba" libelle="Kampemba"/>
+          <commune code="C/Katuba" libelle="Katuba"/>
+          <commune code="C/Kenya" libelle="Kenya"/>
+          <commune code="C/Lubumbashi" libelle="Lubumbashi"/>
+          <commune code="C/Ruashi" libelle="Ruashi"/>
+          <commune code="C/Annexe" libelle="Annexe"/>
+        </ville>
+        <ville code="V/Likasi" libelle="Likasi">
+          <commune code="C/Kikula" libelle="Kikula"/>
+          <commune code="C/Likasi" libelle="Likasi"/>
+          <commune code="C/Panda" libelle="Panda"/>
+          <commune code="C/Shituru" libelle="Shituru"/>
+        </ville>
+        <ville code="T/Kambove" libelle="Territoire de Kambove">
+          <commune code="C/Basanga" libelle="Chefferie Basanga"/>
+          <commune code="S/Lufira" libelle="Secteur Lufira"/>
+          <commune code="S/Sources du Congo" libelle="Secteur Sources du Congo"/>
+          <commune code="C/Kambove" libelle="Kambove"/>
+        </ville>
+        <ville code="T/Kasenga" libelle="Territoire de Kasenga">
+          <commune code="S/Bakunda" libelle="Secteur Bakunda"/>
+          <commune code="S/Kafira" libelle="Secteur Kafira"/>
+          <commune code="S/Kisamamba" libelle="Secteur Kisamamba"/>
+          <commune code="S/Luapula" libelle="Secteur Luapula"/>
+          <commune code="C/Kasenga (Kasenga)" libelle="Kasenga (Kasenga)"/>
+        </ville>
+        <ville code="T/Kipushi" libelle="Territoire de Kipushi">
+          <commune code="S/Bukanda" libelle="Secteur Bukanda"/>
+          <commune code="C/Kaponda" libelle="Chefferie Kaponda"/>
+          <commune code="C/Kinyama" libelle="Chefferie Kinyama"/>
+        </ville>
+        <ville code="T/Mitwaba" libelle="Territoire de Mitwaba">
+          <commune code="S/Balomotwa" libelle="Secteur Balomotwa"/>
+          <commune code="S/Banweshi" libelle="Secteur Banweshi"/>
+          <commune code="C/Kiona-Ngoie" libelle="Chefferie Kiona-Ngoie"/>
+          <commune code="C/Mitwaba" libelle="Mitwaba"/>
+        </ville>
+        <ville code="T/Pweto" libelle="Territoire de Pweto">
+          <commune code="C/Kiona-Nzini" libelle="Chefferie Kiona-Nzini"/>
+          <commune code="S/Moero" libelle="Secteur Moero"/>
+          <commune code="C/M'pweto" libelle="Chefferie M'pweto"/>
+          <commune code="C/Mwenge" libelle="Chefferie Mwenge"/>
+          <commune code="C/Kilwa" libelle="Kilwa"/>
+          <commune code="C/Pwelo" libelle="Pwelo"/>
+        </ville>
+        <ville code="T/Sakania" libelle="Territoire de Sakania">
+          <commune code="S/Balala" libelle="Secteur Balala"/>
+          <commune code="S/Balamba" libelle="Secteur Balamba"/>
+          <commune code="S/Baushi" libelle="Secteur Baushi"/>
+          <commune code="C/Mokambo (Sakania)" libelle="Mokambo (Sakania)"/>
+          <commune code="C/Musoshi-Kasumbalesa" libelle="Musoshi-Kasumbalesa"/>
+          <commune code="C/Sakania" libelle="Sakania"/>
+        </ville>
+        <ville code="V/Kipushi" libelle="Kipushi">
+          <commune code="C/Kipushi" libelle="Kipushi"/>
+          <commune code="C/Katapula" libelle="Katapula"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Haut-Lomami" libelle="Haut-Lomami">
+      <villes>
+        <ville code="T/Bukama" libelle="Territoire de Bukama">
+          <commune code="C/Butumba" libelle="Chefferie Butumba"/>
+          <commune code="C/Kabondo Dianda" libelle="Chefferie Kabondo Dianda"/>
+          <commune code="C/Kibanda" libelle="Chefferie Kibanda"/>
+          <commune code="C/Kinkondja" libelle="Chefferie Kinkondja"/>
+          <commune code="S/Lualaba" libelle="Secteur Lualaba"/>
+          <commune code="S/Kapamay" libelle="Secteur Kapamay"/>
+          <commune code="C/Bukama" libelle="Bukama"/>
+          <commune code="C/Luena" libelle="Luena"/>
+        </ville>
+        <ville code="T/Kabongo" libelle="Territoire de Kabongo">
+          <commune code="C/Kabongo" libelle="Chefferie Kabongo"/>
+          <commune code="C/Kayamba" libelle="Chefferie Kayamba"/>
+          <commune code="S/Nord-Baluba" libelle="Secteur Nord-Baluba"/>
+        </ville>
+        <ville code="T/Kamina" libelle="Territoire de Kamina">
+          <commune code="C/Kasongo-Nyembo" libelle="Chefferie Kasongo-Nyembo"/>
+          <commune code="S/Kinda" libelle="Secteur Kinda"/>
+        </ville>
+        <ville code="T/Kaniama" libelle="Territoire de Kaniama">
+          <commune code="C/Mutombo-Mukulu" libelle="Chefferie Mutombo-Mukulu"/>
+          <commune code="C/Kaniama" libelle="Kaniama"/>
+        </ville>
+        <ville code="T/Malemba-Nkulu" libelle="Territoire de Malemba-Nkulu">
+          <commune code="S/Badia" libelle="Secteur Badia"/>
+          <commune code="C/Kayumba" libelle="Chefferie Kayumba"/>
+          <commune code="C/Mulongo" libelle="Chefferie Mulongo"/>
+          <commune code="C/Museka" libelle="Chefferie Museka"/>
+          <commune code="S/Mwanza" libelle="Secteur Mwanza"/>
+          <commune code="C/Nkulu" libelle="Chefferie Nkulu"/>
+        </ville>
+        <ville code="V/Kamina" libelle="Kamina">
+          <commune code="C/Dimayi" libelle="Dimayi"/>
+          <commune code="C/Kamina" libelle="Kamina"/>
+          <commune code="C/Sobongo" libelle="Sobongo"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Haut-Uele" libelle="Haut-Uele">
+      <villes>
+        <ville code="T/Dungu" libelle="Territoire de Dungu">
+          <commune code="C/Malingindu" libelle="Chefferie Malingindu"/>
+          <commune code="C/Ndolomo (Duruma)" libelle="Chefferie Ndolomo (Duruma)"/>
+          <commune code="C/Wando" libelle="Chefferie Wando"/>
+          <commune code="C/Doruma" libelle="Doruma"/>
+          <commune code="C/Ndedu" libelle="Ndedu"/>
+        </ville>
+        <ville code="T/Rungu" libelle="Territoire de Rungu">
+          <commune code="C/Mayogo-Mabozo" libelle="Chefferie Mayogo-Mabozo"/>
+          <commune code="C/Azanga" libelle="Chefferie Azanga"/>
+          <commune code="C/Mayogo-Magbay" libelle="Chefferie Mayogo-Magbay"/>
+          <commune code="C/Mongo-Masi" libelle="Chefferie Mongo-Masi"/>
+          <commune code="C/Mboli" libelle="Chefferie Mboli"/>
+          <commune code="C/Medje-Mango" libelle="Chefferie Medje-Mango"/>
+          <commune code="C/Ndey" libelle="Chefferie Ndey"/>
+          <commune code="C/Rungu" libelle="Rungu"/>
+        </ville>
+        <ville code="T/Wamba" libelle="Territoire de Wamba">
+          <commune code="C/Bafwakoy" libelle="Chefferie Bafwakoy"/>
+          <commune code="C/Mabudu-Malika-Babeyru" libelle="Chefferie Mabudu-Malika-Babeyru"/>
+          <commune code="C/Mahaa" libelle="Chefferie Mahaa"/>
+          <commune code="C/Bafwagada" libelle="Chefferie Bafwagada"/>
+          <commune code="C/Balika-Toriko" libelle="Chefferie Balika-Toriko"/>
+          <commune code="C/Makoda" libelle="Chefferie Makoda"/>
+          <commune code="C/Malamba" libelle="Chefferie Malamba"/>
+          <commune code="C/Malika" libelle="Chefferie Malika"/>
+          <commune code="C/Mangbele (Wamba)" libelle="Chefferie Mangbele (Wamba)"/>
+          <commune code="C/Timoniko" libelle="Chefferie Timoniko"/>
+          <commune code="C/Wadimbisa-Mabudu" libelle="Chefferie Wadimbisa-Mabudu"/>
+          <commune code="C/Ibambi" libelle="Ibambi"/>
+        </ville>
+        <ville code="T/Watsa" libelle="Territoire de Watsa">
+          <commune code="C/Andikofa" libelle="Chefferie Andikofa"/>
+          <commune code="C/Andobi" libelle="Chefferie Andobi"/>
+          <commune code="C/Ateru" libelle="Chefferie Ateru"/>
+          <commune code="S/Gombari" libelle="Secteur Gombari"/>
+          <commune code="C/Kebo" libelle="Chefferie Kebo"/>
+          <commune code="S/Kibali" libelle="Secteur Kibali"/>
+          <commune code="S/Mangbutu" libelle="Secteur Mangbutu"/>
+          <commune code="S/Mari-Minza" libelle="Secteur Mari-Minza"/>
+          <commune code="C/Walese" libelle="Chefferie Walese"/>
+        </ville>
+        <ville code="T/Niangara" libelle="Territoire de Niangara">
+          <commune code="C/Boemi" libelle="Chefferie Boemi"/>
+          <commune code="C/Kereboro" libelle="Chefferie Kereboro"/>
+          <commune code="C/Kopa" libelle="Chefferie Kopa"/>
+          <commune code="C/Mangbele (Niangara)" libelle="Chefferie Mangbele (Niangara)"/>
+          <commune code="C/Mangbetu-Mabisanga" libelle="Chefferie Mangbetu-Mabisanga"/>
+          <commune code="C/Manziga" libelle="Chefferie Manziga"/>
+          <commune code="C/Okondo" libelle="Chefferie Okondo"/>
+          <commune code="C/Niangara" libelle="Niangara"/>
+        </ville>
+        <ville code="T/Faradje" libelle="Territoire de Faradje">
+          <commune code="C/Dongo" libelle="Chefferie Dongo"/>
+          <commune code="C/Kakwa-Lamada" libelle="Chefferie Kakwa-Lamada"/>
+          <commune code="C/Logo-Bagela" libelle="Chefferie Logo-Bagela"/>
+          <commune code="C/Logo-Doka" libelle="Chefferie Logo-Doka"/>
+          <commune code="C/Logo-Lolia" libelle="Chefferie Logo-Lolia"/>
+          <commune code="C/Logo-Obeleba" libelle="Chefferie Logo-Obeleba"/>
+          <commune code="C/Logo-Ogambi" libelle="Chefferie Logo-Ogambi"/>
+          <commune code="C/Mondo" libelle="Chefferie Mondo"/>
+          <commune code="C/Faradje" libelle="Faradje"/>
+          <commune code="C/Makoro" libelle="Makoro"/>
+          <commune code="C/Tadu" libelle="Tadu"/>
+        </ville>
+        <ville code="V/Aba" libelle="Aba">
+          <commune code="C/Laskuri" libelle="Laskuri"/>
+          <commune code="C/Sambali" libelle="Sambali"/>
+          <commune code="C/Zungbi" libelle="Zungbi"/>
+        </ville>
+        <ville code="V/Dungu" libelle="Dungu">
+          <commune code="C/Bamokandi" libelle="Bamokandi"/>
+          <commune code="C/Dungu-Uye" libelle="Dungu-Uye"/>
+          <commune code="C/Ngilima" libelle="Ngilima"/>
+        </ville>
+        <ville code="V/Isiro" libelle="Isiro">
+          <commune code="C/Kupa" libelle="Kupa"/>
+          <commune code="C/Mambaya" libelle="Mambaya"/>
+          <commune code="C/Mendambo" libelle="Mendambo"/>
+        </ville>
+        <ville code="V/Wamba" libelle="Wamba">
+          <commune code="C/Anoalite" libelle="Anoalite"/>
+          <commune code="C/Nepeko" libelle="Nepeko"/>
+          <commune code="C/Wamba" libelle="Wamba"/>
+        </ville>
+        <ville code="V/Watsa" libelle="Watsa">
+          <commune code="C/Gandza" libelle="Gandza"/>
+          <commune code="C/Kibali" libelle="Kibali"/>
+          <commune code="C/Mangoro" libelle="Mangoro"/>
+          <commune code="C/Mongali" libelle="Mongali"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Ituri" libelle="Ituri">
+      <villes>
+        <ville code="T/Djugu" libelle="Territoire de Djugu">
+          <commune code="C/Bahema-Badjere" libelle="Chefferie Bahema-Badjere"/>
+          <commune code="S/Banyali-Kilo" libelle="Secteur Banyali-Kilo"/>
+          <commune code="C/Mambisa" libelle="Chefferie Mambisa"/>
+          <commune code="S/Walendu-Djatsi" libelle="Secteur Walendu-Djatsi"/>
+          <commune code="C/Bahema-Banywagi" libelle="Chefferie Bahema-Banywagi"/>
+          <commune code="C/Bahema-Nord" libelle="Chefferie Bahema-Nord"/>
+          <commune code="C/Mabendi" libelle="Chefferie Mabendi"/>
+          <commune code="C/Ndo-Okebo" libelle="Chefferie Ndo-Okebo"/>
+          <commune code="S/Walendu-Pitsi" libelle="Secteur Walendu-Pitsi"/>
+          <commune code="S/Walendu-Tatsi" libelle="Secteur Walendu-Tatsi"/>
+          <commune code="C/Djugu" libelle="Djugu"/>
+          <commune code="C/Fataki" libelle="Fataki"/>
+          <commune code="C/Kpanduma" libelle="Kpanduma"/>
+        </ville>
+        <ville code="T/Irumu" libelle="Territoire d'Irumu">
+          <commune code="C/Andisoma" libelle="Chefferie Andisoma"/>
+          <commune code="C/Bahema Mitego" libelle="Chefferie Bahema Mitego"/>
+          <commune code="C/Basili" libelle="Chefferie Basili"/>
+          <commune code="C/Babelebe" libelle="Chefferie Babelebe"/>
+          <commune code="C/Bahema-Sud" libelle="Chefferie Bahema-Sud"/>
+          <commune code="C/Mobala" libelle="Chefferie Mobala"/>
+          <commune code="C/Baboa-Bakoe" libelle="Chefferie Baboa-Bakoe"/>
+          <commune code="C/Banyari-Tchabi" libelle="Chefferie Banyari-Tchabi"/>
+          <commune code="C/Bahema Boga" libelle="Chefferie Bahema Boga"/>
+          <commune code="C/Bahema d'Irumu" libelle="Chefferie Bahema d'Irumu"/>
+          <commune code="C/Walendu-Bindi" libelle="Chefferie Walendu-Bindi"/>
+          <commune code="C/Walese-Vonkutu" libelle="Chefferie Walese-Vonkutu"/>
+          <commune code="C/Irumu" libelle="Irumu"/>
+        </ville>
+        <ville code="T/Mambasa" libelle="Territoire de Mambasa">
+          <commune code="C/Babombi" libelle="Chefferie Babombi"/>
+          <commune code="C/Bakwanza" libelle="Chefferie Bakwanza"/>
+          <commune code="C/Bandaka" libelle="Chefferie Bandaka"/>
+          <commune code="C/Mambasa" libelle="Chefferie Mambasa"/>
+          <commune code="C/Bombo-Bagumba" libelle="Chefferie Bombo-Bagumba"/>
+          <commune code="C/Walese-Dese" libelle="Chefferie Walese-Dese"/>
+          <commune code="C/Walese-Karo" libelle="Chefferie Walese-Karo"/>
+          <commune code="C/Biakato" libelle="Biakato"/>
+          <commune code="C/Nia-Nia" libelle="Nia-Nia"/>
+        </ville>
+        <ville code="T/Aru" libelle="Territoire d'Aru">
+          <commune code="C/Alur" libelle="Chefferie Alur"/>
+          <commune code="C/Kaliko-Omi" libelle="Chefferie Kaliko-Omi"/>
+          <commune code="C/Kakwa" libelle="Chefferie Kakwa"/>
+          <commune code="C/Lu" libelle="Chefferie Lu"/>
+          <commune code="S/Ndo-Kebo" libelle="Secteur Ndo-Kebo"/>
+          <commune code="C/Nio-Kamule" libelle="Chefferie Nio-Kamule"/>
+          <commune code="C/Otso" libelle="Chefferie Otso"/>
+          <commune code="C/Zaki" libelle="Chefferie Zaki"/>
+        </ville>
+        <ville code="T/Mahagi" libelle="Territoire de Mahagi">
+          <commune code="C/Alur-Djuganda" libelle="Chefferie Alur-Djuganda"/>
+          <commune code="C/Anghal" libelle="Chefferie Anghal"/>
+          <commune code="C/Djukot" libelle="Chefferie Djukot"/>
+          <commune code="C/Pandoro" libelle="Chefferie Pandoro"/>
+          <commune code="C/Mokambo" libelle="Chefferie Mokambo"/>
+          <commune code="C/War-Palara" libelle="Chefferie War-Palara"/>
+          <commune code="C/Wangongo" libelle="Chefferie Wangongo"/>
+          <commune code="C/Walendu-Watsi" libelle="Chefferie Walendu-Watsi"/>
+          <commune code="C/Djegu" libelle="Djegu"/>
+          <commune code="C/Ndrele" libelle="Ndrele"/>
+          <commune code="C/Nioka" libelle="Nioka"/>
+        </ville>
+        <ville code="V/Bunia" libelle="Bunia">
+          <commune code="C/Nyakasanza" libelle="Nyakasanza"/>
+          <commune code="C/Mbunya" libelle="Mbunya"/>
+          <commune code="C/Shari" libelle="Shari"/>
+        </ville>
+        <ville code="V/Ariwara" libelle="Ariwara">
+          <commune code="C/Abbe Gonzalves" libelle="Abbe Gonzalves"/>
+          <commune code="C/Apaa" libelle="Apaa"/>
+          <commune code="C/Djaudjau" libelle="Djaudjau"/>
+          <commune code="C/Raoul Aliti" libelle="Raoul Aliti"/>
+        </ville>
+        <ville code="V/Aru" libelle="Aru">
+          <commune code="C/Abaa" libelle="Abaa"/>
+          <commune code="C/Autsai" libelle="Autsai"/>
+          <commune code="C/Essefe" libelle="Essefe"/>
+          <commune code="C/Pete" libelle="Pete"/>
+        </ville>
+        <ville code="V/Ingbokolo" libelle="Ingbokolo">
+          <commune code="C/Adi" libelle="Adi"/>
+          <commune code="C/Arie" libelle="Arie"/>
+          <commune code="C/Kumuru-Ezorili" libelle="Kumuru-Ezorili"/>
+        </ville>
+        <ville code="V/Mahagi" libelle="Mahagi">
+          <commune code="C/Kwong'A" libelle="Kwong'A"/>
+          <commune code="C/Mamba" libelle="Mamba"/>
+          <commune code="C/Ridha" libelle="Ridha"/>
+        </ville>
+        <ville code="V/Mongwalu" libelle="Mongwalu">
+          <commune code="C/Mongbalu" libelle="Mongbalu"/>
+          <commune code="C/Musaba" libelle="Musaba"/>
+          <commune code="C/Plito-Yalala" libelle="Plito-Yalala"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Kasai " libelle="Kasai ">
+      <villes>
+        <ville code="V/Tshikapa" libelle="Tshikapa">
+          <commune code="C/Dibumba I" libelle="Dibumba I"/>
+          <commune code="C/Dibumba II" libelle="Dibumba II"/>
+          <commune code="C/Kanzala" libelle="Kanzala"/>
+          <commune code="C/Mabondo" libelle="Mabondo"/>
+          <commune code="C/Mbumba" libelle="Mbumba"/>
+        </ville>
+        <ville code="T/Dekese" libelle="Territoire de Dekese">
+          <commune code="C/Dekese-Ikolombe-Isolu" libelle="Chefferie Dekese-Ikolombe-Isolu"/>
+          <commune code="C/Yaelima" libelle="Chefferie Yaelima"/>
+          <commune code="C/Dekese" libelle="Dekese"/>
+        </ville>
+        <ville code="T/Ilebo" libelle="Territoire d'Ilebo">
+          <commune code="S/Basongo (Entre Lumbudji-Kasai)" libelle="Secteur Basongo (Entre Lumbudji-Kasai)"/>
+          <commune code="S/Malu-Malu" libelle="Secteur Malu-Malu"/>
+          <commune code="S/Mapangu (Entre Loange-Lumbundji)" libelle="Secteur Mapangu (Entre Loange-Lumbundji)"/>
+          <commune code="S/Sud-Banga" libelle="Secteur Sud-Banga"/>
+          <commune code="C/Mapangu" libelle="Mapangu"/>
+          <commune code="C/Mibalayi" libelle="Mibalayi"/>
+        </ville>
+        <ville code="T/Luebo" libelle="Territoire de Luebo">
+          <commune code="S/Luebo-Kabambaie" libelle="Secteur Luebo-Kabambaie"/>
+          <commune code="S/Luebo-Lulengele" libelle="Secteur Luebo-Lulengele"/>
+          <commune code="S/Luebo-Wedi" libelle="Secteur Luebo-Wedi"/>
+          <commune code="S/Ndjoko-Punda" libelle="Secteur Ndjoko-Punda"/>
+        </ville>
+        <ville code="T/Kamonia" libelle="Territoire de Kamonia">
+          <commune code="S/Bakwa-Nyambi" libelle="Secteur Bakwa-Nyambi"/>
+          <commune code="S/Bapende" libelle="Secteur Bapende"/>
+          <commune code="S/Kasadi-Sadi" libelle="Secteur Kasadi-Sadi"/>
+          <commune code="S/Kasai-Longatshimo" libelle="Secteur Kasai-Longatshimo"/>
+          <commune code="S/Kasai-Kabambaie" libelle="Secteur Kasai-Kabambaie"/>
+          <commune code="S/Kasai-Lunyeka" libelle="Secteur Kasai-Lunyeka"/>
+          <commune code="S/Lovua-Longatshimo" libelle="Secteur Lovua-Longatshimo"/>
+          <commune code="S/Lovua-Lushiku" libelle="Secteur Lovua-Lushiku"/>
+          <commune code="S/Tshikapa" libelle="Secteur Tshikapa"/>
+          <commune code="C/Kabemba" libelle="Kabemba"/>
+          <commune code="C/Kabunda" libelle="Kabunda"/>
+          <commune code="C/Kamako" libelle="Kamako"/>
+          <commune code="C/Kamonia" libelle="Kamonia"/>
+          <commune code="C/Kamuesha" libelle="Kamuesha"/>
+          <commune code="C/Katanga (Kamonia)" libelle="Katanga (Kamonia)"/>
+          <commune code="C/Lukombo" libelle="Lukombo"/>
+          <commune code="C/Mayi-Munene" libelle="Mayi-Munene"/>
+          <commune code="C/Ndjindji" libelle="Ndjindji"/>
+          <commune code="C/Ngombe" libelle="Ngombe"/>
+          <commune code="C/Nyanga" libelle="Nyanga"/>
+          <commune code="C/Nzadi (Kamonia)" libelle="Nzadi (Kamonia)"/>
+        </ville>
+        <ville code="T/Mweka" libelle="Territoire de Mweka">
+          <commune code="C/Bakuba" libelle="Chefferie Bakuba"/>
+          <commune code="C/Kakenge" libelle="Kakenge"/>
+          <commune code="C/Mweka" libelle="Mweka"/>
+        </ville>
+        <ville code="V/Ilebo" libelle="Ilebo">
+          <commune code="C/Bembe" libelle="Bembe"/>
+          <commune code="C/Kasai" libelle="Kasai"/>
+          <commune code="C/Lutshwadi" libelle="Lutshwadi"/>
+          <commune code="C/Puntsha" libelle="Puntsha"/>
+        </ville>
+        <ville code="V/Luebo" libelle="Luebo">
+          <commune code="C/Bipatu" libelle="Bipatu"/>
+          <commune code="C/Kasenga (Luebo)" libelle="Kasenga (Luebo)"/>
+          <commune code="C/Luebo" libelle="Luebo"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Kasai Central" libelle="Kasai Central">
+      <villes>
+        <ville code="V/Kananga" libelle="Kananga">
+          <commune code="C/Kananga" libelle="Kananga"/>
+          <commune code="C/Katoka" libelle="Katoka"/>
+          <commune code="C/Lukonga" libelle="Lukonga"/>
+          <commune code="C/Ndesha" libelle="Ndesha"/>
+          <commune code="C/Nganza" libelle="Nganza"/>
+        </ville>
+        <ville code="T/Dibaya" libelle="Territoire de Dibaya">
+          <commune code="S/Dibanda" libelle="Secteur Dibanda"/>
+          <commune code="S/Dibataie" libelle="Secteur Dibataie"/>
+          <commune code="S/Kamwandu" libelle="Secteur Kamwandu"/>
+          <commune code="S/Kasangidi" libelle="Secteur Kasangidi"/>
+          <commune code="S/Tshishilu" libelle="Secteur Tshishilu"/>
+          <commune code="C/Dibaya" libelle="Dibaya"/>
+          <commune code="C/Tshikula" libelle="Tshikula"/>
+        </ville>
+        <ville code="T/Demba" libelle="Territoire de Demba">
+          <commune code="S/Bena-Mamba" libelle="Secteur Bena-Mamba"/>
+          <commune code="S/Diofwa" libelle="Secteur Diofwa"/>
+          <commune code="S/Lombelo" libelle="Secteur Lombelo"/>
+          <commune code="S/Lusonge" libelle="Secteur Lusonge"/>
+          <commune code="S/Muanza-Ngoma" libelle="Secteur Muanza-Ngoma"/>
+          <commune code="S/Tshibote" libelle="Secteur Tshibote"/>
+          <commune code="S/Tshibungu" libelle="Secteur Tshibungu"/>
+          <commune code="C/Demba" libelle="Demba"/>
+        </ville>
+        <ville code="T/Dimbelenge" libelle="Territoire de Dimbelenge">
+          <commune code="S/Kunduyi" libelle="Secteur Kunduyi"/>
+          <commune code="S/Lubi (Dimbelenge)" libelle="Secteur Lubi (Dimbelenge)"/>
+          <commune code="S/Lukibu" libelle="Secteur Lukibu"/>
+          <commune code="S/Lubudi" libelle="Secteur Lubudi"/>
+          <commune code="S/Mashala" libelle="Secteur Mashala"/>
+          <commune code="C/Bana-Ba-Ntumba" libelle="Bana-Ba-Ntumba"/>
+          <commune code="C/Dimbelenge" libelle="Dimbelenge"/>
+          <commune code="C/Katende (Dimbelenge)" libelle="Katende (Dimbelenge)"/>
+          <commune code="C/Lubuishi" libelle="Lubuishi"/>
+          <commune code="C/Munkamba (Dimbelenge)" libelle="Munkamba (Dimbelenge)"/>
+        </ville>
+        <ville code="T/Kazumba" libelle="Territoire de Kazumba">
+          <commune code="S/Bulungu" libelle="Secteur Bulungu"/>
+          <commune code="S/Kafuba" libelle="Secteur Kafuba"/>
+          <commune code="S/Kavula" libelle="Secteur Kavula"/>
+          <commune code="S/Matamba" libelle="Secteur Matamba"/>
+          <commune code="S/Mboie" libelle="Secteur Mboie"/>
+          <commune code="S/Miao" libelle="Secteur Miao"/>
+          <commune code="S/Muswaswa" libelle="Secteur Muswaswa"/>
+          <commune code="S/Mutefu" libelle="Secteur Mutefu"/>
+          <commune code="S/Tshitadi" libelle="Secteur Tshitadi"/>
+          <commune code="C/Bilonda" libelle="Bilonda"/>
+          <commune code="C/Kaluebo" libelle="Kaluebo"/>
+          <commune code="C/Kazumba" libelle="Kazumba"/>
+          <commune code="C/Luemba" libelle="Luemba"/>
+        </ville>
+        <ville code="T/Luiza" libelle="Territoire de Luiza">
+          <commune code="S/Bambaie" libelle="Secteur Bambaie"/>
+          <commune code="S/Loatshi" libelle="Secteur Loatshi"/>
+          <commune code="S/Lusanza" libelle="Secteur Lusanza"/>
+          <commune code="S/Lueta" libelle="Secteur Lueta"/>
+          <commune code="S/Kabalekese" libelle="Secteur Kabalekese"/>
+          <commune code="S/Kalunga" libelle="Secteur Kalunga"/>
+          <commune code="S/Mbushimaie" libelle="Secteur Mbushimaie"/>
+          <commune code="C/Luambo" libelle="Luambo"/>
+          <commune code="C/Luiza" libelle="Luiza"/>
+          <commune code="C/Masuika" libelle="Masuika"/>
+          <commune code="C/Ngadi-A-Pemba" libelle="Ngadi-A-Pemba"/>
+          <commune code="C/Samuanda" libelle="Samuanda"/>
+          <commune code="C/Tulume" libelle="Tulume"/>
+          <commune code="C/Yangala" libelle="Yangala"/>
+        </ville>
+        <ville code="V/Tshimbulu" libelle="Tshimbulu">
+          <commune code="C/Lukula" libelle="Lukula"/>
+          <commune code="C/Tshimakaka" libelle="Tshimakaka"/>
+          <commune code="C/Tshimayi" libelle="Tshimayi"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Kasai Oriental" libelle="Kasai Oriental">
+      <villes>
+        <ville code="V/Mbuji-Mayi" libelle="Mbuji-Mayi">
+          <commune code="C/Bipemba" libelle="Bipemba"/>
+          <commune code="C/Dibindi" libelle="Dibindi"/>
+          <commune code="C/Diulu" libelle="Diulu"/>
+          <commune code="C/Kanshi" libelle="Kanshi"/>
+          <commune code="C/Muya" libelle="Muya"/>
+        </ville>
+        <ville code="T/Tshilenge" libelle="Territoire de Tshilenge">
+          <commune code="C/Bakwa-Kalondji" libelle="Chefferie Bakwa-Kalondji"/>
+          <commune code="C/Kabinda (Tshilenge)" libelle="Kabinda (Tshilenge)"/>
+          <commune code="C/Kalenda-Kashila" libelle="Kalenda-Kashila"/>
+        </ville>
+        <ville code="T/Kabeya-Kamwanga" libelle="Territoire de Kabeya-Kamwanga">
+          <commune code="S/Kalela" libelle="Secteur Kalela"/>
+          <commune code="S/Lac Mukamba" libelle="Secteur Lac Mukamba"/>
+          <commune code="S/Mpemba" libelle="Secteur Mpemba"/>
+          <commune code="S/Ndomba" libelle="Secteur Ndomba"/>
+          <commune code="C/Bena Nkuna" libelle="Bena Nkuna"/>
+          <commune code="C/Munkamba (Kabeya-Kamwanga)" libelle="Munkamba (Kabeya-Kamwanga)"/>
+        </ville>
+        <ville code="T/Miabi" libelle="Territoire de Miabi">
+          <commune code="S/Kakangayi" libelle="Secteur Kakangayi"/>
+          <commune code="S/Movo-Nkatshia" libelle="Secteur Movo-Nkatshia"/>
+          <commune code="S/Tshijiba" libelle="Secteur Tshijiba"/>
+          <commune code="S/Tshilundu" libelle="Secteur Tshilundu"/>
+          <commune code="C/Boya" libelle="Boya"/>
+          <commune code="C/Katende (Miabi)" libelle="Katende (Miabi)"/>
+        </ville>
+        <ville code="T/Lupatapata" libelle="Territoire de Lupatapata">
+          <commune code="S/Kabala" libelle="Secteur Kabala"/>
+          <commune code="S/Mudiba" libelle="Secteur Mudiba"/>
+          <commune code="S/Mukumbi" libelle="Secteur Mukumbi"/>
+          <commune code="S/Mulenda" libelle="Secteur Mulenda"/>
+          <commune code="C/Tshishimbi" libelle="Tshishimbi"/>
+        </ville>
+        <ville code="T/Katanda" libelle="Territoire de Katanda">
+          <commune code="S/Baluba-Lubilanji" libelle="Secteur Baluba-Lubilanji"/>
+          <commune code="S/Bena-Tshitolo" libelle="Secteur Bena-Tshitolo"/>
+          <commune code="S/Mutuayi" libelle="Secteur Mutuayi"/>
+          <commune code="S/Nsangu" libelle="Secteur Nsangu"/>
+          <commune code="C/Katanda" libelle="Katanda"/>
+        </ville>
+        <ville code="V/Miabi" libelle="Miabi">
+          <commune code="C/Lukunza" libelle="Lukunza"/>
+          <commune code="C/Miabi" libelle="Miabi"/>
+          <commune code="C/Nyikinyiki" libelle="Nyikinyiki"/>
+        </ville>
+        <ville code="V/Tshilenge" libelle="Tshilenge">
+          <commune code="C/Inga" libelle="Inga"/>
+          <commune code="C/Kampatshi" libelle="Kampatshi"/>
+          <commune code="C/Tshikalenga" libelle="Tshikalenga"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Kinshasa" libelle="Kinshasa">
+      <villes>
+        <ville code="V/Kinshasa" libelle="Kinshasa">
+          <commune code="C/Bandalungwa" libelle="Bandalungwa"/>
+          <commune code="C/Barumbu" libelle="Barumbu"/>
+          <commune code="C/Bumbu" libelle="Bumbu"/>
+          <commune code="C/Gombe" libelle="Gombe"/>
+          <commune code="C/Kalamu (Kinshasa)" libelle="Kalamu"/>
+          <commune code="C/Kasa-Vubu" libelle="Kasa-Vubu"/>
+          <commune code="C/Kimbanseke" libelle="Kimbanseke"/>
+          <commune code="C/Kinshasa" libelle="Kinshasa"/>
+          <commune code="C/Kintambo" libelle="Kintambo"/>
+          <commune code="C/Kisenso" libelle="Kisenso"/>
+          <commune code="C/Lemba" libelle="Lemba"/>
+          <commune code="C/Limete" libelle="Limete"/>
+          <commune code="C/Lingwala" libelle="Lingwala"/>
+          <commune code="C/Makala" libelle="Makala"/>
+          <commune code="C/Maluku" libelle="Maluku"/>
+          <commune code="C/Masina" libelle="Masina"/>
+          <commune code="C/Matete" libelle="Matete"/>
+          <commune code="C/Mont-Ngafula" libelle="Mont-Ngafula"/>
+          <commune code="C/Ndjili" libelle="Ndjili"/>
+          <commune code="C/Ngaba" libelle="Ngaba"/>
+          <commune code="C/Ngaliema" libelle="Ngaliema"/>
+          <commune code="C/Ngiri-Ngiri" libelle="Ngiri-Ngiri"/>
+          <commune code="C/Nsele" libelle="Nsele"/>
+          <commune code="C/Selembao" libelle="Selembao"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Kongo-Central" libelle="Kongo-Central">
+      <villes>
+        <ville code="V/Matadi" libelle="Matadi">
+          <commune code="C/Matadi" libelle="Matadi"/>
+          <commune code="C/Mvuzi" libelle="Mvuzi"/>
+          <commune code="C/Nzanza (Matadi)" libelle="Nzanza"/>
+        </ville>
+        <ville code="V/Boma" libelle="Boma">
+          <commune code="C/Kabondo (Boma)" libelle="Kabondo (Boma)"/>
+          <commune code="C/Kalamu (Boma)" libelle="Kalamu (Boma)"/>
+          <commune code="C/Nzadi" libelle="Nzadi"/>
+        </ville>
+        <ville code="T/Moanda" libelle="Territoire de Moanda">
+          <commune code="S/Assolongo" libelle="Secteur Assolongo"/>
+          <commune code="S/Boma-Bungu" libelle="Secteur Boma-Bungu"/>
+          <commune code="S/La Mer" libelle="Secteur La Mer"/>
+        </ville>
+        <ville code="T/Lukula" libelle="Territoire de Lukula">
+          <commune code="S/Fubu" libelle="Secteur Fubu"/>
+          <commune code="S/Kakongo" libelle="Secteur Kakongo"/>
+          <commune code="S/Patu" libelle="Secteur Patu"/>
+          <commune code="S/Tsanga-Sud" libelle="Secteur Tsanga-Sud"/>
+          <commune code="S/Tsundi-Sud" libelle="Secteur Tsundi-Sud"/>
+          <commune code="C/Lemba (Lukula)" libelle="Lemba (Lukula)"/>
+        </ville>
+        <ville code="T/Tshela" libelle="Territoire de Tshela">
+          <commune code="S/Bula-Naku" libelle="Secteur Bula-Naku"/>
+          <commune code="S/Loango" libelle="Secteur Loango"/>
+          <commune code="S/Lubolo" libelle="Secteur Lubolo"/>
+          <commune code="S/Maduda" libelle="Secteur Maduda"/>
+          <commune code="S/Mbanga (Tshela)" libelle="Secteur Mbanga (Tshela)"/>
+          <commune code="S/Lubuzi" libelle="Secteur Lubuzi"/>
+          <commune code="S/Nganda-Tsundi" libelle="Secteur Nganda-Tsundi"/>
+          <commune code="S/Nzobe-Luzi" libelle="Secteur Nzobe-Luzi"/>
+        </ville>
+        <ville code="T/Seke-Banza" libelle="Territoire de Seke-Banza">
+          <commune code="S/Bundi" libelle="Secteur Bundi"/>
+          <commune code="S/Isangila" libelle="Secteur Isangila"/>
+          <commune code="S/Lufu" libelle="Secteur Lufu"/>
+          <commune code="S/Mbavu" libelle="Secteur Mbavu"/>
+          <commune code="S/Sumbi" libelle="Secteur Sumbi"/>
+          <commune code="C/Kinzau-Vuete" libelle="Kinzau-Vuete"/>
+          <commune code="C/Seke-Banza" libelle="Seke-Banza"/>
+        </ville>
+        <ville code="T/Songololo" libelle="Territoire de Songololo">
+          <commune code="S/Bamboma" libelle="Secteur Bamboma"/>
+          <commune code="S/Kimpese" libelle="Secteur Kimpese"/>
+          <commune code="S/Luima" libelle="Secteur Luima"/>
+          <commune code="S/Palabala" libelle="Secteur Palabala"/>
+          <commune code="S/Wombo" libelle="Secteur Wombo"/>
+          <commune code="C/Songololo" libelle="Songololo"/>
+        </ville>
+        <ville code="T/Mbanza-Ngungu" libelle="Territoire de Mbanza-Ngungu">
+          <commune code="S/Boko" libelle="Secteur Boko"/>
+          <commune code="S/Gombe-Matadi" libelle="Secteur Gombe-Matadi"/>
+          <commune code="S/Gombe-Sud" libelle="Secteur Gombe-Sud"/>
+          <commune code="S/Kivulu" libelle="Secteur Kivulu"/>
+          <commune code="S/Ntimansi" libelle="Secteur Ntimansi"/>
+          <commune code="S/Kwilu-Ngongo" libelle="Secteur Kwilu-Ngongo"/>
+          <commune code="S/Lunzadi" libelle="Secteur Lunzadi"/>
+          <commune code="C/Kwilu-Ngongo" libelle="Kwilu-Ngongo"/>
+          <commune code="C/Sele" libelle="Sele"/>
+        </ville>
+        <ville code="T/Luozi" libelle="Territoire de Luozi">
+          <commune code="S/Balari" libelle="Secteur Balari"/>
+          <commune code="S/Kenge" libelle="Secteur Kenge"/>
+          <commune code="S/Kimbanza" libelle="Secteur Kimbanza"/>
+          <commune code="S/Kimumba" libelle="Secteur Kimumba"/>
+          <commune code="S/Kinkenge" libelle="Secteur Kinkenge"/>
+          <commune code="S/Kivunda" libelle="Secteur Kivunda"/>
+          <commune code="S/Mbanza-Mona" libelle="Secteur Mbanza-Mona"/>
+          <commune code="S/Mbanza-Muembe" libelle="Secteur Mbanza-Muembe"/>
+          <commune code="S/Mbanza-Ngoyo" libelle="Secteur Mbanza-Ngoyo"/>
+          <commune code="S/Mongo-Luala" libelle="Secteur Mongo-Luala"/>
+          <commune code="C/Luozi" libelle="Luozi"/>
+        </ville>
+        <ville code="T/Kasangulu" libelle="Territoire de Kasangulu">
+          <commune code="S/Kasangulu" libelle="Secteur Kasangulu"/>
+          <commune code="S/Luila" libelle="Secteur Luila"/>
+          <commune code="S/Lukunga-Mputu" libelle="Secteur Lukunga-Mputu"/>
+        </ville>
+        <ville code="T/Madimba" libelle="Territoire de Madimba">
+          <commune code="S/Kinkosi (Luidi)" libelle="Secteur Kinkosi (Luidi)"/>
+          <commune code="S/Mfidi (Malele)" libelle="Secteur Mfidi (Malele)"/>
+          <commune code="S/Mfuma (Kibambi)" libelle="Secteur Mfuma (Kibambi)"/>
+          <commune code="S/Ngeba" libelle="Secteur Ngeba"/>
+          <commune code="S/Ngufu" libelle="Secteur Ngufu"/>
+          <commune code="C/Madimba" libelle="Madimba"/>
+        </ville>
+        <ville code="T/Kimvula" libelle="Territoire de Kimvula">
+          <commune code="S/Benga" libelle="Secteur Benga"/>
+          <commune code="S/Lubisi" libelle="Secteur Lubisi"/>
+          <commune code="S/Lula-Lumeme" libelle="Secteur Lula-Lumeme"/>
+          <commune code="C/Kimvula" libelle="Kimvula"/>
+        </ville>
+        <ville code="V/Bangu" libelle="Bangu">
+          <commune code="C/Kimpese" libelle="Kimpese"/>
+          <commune code="C/Lukala" libelle="Lukala"/>
+          <commune code="C/Vampa" libelle="Vampa"/>
+        </ville>
+        <ville code="V/Inkisi" libelle="Inkisi">
+          <commune code="C/Kintanu" libelle="Kintanu"/>
+          <commune code="C/Kisantu" libelle="Kisantu"/>
+        </ville>
+        <ville code="V/Kasangulu" libelle="Kasangulu">
+          <commune code="C/Kasangulu" libelle="Kasangulu"/>
+          <commune code="C/La Gare" libelle="La Gare"/>
+        </ville>
+        <ville code="V/Lukala" libelle="Lukala">
+          <commune code="C/Lukala (Lukala)" libelle="Lukala (Lukala)"/>
+          <commune code="C/Nsioni" libelle="Nsioni"/>
+        </ville>
+        <ville code="V/Mbaza-Ngungu" libelle="Mbaza-Ngungu">
+          <commune code="C/Ngungu (Mbaza-Ngungu)" libelle="Ngungu (Mbaza-Ngungu)"/>
+          <commune code="C/Noki" libelle="Noki"/>
+        </ville>
+        <ville code="V/Moanda" libelle="Moanda">
+          <commune code="C/Mamputu" libelle="Mamputu"/>
+          <commune code="C/Muanda" libelle="Muanda"/>
+        </ville>
+        <ville code="V/Tshela" libelle="Tshela">
+          <commune code="C/Kasa-vubu (Tshela)" libelle="Kasa-vubu (Tshela)"/>
+          <commune code="C/Luvu" libelle="Luvu"/>
+          <commune code="C/Tshela" libelle="Tshela"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Kwango" libelle="Kwango">
+      <villes>
+        <ville code="T/Kenge" libelle="Territoire de Kenge">
+          <commune code="S/Bukanga-Lonzo" libelle="Secteur Bukanga-Lonzo"/>
+          <commune code="S/Dinga" libelle="Secteur Dinga"/>
+          <commune code="S/Kolokoso" libelle="Secteur Kolokoso"/>
+          <commune code="S/Mosamba" libelle="Secteur Mosamba"/>
+          <commune code="C/Pelende-Nord" libelle="Chefferie Pelende-Nord"/>
+          <commune code="C/Kenge II" libelle="Kenge II"/>
+          <commune code="C/Misele" libelle="Misele"/>
+          <commune code="C/Pont-Kwango" libelle="Pont-Kwango"/>
+        </ville>
+        <ville code="T/Feshi" libelle="Territoire de Feshi">
+          <commune code="S/Feshi-Maziamo" libelle="Secteur Feshi-Maziamo"/>
+          <commune code="S/Lobo" libelle="Secteur Lobo"/>
+          <commune code="S/Mukoso" libelle="Secteur Mukoso"/>
+          <commune code="S/Ganaketi" libelle="Secteur Ganaketi"/>
+          <commune code="C/Feshi" libelle="Feshi"/>
+        </ville>
+        <ville code="T/Kahemba" libelle="Territoire de Kahemba">
+          <commune code="S/Bangu" libelle="Secteur Bangu"/>
+          <commune code="C/Muloshi" libelle="Chefferie Muloshi"/>
+          <commune code="S/Kulundji" libelle="Secteur Kulundji"/>
+          <commune code="C/Mwendjila" libelle="Chefferie Mwendjila"/>
+          <commune code="C/Mwamushiko" libelle="Chefferie Mwamushiko"/>
+          <commune code="S/Bindu" libelle="Secteur Bindu"/>
+          <commune code="C/Tfundwale" libelle="Tfundwale"/>
+        </ville>
+        <ville code="T/Popokabaka" libelle="Territoire de Popokabaka">
+          <commune code="S/Lufuna" libelle="Secteur Lufuna"/>
+          <commune code="S/Popokabaka" libelle="Secteur Popokabaka"/>
+          <commune code="S/Yonso" libelle="Secteur Yonso"/>
+          <commune code="C/Kabama" libelle="Kabama"/>
+          <commune code="C/Kisoma" libelle="Kisoma"/>
+          <commune code="C/Popokabaka" libelle="Popokabaka"/>
+        </ville>
+        <ville code="T/Kasongo-Lunda" libelle="Territoire de Kasongo-Lunda">
+          <commune code="S/Swa-Tenda" libelle="Secteur Swa-Tenda"/>
+          <commune code="S/Kibunda" libelle="Secteur Kibunda"/>
+          <commune code="C/Kasa (Kasongo-Lunda)" libelle="Chefferie Kasa (Kasongo-Lunda)"/>
+          <commune code="S/Panzi" libelle="Secteur Panzi"/>
+          <commune code="C/Kasongo-Lunda" libelle="Chefferie Kasongo-Lunda"/>
+          <commune code="S/Kizamba" libelle="Secteur Kizamba"/>
+          <commune code="S/Kingulu" libelle="Secteur Kingulu"/>
+          <commune code="S/Mawanga" libelle="Secteur Mawanga"/>
+          <commune code="C/Kingwangala" libelle="Kingwangala"/>
+          <commune code="C/Pelende" libelle="Pelende"/>
+          <commune code="C/Tembo" libelle="Tembo"/>
+        </ville>
+        <ville code="V/Kahemba" libelle="Kahemba">
+          <commune code="C/Kwilu (Kahemba)" libelle="Kwilu (Kahemba)"/>
+          <commune code="C/Lutshima" libelle="Lutshima"/>
+          <commune code="C/Ntshakal" libelle="Ntshakal"/>
+        </ville>
+        <ville code="V/Kasongo-Lunda" libelle="Kasongo-Lunda">
+          <commune code="C/Imona" libelle="Imona"/>
+          <commune code="C/Kintuadi" libelle="Kintuadi"/>
+          <commune code="C/Kumbila" libelle="Kumbila"/>
+        </ville>
+        <ville code="V/Kenge" libelle="Kenge">
+          <commune code="C/Cinq Mai" libelle="Cinq Mai"/>
+          <commune code="C/Laurent Désiré Kabila" libelle="Laurent Désiré Kabila"/>
+          <commune code="C/Manonga" libelle="Manonga"/>
+          <commune code="C/Masikita" libelle="Masikita"/>
+          <commune code="C/Mavula" libelle="Mavula"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Kwilu" libelle="Kwilu">
+      <villes>
+        <ville code="V/Bandundu" libelle="Bandundu">
+          <commune code="C/Basoko" libelle="Basoko"/>
+          <commune code="C/Disasi" libelle="Disasi"/>
+          <commune code="C/Mayoyo" libelle="Mayoyo"/>
+        </ville>
+        <ville code="V/Kikwit" libelle="Kikwit">
+          <commune code="C/Kazamba" libelle="Kazamba"/>
+          <commune code="C/Lukemi" libelle="Lukemi"/>
+          <commune code="C/Lukolela" libelle="Lukolela"/>
+          <commune code="C/Nzinda" libelle="Nzinda"/>
+        </ville>
+        <ville code="T/Bagata" libelle="Territoire de Bagata">
+          <commune code="S/Kidzweme" libelle="Secteur Kidzweme"/>
+          <commune code="S/Kwango-Kasai" libelle="Secteur Kwango-Kasai"/>
+          <commune code="S/Kwilu-Ntober" libelle="Secteur Kwilu-Ntober"/>
+          <commune code="S/Manzasay" libelle="Secteur Manzasay"/>
+          <commune code="S/Wamba-Fatundu" libelle="Secteur Wamba-Fatundu"/>
+          <commune code="C/Bagata" libelle="Bagata"/>
+          <commune code="C/Mabenga" libelle="Mabenga"/>
+          <commune code="C/Misay" libelle="Misay"/>
+          <commune code="C/Panu Pay Pay" libelle="Panu Pay Pay"/>
+        </ville>
+        <ville code="T/Bulungu" libelle="Territoire de Bulungu">
+          <commune code="S/Dwe" libelle="Secteur Dwe"/>
+          <commune code="S/Imbongo" libelle="Secteur Imbongo"/>
+          <commune code="S/Kilunda" libelle="Secteur Kilunda"/>
+          <commune code="S/Kipuka" libelle="Secteur Kipuka"/>
+          <commune code="S/Kwenge" libelle="Secteur Kwenge"/>
+          <commune code="S/Kwilu-Kimbata" libelle="Secteur Kwilu-Kimbata"/>
+          <commune code="S/Luniungu" libelle="Secteur Luniungu"/>
+          <commune code="S/Mikwi" libelle="Secteur Mikwi"/>
+          <commune code="S/Niadi-Nkara" libelle="Secteur Niadi-Nkara"/>
+          <commune code="S/Nko" libelle="Secteur Nko"/>
+          <commune code="C/Bukiongo-Luanga" libelle="Bukiongo-Luanga"/>
+          <commune code="C/Djuma" libelle="Djuma"/>
+        </ville>
+        <ville code="T/Gungu" libelle="Territoire de Gungu">
+          <commune code="S/Gungu" libelle="Secteur Gungu"/>
+          <commune code="S/Kandale" libelle="Secteur Kandale"/>
+          <commune code="S/Kilamba" libelle="Secteur Kilamba"/>
+          <commune code="S/Kilembe" libelle="Secteur Kilembe"/>
+          <commune code="S/Kisunzu" libelle="Secteur Kisunzu"/>
+          <commune code="S/Kobo (-Mosala)" libelle="Secteur Kobo (-Mosala)"/>
+          <commune code="S/Kondo" libelle="Secteur Kondo"/>
+          <commune code="S/Lozo" libelle="Secteur Lozo"/>
+          <commune code="S/Lukamba" libelle="Secteur Lukamba"/>
+          <commune code="S/Mudikalunga" libelle="Secteur Mudikalunga"/>
+          <commune code="S/Mungindu" libelle="Secteur Mungindu"/>
+          <commune code="S/Ngudi" libelle="Secteur Ngudi"/>
+          <commune code="C/Mukedi" libelle="Mukedi"/>
+        </ville>
+        <ville code="T/Idiofa" libelle="Territoire d'Idiofa">
+          <commune code="S/Banga" libelle="Secteur Banga"/>
+          <commune code="S/Belo" libelle="Secteur Belo"/>
+          <commune code="S/Bulwem" libelle="Secteur Bulwem"/>
+          <commune code="S/Kalanganda" libelle="Secteur Kalanganda"/>
+          <commune code="S/Kanga" libelle="Secteur Kanga"/>
+          <commune code="S/Kapia" libelle="Secteur Kapia"/>
+          <commune code="S/Kipuku" libelle="Secteur Kipuku"/>
+          <commune code="S/Madimbi" libelle="Secteur Madimbi"/>
+          <commune code="S/Mateko" libelle="Secteur Mateko"/>
+          <commune code="S/Musanga-Idiofa" libelle="Secteur Musanga-Idiofa"/>
+          <commune code="S/Sedzo" libelle="Secteur Sedzo"/>
+          <commune code="S/Yasa-Lokwa" libelle="Secteur Yasa-Lokwa"/>
+          <commune code="C/Eolo" libelle="Eolo"/>
+          <commune code="C/Kalo" libelle="Kalo"/>
+          <commune code="C/Mulasa" libelle="Mulasa"/>
+          <commune code="C/Panu" libelle="Panu"/>
+          <commune code="C/Piopio" libelle="Piopio"/>
+        </ville>
+        <ville code="T/Masi-Manimba" libelle="Territoire de Masi-Manimba">
+          <commune code="S/Bindungi" libelle="Secteur Bindungi"/>
+          <commune code="S/Kibolo" libelle="Secteur Kibolo"/>
+          <commune code="S/Kinzenga" libelle="Secteur Kinzenga"/>
+          <commune code="S/Kinzenzengo" libelle="Secteur Kinzenzengo"/>
+          <commune code="S/Kitoy" libelle="Secteur Kitoy"/>
+          <commune code="S/Masi-Manimba" libelle="Secteur Masi-Manimba"/>
+          <commune code="S/Mokamo" libelle="Secteur Mokamo"/>
+          <commune code="S/Mosango" libelle="Secteur Mosango"/>
+          <commune code="S/Pay-Kongila" libelle="Secteur Pay-Kongila"/>
+          <commune code="S/Sungu" libelle="Secteur Sungu"/>
+          <commune code="C/Bwalayu" libelle="Bwalayu"/>
+          <commune code="C/Masamuna" libelle="Masamuna"/>
+          <commune code="C/Pay-Kongila" libelle="Pay-Kongila"/>
+        </ville>
+        <ville code="V/Bulungu" libelle="Bulungu">
+          <commune code="C/Kabangu" libelle="Kabangu"/>
+          <commune code="C/Kwilu (Bulungu)" libelle="Kwilu (Bulungu)"/>
+          <commune code="C/Lukonzi" libelle="Lukonzi"/>
+        </ville>
+        <ville code="V/Dibaya Lubwe" libelle="Dibaya Lubwe">
+          <commune code="C/Ipala" libelle="Ipala"/>
+          <commune code="C/Ndambu" libelle="Ndambu"/>
+          <commune code="C/Tshenza" libelle="Tshenza"/>
+        </ville>
+        <ville code="V/Gungu" libelle="Gungu">
+          <commune code="C/Congo" libelle="Congo"/>
+          <commune code="C/Kakobola" libelle="Kakobola"/>
+          <commune code="C/Kwilu (Gungu)" libelle="Kwilu (Gungu)"/>
+          <commune code="C/Lukwila" libelle="Lukwila"/>
+        </ville>
+        <ville code="V/Idiofa" libelle="Idiofa">
+          <commune code="C/Idiofa" libelle="Idiofa"/>
+          <commune code="C/Manding" libelle="Manding"/>
+          <commune code="C/Musanga" libelle="Musanga"/>
+        </ville>
+        <ville code="V/Mangai" libelle="Mangai">
+          <commune code="C/Isabo" libelle="Isabo"/>
+          <commune code="C/Menki" libelle="Menki"/>
+        </ville>
+        <ville code="V/Masi-Manimba" libelle="Masi-Manimba">
+          <commune code="C/Bibembo" libelle="Bibembo"/>
+          <commune code="C/Kangamiese" libelle="Kangamiese"/>
+          <commune code="C/Lukuala" libelle="Lukuala"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Lomami" libelle="Lomami">
+      <villes>
+        <ville code="V/Mwene-Ditu" libelle="Mwene-Ditu">
+          <commune code="C/Bondoyi" libelle="Bondoyi"/>
+          <commune code="C/Musadi" libelle="Musadi"/>
+          <commune code="C/Mwene-Ditu" libelle="Mwene-Ditu"/>
+        </ville>
+        <ville code="T/Kabinda" libelle="Territoire de Kabinda">
+          <commune code="S/Vunayi" libelle="Secteur Vunayi"/>
+          <commune code="S/Baluba-Lubangule" libelle="Secteur Baluba-Lubangule"/>
+          <commune code="S/Kabinda" libelle="Secteur Kabinda"/>
+          <commune code="S/Ludimbi-Lukula" libelle="Secteur Ludimbi-Lukula"/>
+          <commune code="S/Lufubu-Lomami" libelle="Secteur Lufubu-Lomami"/>
+          <commune code="S/Lukashie-Lualu" libelle="Secteur Lukashie-Lualu"/>
+          <commune code="C/Kamende" libelle="Kamende"/>
+          <commune code="C/Munyenge" libelle="Munyenge"/>
+          <commune code="C/Pengie" libelle="Pengie"/>
+        </ville>
+        <ville code="T/Kamiji" libelle="Territoire de Kamiji">
+          <commune code="S/Kamiji" libelle="Secteur Kamiji"/>
+          <commune code="S/Luekeshi" libelle="Secteur Luekeshi"/>
+          <commune code="C/Kamiji-Tshisangu" libelle="Kamiji-Tshisangu"/>
+          <commune code="C/Malenge" libelle="Malenge"/>
+        </ville>
+        <ville code="T/Lubao" libelle="Territoire de Lubao">
+          <commune code="S/Bekalebwe" libelle="Secteur Bekalebwe"/>
+          <commune code="S/Kisengwa" libelle="Secteur Kisengwa"/>
+          <commune code="S/Lubao" libelle="Secteur Lubao"/>
+          <commune code="S/Tshofa" libelle="Secteur Tshofa"/>
+          <commune code="C/Balungu" libelle="Balungu"/>
+          <commune code="C/Ebondo" libelle="Ebondo"/>
+          <commune code="C/Kamana" libelle="Kamana"/>
+          <commune code="C/Muamuayi" libelle="Muamuayi"/>
+        </ville>
+        <ville code="T/Ngandajika" libelle="Territoire de Ngandajika">
+          <commune code="C/Bakwa-Mulumba" libelle="Chefferie Bakwa-Mulumba"/>
+          <commune code="C/Kalambayi" libelle="Chefferie Kalambayi"/>
+          <commune code="S/Ngandajika" libelle="Secteur Ngandajika"/>
+          <commune code="S/Tshiyamba" libelle="Secteur Tshiyamba"/>
+          <commune code="S/Baluba-Shankadi" libelle="Secteur Baluba-Shankadi"/>
+          <commune code="C/Kakula" libelle="Kakula"/>
+          <commune code="C/Kalunda-Musoko" libelle="Kalunda-Musoko"/>
+        </ville>
+        <ville code="T/Luilu" libelle="Territoire de Luilu">
+          <commune code="C/In-Kan (Kanintshina)" libelle="Chefferie In-Kan (Kanintshina)"/>
+          <commune code="S/Kanda-Kanda" libelle="Secteur Kanda-Kanda"/>
+          <commune code="C/Katshisungu" libelle="Chefferie Katshisungu"/>
+          <commune code="C/Mulundu" libelle="Chefferie Mulundu"/>
+          <commune code="C/Kalenda" libelle="Kalenda"/>
+          <commune code="C/Kasekeyi" libelle="Kasekeyi"/>
+          <commune code="C/Lusuku" libelle="Lusuku"/>
+          <commune code="C/Tshiabut" libelle="Tshiabut"/>
+          <commune code="C/Wikong" libelle="Wikong"/>
+        </ville>
+        <ville code="V/Kabinda" libelle="Kabinda">
+          <commune code="C/Kabondo (Kabinda)" libelle="Kabondo (Kabinda)"/>
+          <commune code="C/Kabuela-Buela" libelle="Kabuela-Buela"/>
+          <commune code="C/Kajiba" libelle="Kajiba"/>
+          <commune code="C/Mudingayi" libelle="Mudingayi"/>
+        </ville>
+        <ville code="V/Lubao" libelle="Lubao">
+          <commune code="C/Kangoy" libelle="Kangoy"/>
+          <commune code="C/Kisumpa" libelle="Kisumpa"/>
+          <commune code="C/Lomami (Lubao)" libelle="Lomami (Lubao)"/>
+          <commune code="C/Lumumba (Lubao)" libelle="Lumumba (Lubao)"/>
+        </ville>
+        <ville code="V/Lukalaba" libelle="Lukalaba">
+          <commune code="C/Katoto" libelle="Katoto"/>
+          <commune code="C/Monzo" libelle="Monzo"/>
+          <commune code="C/Nsangu" libelle="Nsangu"/>
+        </ville>
+        <ville code="V/Mbuy-A-Tshow" libelle="Mbuy-A-Tshow">
+          <commune code="C/Lokombo" libelle="Lokombo"/>
+          <commune code="C/Mukukuyi" libelle="Mukukuyi"/>
+          <commune code="C/Mumvuyi" libelle="Mumvuyi"/>
+          <commune code="C/Tshibiayi" libelle="Tshibiayi"/>
+        </ville>
+        <ville code="V/Ngandajika" libelle="Ngandajika">
+          <commune code="C/Kabanda" libelle="Kabanda"/>
+          <commune code="C/Kalubanda-Tshioji" libelle="Kalubanda-Tshioji"/>
+          <commune code="C/Lunga" libelle="Lunga"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Lualaba" libelle="Lualaba">
+      <villes>
+        <ville code="V/Kolwezi" libelle="Kolwezi">
+          <commune code="C/Dilala" libelle="Dilala"/>
+          <commune code="C/Manika" libelle="Manika"/>
+        </ville>
+        <ville code="T/Mutshatsha" libelle="Territoire de Mutshatsha">
+          <commune code="S/Lufupa" libelle="Secteur Lufupa"/>
+          <commune code="S/Luilu" libelle="Secteur Luilu"/>
+          <commune code="S/Mukuleshi" libelle="Secteur Mukuleshi"/>
+          <commune code="C/Mutshatsha" libelle="Mutshatsha"/>
+        </ville>
+        <ville code="T/Lubudi" libelle="Territoire de Lubudi">
+          <commune code="C/Bayeke" libelle="Chefferie Bayeke"/>
+          <commune code="C/Manzangule" libelle="Chefferie Manzangule"/>
+          <commune code="C/Mwana-Muadi" libelle="Chefferie Mwana-Muadi"/>
+          <commune code="C/Mulumbu" libelle="Chefferie Mulumbu"/>
+          <commune code="C/Fungurume" libelle="Fungurume"/>
+          <commune code="C/Lubudi" libelle="Lubudi"/>
+        </ville>
+        <ville code="T/Dilolo" libelle="Territoire de Dilolo">
+          <commune code="S/Luena" libelle="Secteur Luena"/>
+          <commune code="S/Lulua-Lukoshi" libelle="Secteur Lulua-Lukoshi"/>
+          <commune code="S/Mutanda" libelle="Secteur Mutanda"/>
+          <commune code="C/Muyeye" libelle="Chefferie Muyeye"/>
+          <commune code="C/Mwakandala" libelle="Chefferie Mwakandala"/>
+          <commune code="C/Mwatshisenge" libelle="Chefferie Mwatshisenge"/>
+          <commune code="C/Ndumba" libelle="Chefferie Ndumba"/>
+          <commune code="C/Saluseke" libelle="Chefferie Saluseke"/>
+          <commune code="C/Tshisangama" libelle="Chefferie Tshisangama"/>
+          <commune code="C/Dilolo" libelle="Dilolo"/>
+          <commune code="C/Kisenge" libelle="Kisenge"/>
+        </ville>
+        <ville code="T/Sandoa" libelle="Territoire de Sandoa">
+          <commune code="C/Kayembe-Mukulu" libelle="Chefferie Kayembe-Mukulu"/>
+          <commune code="C/Lumanga" libelle="Chefferie Lumanga"/>
+          <commune code="C/Mbako" libelle="Chefferie Mbako"/>
+          <commune code="C/Muteba" libelle="Chefferie Muteba"/>
+          <commune code="C/Sakundundu" libelle="Chefferie Sakundundu"/>
+          <commune code="C/Samutoma" libelle="Chefferie Samutoma"/>
+          <commune code="C/Tshibamba" libelle="Chefferie Tshibamba"/>
+          <commune code="C/Tshipao" libelle="Chefferie Tshipao"/>
+          <commune code="C/Sandoa" libelle="Sandoa"/>
+        </ville>
+        <ville code="T/Kapanga" libelle="Kapanga">
+          <commune code="C/Kapanga" libelle="Kapanga"/>
+        </ville>
+        <ville code="V/Kasaji" libelle="Kasaji">
+          <commune code="C/Lueu" libelle="Lueu"/>
+          <commune code="C/Lukoji" libelle="Lukoji"/>
+          <commune code="C/Tshimbundi" libelle="Tshimbundi"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Mai-Ndombe" libelle="Mai-Ndombe">
+      <villes>
+        <ville code="T/Inongo" libelle="Territoire d'Inongo">
+          <commune code="S/Basengele" libelle="Secteur Basengele"/>
+          <commune code="S/Bolia" libelle="Secteur Bolia"/>
+          <commune code="S/Inongo" libelle="Secteur Inongo"/>
+          <commune code="C/Ntand'Embelo" libelle="Ntand'Embelo"/>
+        </ville>
+        <ville code="T/Kutu" libelle="Territoire de Kutu">
+          <commune code="C/Badia" libelle="Chefferie Badia"/>
+          <commune code="C/Batere" libelle="Chefferie Batere"/>
+          <commune code="S/Kemba" libelle="Secteur Kemba"/>
+          <commune code="S/Lwabo" libelle="Secteur Lwabo"/>
+          <commune code="S/Mfimi" libelle="Secteur Mfimi"/>
+          <commune code="C/Bokoro" libelle="Bokoro"/>
+          <commune code="C/Dungu" libelle="Dungu"/>
+          <commune code="C/Kutu" libelle="Kutu"/>
+          <commune code="C/Mbien" libelle="Mbien"/>
+          <commune code="C/Semendwa" libelle="Semendwa"/>
+          <commune code="C/Semondane" libelle="Semondane"/>
+          <commune code="C/Tolo" libelle="Tolo"/>
+        </ville>
+        <ville code="T/Kiri" libelle="Territoire de Kiri">
+          <commune code="S/Beronge" libelle="Secteur Beronge"/>
+          <commune code="S/Lutoy" libelle="Secteur Lutoy"/>
+          <commune code="S/Pendjua" libelle="Secteur Pendjua"/>
+          <commune code="C/Inongo" libelle="Inongo"/>
+          <commune code="C/Kiri" libelle="Kiri"/>
+        </ville>
+        <ville code="T/Oshwe" libelle="Territoire d'Oshwe">
+          <commune code="S/Entre Lukenie-Lokoro Ell (Nkaw)" libelle="Secteur Entre Lukenie-Lokoro Ell (Nkaw)"/>
+          <commune code="S/Kangara" libelle="Secteur Kangara"/>
+          <commune code="S/Lokolama" libelle="Secteur Lokolama"/>
+          <commune code="S/Lukenie" libelle="Secteur Lukenie"/>
+          <commune code="C/Oshwe" libelle="Oshwe"/>
+        </ville>
+        <ville code="T/Bolobo" libelle="Territoire de Bolobo">
+          <commune code="C/Bateke-Nord" libelle="Chefferie Bateke-Nord"/>
+        </ville>
+        <ville code="T/Yumbi" libelle="Territoire d'Yumbi">
+          <commune code="S/Mongama" libelle="Secteur Mongama"/>
+          <commune code="C/Yumbi" libelle="Yumbi"/>
+        </ville>
+        <ville code="T/Mushie" libelle="Territoire de Mushie">
+          <commune code="C/Baboma-Nord" libelle="Chefferie Baboma-Nord"/>
+          <commune code="C/Mushie" libelle="Mushie"/>
+        </ville>
+        <ville code="T/Kwamouth" libelle="Territoire de Kwamouth">
+          <commune code="S/Bateke-Sud/Twa" libelle="Secteur Bateke-Sud/Twa"/>
+          <commune code="C/Kwamouth" libelle="Kwamouth"/>
+        </ville>
+        <ville code="V/Bolobo" libelle="Bolobo">
+          <commune code="C/Bolobo" libelle="Bolobo"/>
+          <commune code="C/Moseno" libelle="Moseno"/>
+          <commune code="C/Nge-Bolobo" libelle="Nge-Bolobo"/>
+        </ville>
+        <ville code="V/Inongo" libelle="Inongo">
+          <commune code="C/Bonse" libelle="Bonse"/>
+          <commune code="C/Mpolo" libelle="Mpolo"/>
+          <commune code="C/Mpongonzoli" libelle="Mpongonzoli"/>
+        </ville>
+        <ville code="V/Nioki" libelle="Nioki">
+          <commune code="C/MongaNkolo" libelle="MongaNkolo"/>
+          <commune code="C/Nioki" libelle="Nioki"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Maniema" libelle="Maniema">
+      <villes>
+        <ville code="V/Kindu" libelle="Kindu">
+          <commune code="C/Alunguli" libelle="Alunguli"/>
+          <commune code="C/Kasuku" libelle="Kasuku"/>
+          <commune code="C/Mikelenge" libelle="Mikelenge"/>
+        </ville>
+        <ville code="T/Kabambare" libelle="Territoire de Kabambare">
+          <commune code="S/Babuya" libelle="Secteur Babuya"/>
+          <commune code="S/Bahemba" libelle="Secteur Bahemba"/>
+          <commune code="S/Bahombo" libelle="Secteur Bahombo"/>
+          <commune code="S/Lulindi" libelle="Secteur Lulindi"/>
+          <commune code="S/Salamabila" libelle="Secteur Salamabila"/>
+          <commune code="S/Wamaza" libelle="Secteur Wamaza"/>
+          <commune code="C/Kabambare" libelle="Kabambare"/>
+          <commune code="C/Wamaza" libelle="Wamaza"/>
+        </ville>
+        <ville code="T/Kasongo" libelle="Territoire de Kasongo">
+          <commune code="C/Bakwange" libelle="Chefferie Bakwange"/>
+          <commune code="C/Basonge I" libelle="Chefferie Basonge I"/>
+          <commune code="S/Basonge II" libelle="Secteur Basonge II"/>
+          <commune code="C/Benia-Samba" libelle="Chefferie Benia-Samba"/>
+          <commune code="S/Mamba-Kasenga" libelle="Secteur Mamba-Kasenga"/>
+          <commune code="C/Nonda" libelle="Chefferie Nonda"/>
+          <commune code="C/Wagenia" libelle="Chefferie Wagenia"/>
+          <commune code="S/Wazimba-Wa-Maringa" libelle="Secteur Wazimba-Wa-Maringa"/>
+          <commune code="S/Wazimba-Wa-Mulu" libelle="Secteur Wazimba-Wa-Mulu"/>
+          <commune code="C/Wazula" libelle="Chefferie Wazula"/>
+          <commune code="C/Bikenge" libelle="Bikenge"/>
+          <commune code="C/Kahonda" libelle="Kahonda"/>
+          <commune code="C/Kipaka" libelle="Kipaka"/>
+          <commune code="C/Luekechi" libelle="Luekechi"/>
+          <commune code="C/Samba" libelle="Samba"/>
+        </ville>
+        <ville code="T/Kailo" libelle="Territoire de Kailo">
+          <commune code="S/Balanga" libelle="Secteur Balanga"/>
+          <commune code="S/Ambwe" libelle="Secteur Ambwe"/>
+          <commune code="C/Bangengele" libelle="Chefferie Bangengele"/>
+          <commune code="S/Wasongola" libelle="Secteur Wasongola"/>
+          <commune code="C/Kailo" libelle="Kailo"/>
+          <commune code="C/Lubelenge" libelle="Lubelenge"/>
+          <commune code="C/Misapanga" libelle="Misapanga"/>
+        </ville>
+        <ville code="T/Kibombo" libelle="Territoire de Kibombo">
+          <commune code="C/Aluba" libelle="Chefferie Aluba"/>
+          <commune code="C/Ankutshu" libelle="Chefferie Ankutshu"/>
+          <commune code="C/Bahina" libelle="Chefferie Bahina"/>
+          <commune code="C/Bakongola" libelle="Chefferie Bakongola"/>
+          <commune code="C/Matapa" libelle="Chefferie Matapa"/>
+          <commune code="C/Kibombo" libelle="Kibombo"/>
+          <commune code="C/Likeri" libelle="Likeri"/>
+        </ville>
+        <ville code="T/Lubutu" libelle="Territoire de Lubutu">
+          <commune code="S/Bitule" libelle="Secteur Bitule"/>
+          <commune code="S/Obokote" libelle="Secteur Obokote"/>
+          <commune code="C/Mungele" libelle="Mungele"/>
+          <commune code="C/Tshamaka" libelle="Tshamaka"/>
+        </ville>
+        <ville code="T/Punia" libelle="Territoire de Punia">
+          <commune code="S/Babira-Bakwame" libelle="Secteur Babira-Bakwame"/>
+          <commune code="S/Baleka" libelle="Secteur Baleka"/>
+          <commune code="S/Ulindi" libelle="Secteur Ulindi"/>
+          <commune code="C/Kibeleketa" libelle="Kibeleketa"/>
+          <commune code="C/Kowe" libelle="Kowe"/>
+        </ville>
+        <ville code="T/Pangi" libelle="Territoire de Pangi">
+          <commune code="C/Babene" libelle="Chefferie Babene"/>
+          <commune code="S/Beia" libelle="Secteur Beia"/>
+          <commune code="S/Ikama" libelle="Secteur Ikama"/>
+          <commune code="S/Wakabango II" libelle="Secteur Wakabango II"/>
+          <commune code="C/Kama (Pangi)" libelle="Kama (Pangi)"/>
+          <commune code="C/Kampene" libelle="Kampene"/>
+          <commune code="C/Pangi" libelle="Pangi"/>
+        </ville>
+        <ville code="V/Kalima" libelle="Kalima">
+          <commune code="C/Kamisuku" libelle="Kamisuku"/>
+          <commune code="C/Luzelukulu" libelle="Luzelukulu"/>
+          <commune code="C/Ulindi" libelle="Ulindi"/>
+        </ville>
+        <ville code="V/Kasongo" libelle="Kasongo">
+          <commune code="C/Kasongo" libelle="Kasongo"/>
+          <commune code="C/Lamba" libelle="Lamba"/>
+          <commune code="C/Musukuyi" libelle="Musukuyi"/>
+          <commune code="C/Tongoni" libelle="Tongoni"/>
+        </ville>
+        <ville code="V/Lubutu" libelle="Lubutu">
+          <commune code="C/Aluza" libelle="Aluza"/>
+          <commune code="C/Lubilinga" libelle="Lubilinga"/>
+        </ville>
+        <ville code="V/Namoya" libelle="Namoya">
+          <commune code="C/Byenge" libelle="Byenge"/>
+          <commune code="C/Kama (Namoya)" libelle="Kama (Namoya)"/>
+          <commune code="C/Longwe" libelle="Longwe"/>
+        </ville>
+        <ville code="V/Punia" libelle="Punia">
+          <commune code="C/Amanyombo" libelle="Amanyombo"/>
+          <commune code="C/Basenge" libelle="Basenge"/>
+          <commune code="C/Obea" libelle="Obea"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Mongala" libelle="Mongala">
+      <villes>
+        <ville code="T/Lisala" libelle="Territoire de Lisala">
+          <commune code="S/Mongala-Motima (Lisala)" libelle="Secteur Mongala-Motima (Lisala)"/>
+          <commune code="S/Ngombe-Mombangi" libelle="Secteur Ngombe-Mombangi"/>
+          <commune code="S/Ngombe-Doko (Lisala)" libelle="Secteur Ngombe-Doko (Lisala)"/>
+          <commune code="C/Binga" libelle="Binga"/>
+          <commune code="C/Mondongo" libelle="Mondongo"/>
+        </ville>
+        <ville code="T/Bongandanga" libelle="Territoire de Bongandanga">
+          <commune code="S/Bongandanga" libelle="Secteur Bongandanga"/>
+          <commune code="S/Boso-Djanoa" libelle="Secteur Boso-Djanoa"/>
+          <commune code="S/Boso-Melo" libelle="Secteur Boso-Melo"/>
+          <commune code="S/Boso-Simba" libelle="Secteur Boso-Simba"/>
+          <commune code="C/Bongandanga" libelle="Bongandanga"/>
+        </ville>
+        <ville code="T/Bumba" libelle="Territoire de Bumba">
+          <commune code="S/Banda-Yowa" libelle="Secteur Banda-Yowa"/>
+          <commune code="S/Itimbiri" libelle="Secteur Itimbiri"/>
+          <commune code="S/Loeka" libelle="Secteur Loeka"/>
+          <commune code="S/Molua" libelle="Secteur Molua"/>
+          <commune code="S/Mozamboli" libelle="Secteur Mozamboli"/>
+          <commune code="S/Yandongi" libelle="Secteur Yandongi"/>
+        </ville>
+        <ville code="V/Bumba" libelle="Bumba">
+          <commune code="C/Budja" libelle="Budja"/>
+          <commune code="C/Ebomba" libelle="Ebomba"/>
+          <commune code="C/Lokole" libelle="Lokole"/>
+          <commune code="C/Molua" libelle="Molua"/>
+          <commune code="C/Monama" libelle="Monama"/>
+        </ville>
+        <ville code="V/Lisala" libelle="Lisala">
+          <commune code="C/Bolikango" libelle="Bolikango"/>
+          <commune code="C/Mongala" libelle="Mongala"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Nord-Kivu" libelle="Nord-Kivu">
+      <villes>
+        <ville code="V/Goma" libelle="Goma">
+          <commune code="C/Goma" libelle="Goma"/>
+          <commune code="C/Karisimbi" libelle="Karisimbi"/>
+        </ville>
+        <ville code="V/Beni" libelle="Beni">
+          <commune code="C/Beu" libelle="Beu"/>
+          <commune code="C/Bungulu" libelle="Bungulu"/>
+          <commune code="C/Mulekera" libelle="Mulekera"/>
+          <commune code="C/Ruwenzori" libelle="Ruwenzori"/>
+        </ville>
+        <ville code="V/Butembo" libelle="Butembo">
+          <commune code="C/Bulengera" libelle="Bulengera"/>
+          <commune code="C/Kimeni" libelle="Kimeni"/>
+          <commune code="C/Mususa" libelle="Mususa"/>
+          <commune code="C/Vulamba" libelle="Vulamba"/>
+          <commune code="C/Kimemi" libelle="Kimemi"/>
+        </ville>
+        <ville code="T/Nyiragongo" libelle="Territoire de Nyiragongo">
+          <commune code="C/Bukumu" libelle="Chefferie Bukumu"/>
+          <commune code="C/Kibumba" libelle="Kibumba"/>
+        </ville>
+        <ville code="T/Lubero" libelle="Territoire de Lubero">
+          <commune code="C/Bamate" libelle="Chefferie Bamate"/>
+          <commune code="S/Bapere" libelle="Secteur Bapere"/>
+          <commune code="C/Baswagha" libelle="Chefferie Baswagha"/>
+          <commune code="C/Batangi" libelle="Chefferie Batangi"/>
+          <commune code="C/Kanyabayonga" libelle="Kanyabayonga"/>
+          <commune code="C/Kaseghe" libelle="Kaseghe"/>
+          <commune code="C/Kipese" libelle="Kipese"/>
+          <commune code="C/Kitsombiro" libelle="Kitsombiro"/>
+          <commune code="C/Lubero" libelle="Lubero"/>
+          <commune code="C/Luoto" libelle="Luoto"/>
+          <commune code="C/Masereka" libelle="Masereka"/>
+          <commune code="C/Njiapanda" libelle="Njiapanda"/>
+        </ville>
+        <ville code="T/Masisi" libelle="Territoire de Masisi">
+          <commune code="C/Bahunde" libelle="Chefferie Bahunde"/>
+          <commune code="S/Banyungu (Osso)" libelle="Secteur Banyungu (Osso)"/>
+          <commune code="C/Bashali" libelle="Chefferie Bashali"/>
+          <commune code="S/Katoyi" libelle="Secteur Katoyi"/>
+          <commune code="C/Kirumbu" libelle="Kirumbu"/>
+          <commune code="C/Masisi" libelle="Masisi"/>
+          <commune code="C/Ngungu (Masisi)" libelle="Ngungu (Masisi)"/>
+          <commune code="C/Nyamitaba" libelle="Nyamitaba"/>
+          <commune code="C/Pinga-Bushimbo" libelle="Pinga-Bushimbo"/>
+          <commune code="C/Rubaya" libelle="Rubaya"/>
+          <commune code="C/Sake" libelle="Sake"/>
+        </ville>
+        <ville code="T/Rutshuru" libelle="Territoire de Rutshuru">
+          <commune code="C/Bwito" libelle="Chefferie Bwito"/>
+          <commune code="C/Bwisha" libelle="Chefferie Bwisha"/>
+          <commune code="C/Bambo" libelle="Bambo"/>
+          <commune code="C/Kibirizi" libelle="Kibirizi"/>
+          <commune code="C/Nyamiliama" libelle="Nyamiliama"/>
+          <commune code="C/Nyanzale" libelle="Nyanzale"/>
+          <commune code="C/Tshengerero" libelle="Tshengerero"/>
+        </ville>
+        <ville code="T/Walikale" libelle="Territoire de Walikale">
+          <commune code="S/Bakano" libelle="Secteur Bakano"/>
+          <commune code="S/Wanianga" libelle="Secteur Wanianga"/>
+          <commune code="C/Hombo Nord" libelle="Hombo Nord"/>
+          <commune code="C/Kilambo" libelle="Kilambo"/>
+          <commune code="C/Mubi" libelle="Mubi"/>
+          <commune code="C/Ndjingala" libelle="Ndjingala"/>
+          <commune code="C/Pinga" libelle="Pinga"/>
+          <commune code="C/Walikale" libelle="Walikale"/>
+        </ville>
+        <ville code="T/Beni" libelle="Territoire de Beni">
+          <commune code="C/Bulongo" libelle="Bulongo"/>
+          <commune code="C/Kasindi" libelle="Kasindi"/>
+          <commune code="C/Kyondo" libelle="Kyondo"/>
+          <commune code="C/Lume" libelle="Lume"/>
+          <commune code="C/Mangina" libelle="Mangina"/>
+          <commune code="C/Bashu" libelle="Chefferie Bashu"/>
+          <commune code="S/Beni" libelle="Secteur Beni"/>
+          <commune code="S/Ruwenzori" libelle="Secteur Ruwenzori"/>
+          <commune code="C/Watalinga" libelle="Chefferie Watalinga"/>
+        </ville>
+        <ville code="V/Luholu" libelle="Luholu">
+          <commune code="C/Kayna" libelle="Kayna"/>
+          <commune code="C/Kirumba" libelle="Kirumba"/>
+          <commune code="C/Luofo" libelle="Luofo"/>
+          <commune code="C/Mighobwe" libelle="Mighobwe"/>
+        </ville>
+        <ville code="V/Oicha" libelle="Oicha">
+          <commune code="C/Asefu" libelle="Asefu"/>
+          <commune code="C/Mamundioma" libelle="Mamundioma"/>
+          <commune code="C/Mbimbi" libelle="Mbimbi"/>
+        </ville>
+        <ville code="V/Rutshuru" libelle="Rutshuru">
+          <commune code="C/Buzito" libelle="Buzito"/>
+          <commune code="C/Katemba" libelle="Katemba"/>
+          <commune code="C/Kiringa" libelle="Kiringa"/>
+          <commune code="C/Mabungo" libelle="Mabungo"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Nord-Ubangi" libelle="Nord-Ubangi">
+      <villes>
+        <ville code="V/Gbadolite" libelle="Gbadolite">
+          <commune code="C/Gbadolite" libelle="Gbadolite"/>
+          <commune code="C/Molegbe" libelle="Molegbe"/>
+          <commune code="C/Nzanza (Gbadolite)" libelle="Nzanza (Gbadolite)"/>
+          <commune code="C/Nganza (Gbadolite)" libelle="Nganza (Gbadolite)"/>
+        </ville>
+        <ville code="T/Bosobolo" libelle="Territoire de Bosobolo">
+          <commune code="S/Banda" libelle="Secteur Banda"/>
+          <commune code="S/Bili" libelle="Secteur Bili"/>
+          <commune code="S/Bosobolo" libelle="Secteur Bosobolo"/>
+          <commune code="C/Bosobolo" libelle="Bosobolo"/>
+        </ville>
+        <ville code="T/Mobayi-Mbongo" libelle="Territoire de Mobayi-Mbongo">
+          <commune code="S/Mobayi-Mbongo" libelle="Secteur Mobayi-Mbongo"/>
+          <commune code="S/Otto-Banza" libelle="Secteur Otto-Banza"/>
+        </ville>
+        <ville code="T/Businga" libelle="Territoire de Businga">
+          <commune code="S/Bodangabo" libelle="Secteur Bodangabo"/>
+          <commune code="S/Businga" libelle="Secteur Businga"/>
+          <commune code="S/Karawa" libelle="Secteur Karawa"/>
+          <commune code="C/Businga" libelle="Businga"/>
+        </ville>
+        <ville code="T/Yakoma" libelle="Territoire d'Yakoma">
+          <commune code="S/Abumombazi" libelle="Secteur Abumombazi"/>
+          <commune code="S/Wapinda" libelle="Secteur Wapinda"/>
+          <commune code="S/Yakoma" libelle="Secteur Yakoma"/>
+          <commune code="C/Yakoma" libelle="Yakoma"/>
+        </ville>
+        <ville code="V/Mobayi-Mbongo" libelle="Mobayi-Mbongo">
+          <commune code="C/Ngugbi" libelle="Ngugbi"/>
+          <commune code="C/Nwange" libelle="Nwange"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Sankuru" libelle="Sankuru">
+      <villes>
+        <ville code="T/Katako-Kombe" libelle="Territoire de Katako-Kombe">
+          <commune code="S/Basambala" libelle="Secteur Basambala"/>
+          <commune code="S/Lonya" libelle="Secteur Lonya"/>
+          <commune code="S/Batetela Arabises (Lomami)" libelle="Secteur Batetela Arabises (Lomami)"/>
+          <commune code="S/Djalo" libelle="Secteur Djalo"/>
+          <commune code="S/Lukumbe" libelle="Secteur Lukumbe"/>
+          <commune code="S/Ngandu de Katako-Kombe" libelle="Secteur Ngandu de Katako-Kombe"/>
+          <commune code="S/Ukulungu" libelle="Secteur Ukulungu"/>
+          <commune code="S/Watambulu-Nord" libelle="Secteur Watambulu-Nord"/>
+          <commune code="S/Watambulu-Sud" libelle="Secteur Watambulu-Sud"/>
+          <commune code="C/Kata-Kokombe" libelle="Kata-Kokombe"/>
+        </ville>
+        <ville code="T/Kole" libelle="Territoire de Kole">
+          <commune code="S/Atshuru" libelle="Secteur Atshuru"/>
+          <commune code="S/Bankutshu-Dibele" libelle="Secteur Bankutshu-Dibele"/>
+          <commune code="S/Bankutshu-Lukenie" libelle="Secteur Bankutshu-Lukenie"/>
+          <commune code="S/Basho" libelle="Secteur Basho"/>
+          <commune code="S/Batetela Dibele" libelle="Secteur Batetela Dibele"/>
+          <commune code="S/Ohindo" libelle="Secteur Ohindo"/>
+          <commune code="C/Kole" libelle="Kole"/>
+        </ville>
+        <ville code="T/Lomela" libelle="Territoire de Lomela">
+          <commune code="S/Bahamba I" libelle="Secteur Bahamba I"/>
+          <commune code="S/Bahamba II" libelle="Secteur Bahamba II"/>
+          <commune code="C/Djonga" libelle="Chefferie Djonga"/>
+          <commune code="S/Batetela-Lomela" libelle="Secteur Batetela-Lomela"/>
+          <commune code="S/Bakela" libelle="Secteur Bakela"/>
+          <commune code="S/Okutu" libelle="Secteur Okutu"/>
+          <commune code="C/LomelaOlua" libelle="LomelaOlua"/>
+        </ville>
+        <ville code="T/Lodja" libelle="Territoire de Lodja">
+          <commune code="S/Ahamba-Mange" libelle="Secteur Ahamba-Mange"/>
+          <commune code="S/Kondo-Tshumbe" libelle="Secteur Kondo-Tshumbe"/>
+          <commune code="S/Lukfungu" libelle="Secteur Lukfungu"/>
+          <commune code="S/Lutshimba" libelle="Secteur Lutshimba"/>
+          <commune code="S/Nambelu-Luhembe" libelle="Secteur Nambelu-Luhembe"/>
+          <commune code="S/Olemba" libelle="Secteur Olemba"/>
+          <commune code="S/Vunge" libelle="Secteur Vunge"/>
+          <commune code="S/Watambulu" libelle="Secteur Watambulu"/>
+          <commune code="S/Batetela-Lukenie (Cité de Lodja)" libelle="Secteur Batetela-Lukenie (Cité de Lodja)"/>
+          <commune code="C/Kutshiakoyi" libelle="Kutshiakoyi"/>
+        </ville>
+        <ville code="T/Lusambo" libelle="Territoire de Lusambo">
+          <commune code="S/Basonge (Lusambo)" libelle="Secteur Basonge (Lusambo)"/>
+          <commune code="S/Batetela" libelle="Secteur Batetela"/>
+          <commune code="S/E.K.M. (Entre Kunduye Maalaba)" libelle="Secteur E.K.M. (Entre Kunduye Maalaba)"/>
+          <commune code="S/E.L.K. (Entre Lubi Kunduye)" libelle="Secteur E.L.K. (Entre Lubi Kunduye)"/>
+          <commune code="S/Kashindi" libelle="Secteur Kashindi"/>
+          <commune code="S/Lubi (Lusambo)" libelle="Secteur Lubi (Lusambo)"/>
+          <commune code="S/Sankuru" libelle="Secteur Sankuru"/>
+          <commune code="S/Mpania-Mutombo" libelle="Secteur Mpania-Mutombo"/>
+          <commune code="C/Mpaya-Mutombo" libelle="Mpaya-Mutombo"/>
+        </ville>
+        <ville code="T/Lubefu" libelle="Territoire de Lubefu">
+          <commune code="S/Basonge (Lubefu)" libelle="Secteur Basonge (Lubefu)"/>
+          <commune code="S/Mondja-Ngandu" libelle="Secteur Mondja-Ngandu"/>
+          <commune code="S/Ndjovu" libelle="Secteur Ndjovu"/>
+          <commune code="S/Ngandu-Wuma" libelle="Secteur Ngandu-Wuma"/>
+          <commune code="C/Lubefu" libelle="Lubefu"/>
+        </ville>
+        <ville code="V/Lodja" libelle="Lodja">
+          <commune code="C/Esenge" libelle="Esenge"/>
+          <commune code="C/Lokenye" libelle="Lokenye"/>
+          <commune code="C/Londa" libelle="Londa"/>
+          <commune code="C/Lumumba (Lodja)" libelle="Lumumba (Lodja)"/>
+          <commune code="C/Nganga" libelle="Nganga"/>
+          <commune code="C/Okitandeke" libelle="Okitandeke"/>
+          <commune code="C/Shapembe" libelle="Shapembe"/>
+        </ville>
+        <ville code="V/Lumumba" libelle="Lumumba">
+          <commune code="C/Ewango" libelle="Ewango"/>
+          <commune code="C/Wembo-Nyama" libelle="Wembo-Nyama"/>
+        </ville>
+        <ville code="V/Lusambo" libelle="Lusambo">
+          <commune code="C/Kabondo (Lusambo)" libelle="Kabondo (Lusambo)"/>
+          <commune code="C/Lumpembe" libelle="Lumpembe"/>
+          <commune code="C/Lusambo" libelle="Lusambo"/>
+          <commune code="C/Tusuanganayi" libelle="Tusuanganayi"/>
+        </ville>
+        <ville code="V/Tshumbe" libelle="Tshumbe">
+          <commune code="C/Okitongmbe" libelle="Okitongmbe"/>
+          <commune code="C/Otete" libelle="Otete"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Sud-Kivu" libelle="Sud-Kivu">
+      <villes>
+        <ville code="V/Bukavu" libelle="Bukavu">
+          <commune code="C/Bagira" libelle="Bagira"/>
+          <commune code="C/Ibanda" libelle="Ibanda"/>
+          <commune code="C/Kadutu" libelle="Kadutu"/>
+        </ville>
+        <ville code="T/Kabare" libelle="Territoire de Kabare">
+          <commune code="C/Kabare" libelle="Chefferie Kabare"/>
+          <commune code="C/Nindja" libelle="Chefferie Nindja"/>
+          <commune code="C/Kavumu" libelle="Kavumu"/>
+        </ville>
+        <ville code="T/Walungu" libelle="Territoire de Walungu">
+          <commune code="C/Kaziba" libelle="Chefferie Kaziba"/>
+          <commune code="C/Ngweshe" libelle="Chefferie Ngweshe"/>
+          <commune code="C/Kamanyola" libelle="Kamanyola"/>
+          <commune code="C/Nyangezi" libelle="Nyangezi"/>
+        </ville>
+        <ville code="T/Kalehe" libelle="Territoire de Kalehe">
+          <commune code="C/Buhavu" libelle="Chefferie Buhavu"/>
+          <commune code="C/Buloho" libelle="Chefferie Buloho"/>
+          <commune code="C/Bulambika" libelle="Bulambika"/>
+          <commune code="C/Hombo Sud" libelle="Hombo Sud"/>
+          <commune code="C/Minova" libelle="Minova"/>
+          <commune code="C/Nyabibwe" libelle="Nyabibwe"/>
+        </ville>
+        <ville code="T/Idjwi" libelle="Territoire d'Idjwi">
+          <commune code="C/Ntambuka" libelle="Chefferie Ntambuka"/>
+          <commune code="C/Rubenga" libelle="Chefferie Rubenga"/>
+        </ville>
+        <ville code="T/Mwenga" libelle="Territoire de Mwenga">
+          <commune code="C/Basile" libelle="Chefferie Basile"/>
+          <commune code="C/Burhinyi" libelle="Chefferie Burhinyi"/>
+          <commune code="S/Itombwe" libelle="Secteur Itombwe"/>
+          <commune code="C/Luhwindja" libelle="Chefferie Luhwindja"/>
+          <commune code="C/Lwindi" libelle="Chefferie Lwindi"/>
+          <commune code="C/Wamuzimu" libelle="Chefferie Wamuzimu"/>
+        </ville>
+        <ville code="T/Fizi" libelle="Territoire de Fizi">
+          <commune code="S/Lulenge" libelle="Secteur Lulenge"/>
+          <commune code="S/Mutambala" libelle="Secteur Mutambala"/>
+          <commune code="S/Ngandja" libelle="Secteur Ngandja"/>
+          <commune code="S/Tanganyika" libelle="Secteur Tanganyika"/>
+          <commune code="C/Fizi" libelle="Fizi"/>
+          <commune code="C/Lulimbamisisi" libelle="Lulimbamisisi"/>
+          <commune code="C/Minembwe" libelle="Minembwe"/>
+          <commune code="C/Swima" libelle="Swima"/>
+        </ville>
+        <ville code="T/Shabunda" libelle="Territoire de Shabunda">
+          <commune code="C/Bakisi" libelle="Chefferie Bakisi"/>
+          <commune code="C/Wakabango" libelle="Chefferie Wakabango"/>
+          <commune code="C/Lulingi" libelle="Lulingi"/>
+        </ville>
+        <ville code="T/Uvira" libelle="Territoire d'Uvira">
+          <commune code="C/Bafuliro" libelle="Chefferie Bafuliro"/>
+          <commune code="C/Bavira" libelle="Chefferie Bavira"/>
+          <commune code="C/Plaine de la Ruzizi" libelle="Chefferie Plaine de la Ruzizi"/>
+          <commune code="C/Kiliba" libelle="Kiliba"/>
+          <commune code="C/Luvungi" libelle="Luvungi"/>
+          <commune code="C/Sange" libelle="Sange"/>
+        </ville>
+        <ville code="V/Baraka" libelle="Baraka">
+          <commune code="C/Baraka Centre" libelle="Baraka Centre"/>
+          <commune code="C/Kalundja" libelle="Kalundja"/>
+          <commune code="C/Katanga (Baraka)" libelle="Katanga (Baraka)"/>
+        </ville>
+        <ville code="V/Kamituga" libelle="Kamituga">
+          <commune code="C/Bitanga" libelle="Bitanga"/>
+          <commune code="C/Mobale" libelle="Mobale"/>
+        </ville>
+        <ville code="V/Shabunda" libelle="Shabunda">
+          <commune code="C/Kizikibi" libelle="Kizikibi"/>
+          <commune code="C/Lupimbi" libelle="Lupimbi"/>
+          <commune code="C/Nyalubwe" libelle="Nyalubwe"/>
+        </ville>
+        <ville code="V/Uvira" libelle="Uvira">
+          <commune code="C/Kalunda" libelle="Kalunda"/>
+          <commune code="C/Kavimvira" libelle="Kavimvira"/>
+          <commune code="C/Mulongwe" libelle="Mulongwe"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Sud-Ubangi" libelle="Sud-Ubangi">
+      <villes>
+        <ville code="V/Zongo" libelle="Zongo">
+          <commune code="C/Nzulu" libelle="Nzulu"/>
+          <commune code="C/Wango" libelle="Wango"/>
+        </ville>
+        <ville code="T/Gemena" libelle="Territoire de Gemena">
+          <commune code="S/Banga-Kungu" libelle="Secteur Banga-Kungu"/>
+          <commune code="S/Bowase" libelle="Secteur Bowase"/>
+          <commune code="S/Mbari" libelle="Secteur Mbari"/>
+          <commune code="S/Nguya" libelle="Secteur Nguya"/>
+        </ville>
+        <ville code="T/Budjala" libelle="Territoire de Budjala">
+          <commune code="S/Banza" libelle="Secteur Banza"/>
+          <commune code="S/Bolingo" libelle="Secteur Bolingo"/>
+          <commune code="S/Mongala-Motima" libelle="Secteur Mongala-Motima"/>
+          <commune code="S/Ndolo-Liboko" libelle="Secteur Ndolo-Liboko"/>
+          <commune code="S/Ngombe-Doko (Budjala)" libelle="Secteur Ngombe-Doko (Budjala)"/>
+          <commune code="C/Budjala" libelle="Budjala"/>
+        </ville>
+        <ville code="T/Kungu" libelle="Territoire de Kungu">
+          <commune code="S/Bomboma" libelle="Secteur Bomboma"/>
+          <commune code="S/Dongo" libelle="Secteur Dongo"/>
+          <commune code="S/Lua" libelle="Secteur Lua"/>
+          <commune code="S/Mwanda" libelle="Secteur Mwanda"/>
+          <commune code="S/Songo" libelle="Secteur Songo"/>
+          <commune code="C/Kungu" libelle="Kungu"/>
+        </ville>
+        <ville code="T/Libenge" libelle="Territoire de Libenge">
+          <commune code="S/Libenge-Centre" libelle="Secteur Libenge-Centre"/>
+          <commune code="S/Libenge-Nord" libelle="Secteur Libenge-Nord"/>
+          <commune code="S/Libenge-Sud" libelle="Secteur Libenge-Sud"/>
+          <commune code="C/Libenge" libelle="Libenge"/>
+        </ville>
+        <ville code="V/Gemena" libelle="Gemena">
+          <commune code="C/Gbazubu" libelle="Gbazubu"/>
+          <commune code="C/Labo" libelle="Labo"/>
+          <commune code="C/Lac-Ntumba" libelle="Lac-Ntumba"/>
+          <commune code="C/Mont Gila" libelle="Mont Gila"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Tanganyika" libelle="Tanganyika">
+      <villes>
+        <ville code="T/Kongolo" libelle="Territoire de Kongolo">
+          <commune code="S/Baluba" libelle="Secteur Baluba"/>
+          <commune code="S/Basonge (Kongolo)" libelle="Secteur Basonge (Kongolo)"/>
+          <commune code="C/Bayashi" libelle="Chefferie Bayashi"/>
+          <commune code="C/Lubunda" libelle="Chefferie Lubunda"/>
+          <commune code="C/Muhona" libelle="Chefferie Muhona"/>
+          <commune code="C/Nkuvu" libelle="Chefferie Nkuvu"/>
+          <commune code="C/Bena-Nyembo" libelle="Chefferie Bena-Nyembo"/>
+          <commune code="C/Mambwe" libelle="Chefferie Mambwe"/>
+          <commune code="S/Munono" libelle="Secteur Munono"/>
+          <commune code="C/Yambula" libelle="Chefferie Yambula"/>
+        </ville>
+        <ville code="T/Kabalo" libelle="Territoire de Kabalo">
+          <commune code="S/Luela-Luvunguyi" libelle="Secteur Luela-Luvunguyi"/>
+          <commune code="S/Lukuswa" libelle="Secteur Lukuswa"/>
+        </ville>
+        <ville code="T/Manono" libelle="Territoire de Manono">
+          <commune code="C/Bakongolo" libelle="Chefferie Bakongolo"/>
+          <commune code="S/Kamalondo" libelle="Secteur Kamalondo"/>
+          <commune code="C/Kiluba" libelle="Chefferie Kiluba"/>
+          <commune code="S/Kyofwe" libelle="Secteur Kyofwe"/>
+          <commune code="S/Luvua" libelle="Secteur Luvua"/>
+          <commune code="S/Nyemba" libelle="Secteur Nyemba"/>
+          <commune code="C/Kanteba" libelle="Kanteba"/>
+          <commune code="C/Kaulu-Minono" libelle="Kaulu-Minono"/>
+          <commune code="C/Kitotolo" libelle="Kitotolo"/>
+          <commune code="C/Lukushi" libelle="Lukushi"/>
+        </ville>
+        <ville code="T/Nyunzu" libelle="Territoire de Nyunzu">
+          <commune code="S/Nord-Lukuga" libelle="Secteur Nord-Lukuga"/>
+          <commune code="S/Sud-Lukuga" libelle="Secteur Sud-Lukuga"/>
+          <commune code="C/Nyunzu" libelle="Nyunzu"/>
+        </ville>
+        <ville code="T/Kalemie" libelle="Territoire de Kalemie">
+          <commune code="C/Benze" libelle="Chefferie Benze"/>
+          <commune code="C/Rutuku" libelle="Chefferie Rutuku"/>
+          <commune code="C/Tumbwe" libelle="Chefferie Tumbwe"/>
+        </ville>
+        <ville code="T/Moba" libelle="Territoire de Moba">
+          <commune code="S/Bena-Kamanya" libelle="Secteur Bena-Kamanya"/>
+          <commune code="C/Bena-Tanga" libelle="Chefferie Bena-Tanga"/>
+          <commune code="C/Kansabala" libelle="Chefferie Kansabala"/>
+          <commune code="C/Kayabala" libelle="Chefferie Kayabala"/>
+          <commune code="C/Manda" libelle="Chefferie Manda"/>
+          <commune code="C/Nganye" libelle="Chefferie Nganye"/>
+        </ville>
+        <ville code="V/Kalemie" libelle="Kalemie">
+          <commune code="C/Kalemie" libelle="Kalemie"/>
+          <commune code="C/Lac" libelle="Lac"/>
+          <commune code="C/Lukunga" libelle="Lukunga"/>
+        </ville>
+        <ville code="V/Kaoze" libelle="Kaoze">
+          <commune code="C/Kirungu" libelle="Kirungu"/>
+          <commune code="C/Moba Port" libelle="Moba Port"/>
+          <commune code="C/Murumbi" libelle="Murumbi"/>
+        </ville>
+        <ville code="V/Kongolo" libelle="Kongolo">
+          <commune code="C/Kabinda (Kongolo)" libelle="Kabinda (Kongolo)"/>
+          <commune code="C/Kangoyi" libelle="Kangoyi"/>
+          <commune code="C/Lualaba" libelle="Lualaba"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Tshopo" libelle="Tshopo">
+      <villes>
+        <ville code="V/Kisangani" libelle="Kisangani">
+          <commune code="C/Kabondo (Kisangani)" libelle="Kabondo (Kisangani)"/>
+          <commune code="C/Kisangani" libelle="Kisangani"/>
+          <commune code="C/Lubunga" libelle="Lubunga"/>
+          <commune code="C/Mangobo" libelle="Mangobo"/>
+          <commune code="C/Makiso" libelle="Makiso"/>
+          <commune code="C/Tshopo" libelle="Tshopo"/>
+          <commune code="C/Lubuya-Bera" libelle="Lubuya-Bera"/>
+          <commune code="C/Lubangu" libelle="Lubangu"/>
+        </ville>
+        <ville code="T/Bafwasende" libelle="Territoire de Bafwasende">
+          <commune code="S/Bafwandaka" libelle="Secteur Bafwandaka"/>
+          <commune code="S/Bakumu d'Angumu" libelle="Secteur Bakumu d'Angumu"/>
+          <commune code="S/Bakundumu" libelle="Secteur Bakundumu"/>
+          <commune code="S/Bekeni-Kondolole" libelle="Secteur Bekeni-Kondolole"/>
+          <commune code="S/Barumbi-Opienge" libelle="Secteur Barumbi-Opienge"/>
+          <commune code="S/Bemili" libelle="Secteur Bemili"/>
+          <commune code="C/Bafwasende" libelle="Bafwasende"/>
+          <commune code="C/Opienge" libelle="Opienge"/>
+        </ville>
+        <ville code="T/Banalia" libelle="Territoire de Banalia">
+          <commune code="C/Baboro" libelle="Chefferie Baboro"/>
+          <commune code="S/Babwa de Kole" libelle="Secteur Babwa de Kole"/>
+          <commune code="S/Bamanga" libelle="Secteur Bamanga"/>
+          <commune code="S/Banalia-Bangba" libelle="Secteur Banalia-Bangba"/>
+          <commune code="S/Popoy" libelle="Secteur Popoy"/>
+          <commune code="C/Banalia" libelle="Banalia"/>
+          <commune code="C/Panga" libelle="Panga"/>
+        </ville>
+        <ville code="T/Basoko" libelle="Territoire de Basoko">
+          <commune code="S/Bangelema-Mongandjo" libelle="Secteur Bangelema-Mongandjo"/>
+          <commune code="S/Bomenge" libelle="Secteur Bomenge"/>
+          <commune code="S/Mobango-Itimbiri" libelle="Secteur Mobango-Itimbiri"/>
+          <commune code="S/Lokutu" libelle="Secteur Lokutu"/>
+          <commune code="S/Turumbu (Basoko)" libelle="Secteur Turumbu (Basoko)"/>
+          <commune code="C/Wahanga" libelle="Chefferie Wahanga"/>
+          <commune code="C/Yaliwasa" libelle="Chefferie Yaliwasa"/>
+          <commune code="C/Yamandundu" libelle="Chefferie Yamandundu"/>
+          <commune code="C/Moenge" libelle="Moenge"/>
+        </ville>
+        <ville code="T/Isangi" libelle="Territoire d'Isangi">
+          <commune code="C/Baluolambila" libelle="Chefferie Baluolambila"/>
+          <commune code="C/Bolomboki" libelle="Chefferie Bolomboki"/>
+          <commune code="C/Kombe" libelle="Chefferie Kombe"/>
+          <commune code="C/Liutua" libelle="Chefferie Liutua"/>
+          <commune code="C/Yalikoka-Mboso" libelle="Chefferie Yalikoka-Mboso"/>
+          <commune code="C/Yalihila" libelle="Chefferie Yalihila"/>
+          <commune code="S/Bambelota" libelle="Secteur Bambelota"/>
+          <commune code="S/Yaokondja" libelle="Secteur Yaokondja"/>
+          <commune code="S/Turumbu (Isangi)" libelle="Secteur Turumbu (Isangi)"/>
+          <commune code="S/Lokombe" libelle="Secteur Lokombe"/>
+          <commune code="S/Yalikandja-Yanonge" libelle="Secteur Yalikandja-Yanonge"/>
+          <commune code="S/Luete" libelle="Secteur Luete"/>
+          <commune code="S/Yawembe-Basoa" libelle="Secteur Yawembe-Basoa"/>
+          <commune code="C/Yabaondo" libelle="Yabaondo"/>
+        </ville>
+        <ville code="T/Opala" libelle="Territoire d'Opala">
+          <commune code="S/Balinga-Lindja" libelle="Secteur Balinga-Lindja"/>
+          <commune code="S/Iye" libelle="Secteur Iye"/>
+          <commune code="S/Lobaie" libelle="Secteur Lobaie"/>
+          <commune code="S/Yawende-Lolo" libelle="Secteur Yawende-Lolo"/>
+          <commune code="S/Tooli" libelle="Secteur Tooli"/>
+          <commune code="C/Kembe" libelle="Chefferie Kembe"/>
+          <commune code="C/Mongo" libelle="Chefferie Mongo"/>
+          <commune code="C/Yalingo" libelle="Chefferie Yalingo"/>
+          <commune code="C/Yamaie" libelle="Chefferie Yamaie"/>
+          <commune code="C/Yeyango" libelle="Chefferie Yeyango"/>
+          <commune code="C/Yapandu" libelle="Chefferie Yapandu"/>
+          <commune code="C/Opala" libelle="Opala"/>
+          <commune code="C/Yakeko" libelle="Yakeko"/>
+          <commune code="C/Yatolema" libelle="Yatolema"/>
+        </ville>
+        <ville code="T/Yahuma" libelle="Territoire d'Yahuma">
+          <commune code="S/Bolinga" libelle="Secteur Bolinga"/>
+          <commune code="S/Bosoku" libelle="Secteur Bosoku"/>
+          <commune code="S/Buma" libelle="Secteur Buma"/>
+          <commune code="C/Mombesa" libelle="Chefferie Mombesa"/>
+          <commune code="C/Mosite" libelle="Mosite"/>
+          <commune code="C/Yahuma" libelle="Yahuma"/>
+        </ville>
+        <ville code="T/Ubundu" libelle="Territoire d'Ubundu">
+          <commune code="S/Bakumu-Kilinga" libelle="Secteur Bakumu-Kilinga"/>
+          <commune code="S/Bakumu-Mandombe" libelle="Secteur Bakumu-Mandombe"/>
+          <commune code="S/Bakumu-Mangongo" libelle="Secteur Bakumu-Mangongo"/>
+          <commune code="S/Bakumu-d'Obiatuku" libelle="Secteur Bakumu-d'Obiatuku"/>
+          <commune code="C/Kirundu" libelle="Chefferie Kirundu"/>
+          <commune code="S/Mituku-Bamoya" libelle="Secteur Mituku-Bamoya"/>
+          <commune code="S/Mituku-Basikate" libelle="Secteur Mituku-Basikate"/>
+          <commune code="S/Walengola-Babira" libelle="Secteur Walengola-Babira"/>
+          <commune code="S/Walengola-Baleka" libelle="Secteur Walengola-Baleka"/>
+          <commune code="S/Walengola-Lilo" libelle="Secteur Walengola-Lilo"/>
+          <commune code="S/Walengola-Lowa" libelle="Secteur Walengola-Lowa"/>
+          <commune code="C/Ubundu" libelle="Ubundu"/>
+          <commune code="C/Wanie-Rukula" libelle="Wanie-Rukula"/>
+        </ville>
+        <ville code="V/Basoko" libelle="Basoko">
+          <commune code="C/Bandole" libelle="Bandole"/>
+          <commune code="C/Bandu-Lokutu" libelle="Bandu-Lokutu"/>
+          <commune code="C/Lokumete" libelle="Lokumete"/>
+          <commune code="C/Nzombo" libelle="Nzombo"/>
+        </ville>
+        <ville code="V/Isangi" libelle="Isangi">
+          <commune code="C/Fleuve" libelle="Fleuve"/>
+          <commune code="C/Isangi" libelle="Isangi"/>
+          <commune code="C/Lomami (Isangi)" libelle="Lomami (Isangi)"/>
+          <commune code="C/Loolo" libelle="Loolo"/>
+        </ville>
+        <ville code="V/Yangambi" libelle="Yangambi">
+          <commune code="C/Ekutsu" libelle="Ekutsu"/>
+          <commune code="C/Lusambila" libelle="Lusambila"/>
+          <commune code="C/Manzikila" libelle="Manzikila"/>
+        </ville>
+      </villes>
+    </province>
+    <province code="P/Tshuapa" libelle="Tshuapa">
+      <villes>
+        <ville code="T/Boende" libelle="Territoire de Boende">
+          <commune code="S/Bolua" libelle="Secteur Bolua"/>
+          <commune code="S/Djera" libelle="Secteur Djera"/>
+          <commune code="S/Lofoy" libelle="Secteur Lofoy"/>
+          <commune code="S/Wini" libelle="Secteur Wini"/>
+        </ville>
+        <ville code="T/Bokungu" libelle="Territoire de Bokungu">
+          <commune code="S/Lolaka" libelle="Secteur Lolaka"/>
+          <commune code="S/Luando" libelle="Secteur Luando"/>
+          <commune code="S/Loombo" libelle="Secteur Loombo"/>
+          <commune code="S/Luay" libelle="Secteur Luay"/>
+          <commune code="C/Nkole" libelle="Chefferie Nkole"/>
+          <commune code="C/Bokungu" libelle="Bokungu"/>
+        </ville>
+        <ville code="T/Ikela" libelle="Territoire d'Ikela">
+          <commune code="S/Lofome" libelle="Secteur Lofome"/>
+          <commune code="S/Loile" libelle="Secteur Loile"/>
+          <commune code="S/Tshuapa" libelle="Secteur Tshuapa"/>
+          <commune code="S/Tumbenga" libelle="Secteur Tumbenga"/>
+          <commune code="S/Lokima" libelle="Secteur Lokima"/>
+          <commune code="C/Ikela" libelle="Ikela"/>
+        </ville>
+        <ville code="T/Befale" libelle="Territoire de Befale">
+          <commune code="S/Befumbo" libelle="Secteur Befumbo"/>
+          <commune code="S/Duale" libelle="Secteur Duale"/>
+          <commune code="S/Lomako" libelle="Secteur Lomako"/>
+          <commune code="C/Befale" libelle="Befale"/>
+        </ville>
+        <ville code="T/Djolu" libelle="Territoire de Djolu">
+          <commune code="S/Djolu" libelle="Secteur Djolu"/>
+          <commune code="S/Lingomo" libelle="Secteur Lingomo"/>
+          <commune code="S/Luo" libelle="Secteur Luo"/>
+          <commune code="S/Yala" libelle="Secteur Yala"/>
+          <commune code="C/Djolu" libelle="Djolu"/>
+        </ville>
+        <ville code="T/Monkoto" libelle="Territoire de Monkoto">
+          <commune code="S/Bianga" libelle="Secteur Bianga"/>
+          <commune code="S/Nongo" libelle="Secteur Nongo"/>
+          <commune code="S/Monkoto" libelle="Secteur Monkoto"/>
+          <commune code="C/Monkoto" libelle="Monkoto"/>
+        </ville>
+        <ville code="V/Boende" libelle="Boende">
+          <commune code="C/Boende" libelle="Boende"/>
+        </ville>
+      </villes>
+    </province>
+  </reponseDocumentation>
+</enveloppe>

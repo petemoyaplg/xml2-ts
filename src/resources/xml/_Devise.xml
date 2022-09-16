@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<enveloppe id="490000015" identifiant="ARCA" timestamp="2022-06-24T08:28:08.7671103">
+  <reponseDocumentation id="934942323">
+    <devise id="AED" libelle="UAE Dirham" decimales="2" preferred="false"/>
+    <devise id="AFN" libelle="Afghani" decimales="2" preferred="false"/>
+    <devise id="ALL" libelle="Lek" decimales="2" preferred="false"/>
+    <devise id="AMD" libelle="Armenian Dram" decimales="2" preferred="false"/>
+    <devise id="ANG" libelle="Netherlands Antillean Guilder" decimales="2" preferred="false"/>
+    <devise id="AOA" libelle="Kwanza" decimales="2" preferred="false"/>
+    <devise id="ARS" libelle="Argentine Peso" decimales="2" preferred="false"/>
+    <devise id="AUD" libelle="Australian Dollar" decimales="2" preferred="false"/>
+    <devise id="AWG" libelle="Aruban Florin" decimales="2" preferred="false"/>
+    <devise id="AZN" libelle="Azerbaijan Manat" decimales="2" preferred="false"/>
+    <devise id="BAM" libelle="Convertible Mark" decimales="2" preferred="false"/>
+    <devise id="BBD" libelle="Barbados Dollar" decimales="2" preferred="false"/>
+    <devise id="BDT" libelle="Taka" decimales="2" preferred="false"/>
+    <devise id="BGN" libelle="Bulgarian Lev" decimales="2" preferred="false"/>
+    <devise id="BHD" libelle="Bahraini Dinar" decimales="3" preferred="false"/>
+    <devise id="BIF" libelle="Burundi Franc" decimales="0" preferred="false"/>
+    <devise id="BMD" libelle="Bermudian Dollar" decimales="2" preferred="false"/>
+    <devise id="BND" libelle="Brunei Dollar" decimales="2" preferred="false"/>
+    <devise id="BOB" libelle="Boliviano" decimales="2" preferred="false"/>
+    <devise id="BOV" libelle="Mvdol" decimales="2" preferred="false"/>
+    <devise id="BRL" libelle="Brazilian Real" decimales="2" preferred="false"/>
+    <devise id="BSD" libelle="Bahamian Dollar" decimales="2" preferred="false"/>
+    <devise id="BTN" libelle="Ngultrum" decimales="2" preferred="false"/>
+    <devise id="BWP" libelle="Pula" decimales="2" preferred="false"/>
+    <devise id="BYN" libelle="Belarusian Ruble" decimales="2" preferred="false"/>
+    <devise id="BZD" libelle="Belize Dollar" decimales="2" preferred="false"/>
+    <devise id="CAD" libelle="Canadian Dollar" decimales="2" preferred="false"/>
+    <devise id="CDF" libelle="Congolese Franc" decimales="2" preferred="false"/>
+    <devise id="CHF" libelle="Swiss Franc" decimales="2" preferred="false"/>
+    <devise id="CLF" libelle="Unidad de Fomento" decimales="4" preferred="false"/>
+    <devise id="CLP" libelle="Chilean Peso" decimales="0" preferred="false"/>
+    <devise id="CNY" libelle="Yuan Renminbi" decimales="2" preferred="false"/>
+    <devise id="COP" libelle="Colombian Peso" decimales="2" preferred="false"/>
+    <devise id="COU" libelle="Unidad de Valor Real" decimales="2" preferred="false"/>
+    <devise id="CRC" libelle="Costa Rican Colon" decimales="2" preferred="false"/>
+    <devise id="CUC" libelle="Peso Convertible" decimales="2" preferred="false"/>
+    <devise id="CUP" libelle="Cuban Peso" decimales="2" preferred="false"/>
+    <devise id="CVE" libelle="Cabo Verde Escudo" decimales="2" preferred="false"/>
+    <devise id="CZK" libelle="Czech Koruna" decimales="2" preferred="false"/>
+    <devise id="DJF" libelle="Djibouti Franc" decimales="0" preferred="false"/>
+    <devise id="DKK" libelle="Danish Krone" decimales="2" preferred="false"/>
+    <devise id="DOP" libelle="Dominican Peso" decimales="2" preferred="false"/>
+    <devise id="DZD" libelle="Algerian Dinar" decimales="2" preferred="false"/>
+    <devise id="EGP" libelle="Egyptian Pound" decimales="2" preferred="false"/>
+    <devise id="ERN" libelle="Nakfa" decimales="2" preferred="false"/>
+    <devise id="ETB" libelle="Ethiopian Birr" decimales="2" preferred="false"/>
+    <devise id="EUR" libelle="Euro" decimales="2" preferred="false"/>
+    <devise id="FJD" libelle="Fiji Dollar" decimales="2" preferred="false"/>
+    <devise id="FKP" libelle="Falkland Islands Pound" decimales="2" preferred="false"/>
+    <devise id="GBP" libelle="Pound Sterling" decimales="2" preferred="false"/>
+    <devise id="GEL" libelle="Lari" decimales="2" preferred="false"/>
+    <devise id="GHS" libelle="Ghana Cedi" decimales="2" preferred="false"/>
+    <devise id="GIP" libelle="Gibraltar Pound" decimales="2" preferred="false"/>
+    <devise id="GMD" libelle="Dalasi" decimales="2" preferred="false"/>
+    <devise id="GNF" libelle="Guinean Franc" decimales="0" preferred="false"/>
+    <devise id="GTQ" libelle="Quetzal" decimales="2" preferred="false"/>
+    <devise id="GYD" libelle="Guyana Dollar" decimales="2" preferred="false"/>
+    <devise id="HKD" libelle="Hong Kong Dollar" decimales="2" preferred="false"/>
+    <devise id="HNL" libelle="Lempira" decimales="2" preferred="false"/>
+    <devise id="HRK" libelle="Kuna" decimales="2" preferred="false"/>
+    <devise id="HTG" libelle="Gourde" decimales="2" preferred="false"/>
+    <devise id="HUF" libelle="Forint" decimales="2" preferred="false"/>
+    <devise id="IDR" libelle="Rupiah" decimales="2" preferred="false"/>
+    <devise id="ILS" libelle="New Israeli Sheqel" decimales="2" preferred="false"/>
+    <devise id="INR" libelle="Indian Rupee" decimales="2" preferred="false"/>
+    <devise id="IQD" libelle="Iraqi Dinar" decimales="3" preferred="false"/>
+    <devise id="IRR" libelle="Iranian Rial" decimales="2" preferred="false"/>
+    <devise id="ISK" libelle="Iceland Krona" decimales="0" preferred="false"/>
+    <devise id="JMD" libelle="Jamaican Dollar" decimales="2" preferred="false"/>
+    <devise id="JOD" libelle="Jordanian Dinar" decimales="3" preferred="false"/>
+    <devise id="JPY" libelle="Yen" decimales="0" preferred="false"/>
+    <devise id="KES" libelle="Kenyan Shilling" decimales="2" preferred="false"/>
+    <devise id="KGS" libelle="Som" decimales="2" preferred="false"/>
+    <devise id="KHR" libelle="Riel" decimales="2" preferred="false"/>
+    <devise id="KMF" libelle="Comorian Franc " decimales="0" preferred="false"/>
+    <devise id="KPW" libelle="North Korean Won" decimales="2" preferred="false"/>
+    <devise id="KRW" libelle="Won" decimales="0" preferred="false"/>
+    <devise id="KWD" libelle="Kuwaiti Dinar" decimales="3" preferred="false"/>
+    <devise id="KYD" libelle="Cayman Islands Dollar" decimales="2" preferred="false"/>
+    <devise id="KZT" libelle="Tenge" decimales="2" preferred="false"/>
+    <devise id="LAK" libelle="Lao Kip" decimales="2" preferred="false"/>
+    <devise id="LBP" libelle="Lebanese Pound" decimales="2" preferred="false"/>
+    <devise id="LKR" libelle="Sri Lanka Rupee" decimales="2" preferred="false"/>
+    <devise id="LRD" libelle="Liberian Dollar" decimales="2" preferred="false"/>
+    <devise id="LSL" libelle="Loti" decimales="2" preferred="false"/>
+    <devise id="LYD" libelle="Libyan Dinar" decimales="3" preferred="false"/>
+    <devise id="MAD" libelle="Moroccan Dirham" decimales="2" preferred="false"/>
+    <devise id="MDL" libelle="Moldovan Leu" decimales="2" preferred="false"/>
+    <devise id="MGA" libelle="Malagasy Ariary" decimales="2" preferred="false"/>
+    <devise id="MKD" libelle="Denar" decimales="2" preferred="false"/>
+    <devise id="MMK" libelle="Kyat" decimales="2" preferred="false"/>
+    <devise id="MNT" libelle="Tugrik" decimales="2" preferred="false"/>
+    <devise id="MOP" libelle="Pataca" decimales="2" preferred="false"/>
+    <devise id="MRU" libelle="Ouguiya" decimales="2" preferred="false"/>
+    <devise id="MUR" libelle="Mauritius Rupee" decimales="2" preferred="false"/>
+    <devise id="MVR" libelle="Rufiyaa" decimales="2" preferred="false"/>
+    <devise id="MWK" libelle="Malawi Kwacha" decimales="2" preferred="false"/>
+    <devise id="MXN" libelle="Mexican Peso" decimales="2" preferred="false"/>
+    <devise id="MYR" libelle="Malaysian Ringgit" decimales="2" preferred="false"/>
+    <devise id="MZN" libelle="Mozambique Metical" decimales="2" preferred="false"/>
+    <devise id="NAD" libelle="Namibia Dollar" decimales="2" preferred="false"/>
+    <devise id="NGN" libelle="Naira" decimales="2" preferred="false"/>
+    <devise id="NIO" libelle="Cordoba Oro" decimales="2" preferred="false"/>
+    <devise id="NOK" libelle="Norwegian Krone" decimales="2" preferred="false"/>
+    <devise id="NPR" libelle="Nepalese Rupee" decimales="2" preferred="false"/>
+    <devise id="NZD" libelle="New Zealand Dollar" decimales="2" preferred="false"/>
+    <devise id="OMR" libelle="Rial Omani" decimales="3" preferred="false"/>
+    <devise id="PAB" libelle="Balboa" decimales="2" preferred="false"/>
+    <devise id="PEN" libelle="Sol" decimales="2" preferred="false"/>
+    <devise id="PGK" libelle="Kina" decimales="2" preferred="false"/>
+    <devise id="PHP" libelle="Philippine Peso" decimales="2" preferred="false"/>
+    <devise id="PKR" libelle="Pakistan Rupee" decimales="2" preferred="false"/>
+    <devise id="PLN" libelle="Zloty" decimales="2" preferred="false"/>
+    <devise id="PYG" libelle="Guarani" decimales="0" preferred="false"/>
+    <devise id="QAR" libelle="Qatari Rial" decimales="2" preferred="false"/>
+    <devise id="RON" libelle="Romanian Leu" decimales="2" preferred="false"/>
+    <devise id="RSD" libelle="Serbian Dinar" decimales="2" preferred="false"/>
+    <devise id="RUB" libelle="Russian Ruble" decimales="2" preferred="false"/>
+    <devise id="RWF" libelle="Rwanda Franc" decimales="0" preferred="false"/>
+    <devise id="SAR" libelle="Saudi Riyal" decimales="2" preferred="false"/>
+    <devise id="SBD" libelle="Solomon Islands Dollar" decimales="2" preferred="false"/>
+    <devise id="SCR" libelle="Seychelles Rupee" decimales="2" preferred="false"/>
+    <devise id="SDG" libelle="Sudanese Pound" decimales="2" preferred="false"/>
+    <devise id="SEK" libelle="Swedish Krona" decimales="2" preferred="false"/>
+    <devise id="SGD" libelle="Singapore Dollar" decimales="2" preferred="false"/>
+    <devise id="SHP" libelle="Saint Helena Pound" decimales="2" preferred="false"/>
+    <devise id="SLL" libelle="Leone" decimales="2" preferred="false"/>
+    <devise id="SOS" libelle="Somali Shilling" decimales="2" preferred="false"/>
+    <devise id="SRD" libelle="Surinam Dollar" decimales="2" preferred="false"/>
+    <devise id="SSP" libelle="South Sudanese Pound" decimales="2" preferred="false"/>
+    <devise id="STN" libelle="Dobra" decimales="2" preferred="false"/>
+    <devise id="SVC" libelle="El Salvador Colon" decimales="2" preferred="false"/>
+    <devise id="SYP" libelle="Syrian Pound" decimales="2" preferred="false"/>
+    <devise id="SZL" libelle="Lilangeni" decimales="2" preferred="false"/>
+    <devise id="THB" libelle="Baht" decimales="2" preferred="false"/>
+    <devise id="TJS" libelle="Somoni" decimales="2" preferred="false"/>
+    <devise id="TMT" libelle="Turkmenistan New Manat" decimales="2" preferred="false"/>
+    <devise id="TND" libelle="Tunisian Dinar" decimales="3" preferred="false"/>
+    <devise id="TOP" libelle="Pa'anga" decimales="2" preferred="false"/>
+    <devise id="TRY" libelle="Turkish Lira" decimales="2" preferred="false"/>
+    <devise id="TTD" libelle="Trinidad and Tobago Dollar" decimales="2" preferred="false"/>
+    <devise id="TWD" libelle="New Taiwan Dollar" decimales="2" preferred="false"/>
+    <devise id="TZS" libelle="Tanzanian Shilling" decimales="2" preferred="false"/>
+    <devise id="UAH" libelle="Hryvnia" decimales="2" preferred="false"/>
+    <devise id="UGX" libelle="Uganda Shilling" decimales="0" preferred="false"/>
+    <devise id="USD" libelle="US Dollar" decimales="2" preferred="false"/>
+    <devise id="UYU" libelle="Peso Uruguayo" decimales="2" preferred="false"/>
+    <devise id="UYW" libelle="Unidad Previsional" decimales="4" preferred="false"/>
+    <devise id="UZS" libelle="Uzbekistan Sum" decimales="2" preferred="false"/>
+    <devise id="VES" libelle="Bolívar Soberano" decimales="2" preferred="false"/>
+    <devise id="VND" libelle="Dong" decimales="0" preferred="false"/>
+    <devise id="VUV" libelle="Vatu" decimales="0" preferred="false"/>
+    <devise id="WST" libelle="Tala" decimales="2" preferred="false"/>
+    <devise id="XAF" libelle="CFA Franc BEAC" decimales="0" preferred="false"/>
+    <devise id="XCD" libelle="East Caribbean Dollar" decimales="2" preferred="false"/>
+    <devise id="XOF" libelle="CFA Franc BCEAO" decimales="0" preferred="false"/>
+    <devise id="XPF" libelle="CFP Franc" decimales="0" preferred="false"/>
+    <devise id="YER" libelle="Yemeni Rial" decimales="2" preferred="false"/>
+    <devise id="ZAR" libelle="Rand" decimales="2" preferred="false"/>
+    <devise id="ZMW" libelle="Zambian Kwacha" decimales="2" preferred="false"/>
+    <devise id="ZWL" libelle="Zimbabwe Dollar" decimales="2" preferred="false"/>
+  </reponseDocumentation>
+</enveloppe>
