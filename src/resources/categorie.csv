@@ -1,9 +1,9 @@
-﻿FACFG;Autres frais garantis sur facultés;false;07
-FACMA;DOMMAGES ET PERTE SUR MARCHANDISES;false;07
-FACMQ;Manquants sur les marchandises transportées en vrac;false;07
-VTMBG;Bris de glace véhicule terrestres;true;09
-VTMDA;Dommages tous accidents véhicule;true;03
-VTMIN;Incendie véhicule terrestres;true;08
-VTMOC;Occupant véhicule terrestres;true;01
+﻿FACFG;Autres frais garantis sur facultés;false;7
+FACMA;DOMMAGES ET PERTE SUR MARCHANDISES;false;7
+FACMQ;Manquants sur les marchandises transportées en vrac;false;7
+VTMBG;Bris de glace véhicule terrestres;true;9
+VTMDA;Dommages tous accidents véhicule;true;3
+VTMIN;Incendie véhicule terrestres;true;8
+VTMOC;Occupant véhicule terrestres;true;1
 VTMRC;RC véhicule terrestre à moteur;true;10
-VTMVL;Vol véhicule terrestres;true;09
+VTMVL;Vol véhicule terrestres;true;9

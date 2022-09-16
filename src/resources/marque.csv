@@ -1,5 +1,98 @@
 ﻿1;AC;true;2022-06-16T14:16:01.133113;voiture_marque;1
+2;Acura;true;2022-06-16T14:16:01.141889;voiture_marque;1
+3;Alfa Romeo;true;2022-06-16T14:16:01.147003;voiture_marque;1
+4;Alpine;true;2022-06-16T14:16:01.151129;voiture_marque;1
+5;AM General;true;2022-06-16T14:16:01.156032;voiture_marque;1
+6;Ariel;true;2022-06-16T14:16:01.161887;voiture_marque;1
+7;Aro;true;2022-06-16T14:16:01.166964;voiture_marque;1
+8;Asia;true;2022-06-16T14:16:01.171965;voiture_marque;1
+9;Aston Martin;true;2022-06-16T14:16:01.175966;voiture_marque;1
 10;Audi;true;2022-06-16T14:16:01.180962;voiture_marque;1
+11;Austin;true;2022-06-16T14:16:01.185334;voiture_marque;1
+12;Autobianchi;true;2022-06-16T14:16:01.188963;voiture_marque;1
+13;Baltijas Dzips;true;2022-06-16T14:16:01.194061;voiture_marque;1
+14;Beijing;true;2022-06-16T14:16:01.198963;voiture_marque;1
+15;Bentley;true;2022-06-16T14:16:01.203963;voiture_marque;1
+16;Bertone;true;2022-06-16T14:16:01.20821;voiture_marque;1
+17;Bitter;true;2022-06-16T14:16:01.212245;voiture_marque;1
+18;BMW;true;2022-06-16T14:16:01.217045;voiture_marque;1
+20;Brabus;true;2022-06-16T14:16:01.221038;voiture_marque;1
+21;Brilliance;true;2022-06-16T14:16:01.226054;voiture_marque;1
+22;Bristol;true;2022-06-16T14:16:01.230965;voiture_marque;1
+23;Bufori;true;2022-06-16T14:16:01.235965;voiture_marque;1
+24;Bugatti;true;2022-06-16T14:16:01.240964;voiture_marque;1
+25;Buick;true;2022-06-16T14:16:01.245643;voiture_marque;1
+26;BYD;true;2022-06-16T14:16:01.250965;voiture_marque;1
+27;Byvin;true;2022-06-16T14:16:01.255964;voiture_marque;1
+28;Cadillac;true;2022-06-16T14:16:01.260159;voiture_marque;1
+29;Callaway;true;2022-06-16T14:16:01.262964;voiture_marque;1
+30;Carbodies;true;2022-06-16T14:16:01.267219;voiture_marque;1
+31;Caterham;true;2022-06-16T14:16:01.271133;voiture_marque;1
+32;Changan;true;2022-06-16T14:16:01.275138;voiture_marque;1
+33;ChangFeng;true;2022-06-16T14:16:01.278132;voiture_marque;1
+34;Chery;true;2022-06-16T14:16:01.283132;voiture_marque;1
+35;Chevrolet;true;2022-06-16T14:16:01.287132;voiture_marque;1
+36;Chrysler;true;2022-06-16T14:16:01.291131;voiture_marque;1
+37;Citroen;true;2022-06-16T14:16:01.294648;voiture_marque;1
+38;Cizeta;true;2022-06-16T14:16:01.299132;voiture_marque;1
+39;Coggiola;true;2022-06-16T14:16:01.30424;voiture_marque;1
+40;Dacia;true;2022-06-16T14:16:01.308131;voiture_marque;1
+41;Dadi;true;2022-06-16T14:16:01.310783;voiture_marque;1
+42;Daewoo;true;2022-06-16T14:16:01.314232;voiture_marque;1
+44;Daihatsu;true;2022-06-16T14:16:01.317132;voiture_marque;1
+45;Daimler;true;2022-06-16T14:16:01.321132;voiture_marque;1
+46;Dallas;true;2022-06-16T14:16:01.325131;voiture_marque;1
+47;Datsun;true;2022-06-16T14:16:01.328131;voiture_marque;1
+48;De Tomaso;true;2022-06-16T14:16:01.331132;voiture_marque;1
+49;DeLorean;true;2022-06-16T14:16:01.33413;voiture_marque;1
+50;Derways;true;2022-06-16T14:16:01.336717;voiture_marque;1
+51;Dodge;true;2022-06-16T14:16:01.339131;voiture_marque;1
+52;DongFeng;true;2022-06-16T14:16:01.343183;voiture_marque;1
+53;Doninvest;true;2022-06-16T14:16:01.347132;voiture_marque;1
+54;Donkervoort;true;2022-06-16T14:16:01.349549;voiture_marque;1
+55;E-Car;true;2022-06-16T14:16:01.353132;voiture_marque;1
+56;Eagle;true;2022-06-16T14:16:01.356215;voiture_marque;1
+57;Eagle Cars;true;2022-06-16T14:16:01.359131;voiture_marque;1
+59;FAW;true;2022-06-16T14:16:01.362961;voiture_marque;1
+60;Ferrari;true;2022-06-16T14:16:01.366134;voiture_marque;1
+61;Fiat;true;2022-06-16T14:16:01.370133;voiture_marque;1
+62;Fisker;true;2022-06-16T14:16:01.375132;voiture_marque;1
+63;Ford;true;2022-06-16T14:16:01.379135;voiture_marque;1
+64;Foton;true;2022-06-16T14:16:01.383319;voiture_marque;1
+65;FSO;true;2022-06-16T14:16:01.386714;voiture_marque;1
+66;Fuqi;true;2022-06-16T14:16:01.389131;voiture_marque;1
+67;Geely;true;2022-06-16T14:16:01.392638;voiture_marque;1
+68;Geo;true;2022-06-16T14:16:01.395132;voiture_marque;1
+69;GMC;true;2022-06-16T14:16:01.399133;voiture_marque;1
+70;Gonow;true;2022-06-16T14:16:01.403349;voiture_marque;1
+71;Great Wall;true;2022-06-16T14:16:01.406197;voiture_marque;1
+72;Hafei;true;2022-06-16T14:16:01.40917;voiture_marque;1
+73;Haima;true;2022-06-16T14:16:01.411625;voiture_marque;1
+74;Hindustan;true;2022-06-16T14:16:01.414131;voiture_marque;1
+75;Holden;true;2022-06-16T14:16:01.416132;voiture_marque;1
+76;Honda;true;2022-06-16T14:16:01.418884;voiture_marque;1
+77;HuangHai;true;2022-06-16T14:16:01.421133;voiture_marque;1
+78;Hummer;true;2022-06-16T14:16:01.424133;voiture_marque;1
+79;Hyundai;true;2022-06-16T14:16:01.426132;voiture_marque;1
+80;Infiniti;true;2022-06-16T14:16:01.429133;voiture_marque;1
+81;Innocenti;true;2022-06-16T14:16:01.43313;voiture_marque;1
+82;Invicta;true;2022-06-16T14:16:01.435131;voiture_marque;1
+83;Iran Khodro;true;2022-06-16T14:16:01.438132;voiture_marque;1
+84;Isdera;true;2022-06-16T14:16:01.441131;voiture_marque;1
+85;Isuzu;true;2022-06-16T14:16:01.445131;voiture_marque;1
+86;IVECO;true;2022-06-16T14:16:01.448859;voiture_marque;1
+87;JAC;true;2022-06-16T14:16:01.451857;voiture_marque;1
+88;Jaguar;true;2022-06-16T14:16:01.454678;voiture_marque;1
+89;Jeep;true;2022-06-16T14:16:01.459131;voiture_marque;1
+90;Jensen;true;2022-06-16T14:16:01.462134;voiture_marque;1
+91;JMC;true;2022-06-16T14:16:01.466977;voiture_marque;1
+92;Kia;true;2022-06-16T14:16:01.469975;voiture_marque;1
+93;Koenigsegg;true;2022-06-16T14:16:01.473666;voiture_marque;1
+95;Lamborghini;true;2022-06-16T14:16:01.476979;voiture_marque;1
+96;Lancia;true;2022-06-16T14:16:01.479975;voiture_marque;1
+97;Land Rover;true;2022-06-16T14:16:01.481977;voiture_marque;1
+98;Landwind;true;2022-06-16T14:16:01.485979;voiture_marque;1
+99;Lexus;true;2022-06-16T14:16:01.488978;voiture_marque;1
 100;Liebao Motor;true;2022-06-16T14:16:01.490973;voiture_marque;1
 101;Lifan;true;2022-06-16T14:16:01.494977;voiture_marque;1
 102;Lincoln;true;2022-06-16T14:16:01.498011;voiture_marque;1
@@ -10,7 +103,6 @@
 107;Marcos;true;2022-06-16T14:16:01.514973;voiture_marque;1
 108;Marlin;true;2022-06-16T14:16:01.518107;voiture_marque;1
 109;Marussia;true;2022-06-16T14:16:01.520978;voiture_marque;1
-11;Austin;true;2022-06-16T14:16:01.185334;voiture_marque;1
 110;Maruti;true;2022-06-16T14:16:01.523974;voiture_marque;1
 111;Maserati;true;2022-06-16T14:16:01.527363;voiture_marque;1
 112;Maybach;true;2022-06-16T14:16:01.530511;voiture_marque;1
@@ -21,7 +113,6 @@
 117;Mercury;true;2022-06-16T14:16:01.547628;voiture_marque;1
 118;Metrocab;true;2022-06-16T14:16:01.550596;voiture_marque;1
 119;MG;true;2022-06-16T14:16:01.553973;voiture_marque;1
-12;Autobianchi;true;2022-06-16T14:16:01.188963;voiture_marque;1
 120;Microcar;true;2022-06-16T14:16:01.559286;voiture_marque;1
 121;Minelli;true;2022-06-16T14:16:01.562975;voiture_marque;1
 122;Mini;true;2022-06-16T14:16:01.566559;voiture_marque;1
@@ -32,7 +123,6 @@
 127;Nissan;true;2022-06-16T14:16:01.584002;voiture_marque;1
 128;Noble;true;2022-06-16T14:16:01.587039;voiture_marque;1
 129;Oldsmobile;true;2022-06-16T14:16:01.589975;voiture_marque;1
-13;Baltijas Dzips;true;2022-06-16T14:16:01.194061;voiture_marque;1
 130;Opel;true;2022-06-16T14:16:01.593975;voiture_marque;1
 131;Osca;true;2022-06-16T14:16:01.598344;voiture_marque;1
 132;Pagani;true;2022-06-16T14:16:01.602016;voiture_marque;1
@@ -43,7 +133,6 @@
 137;Plymouth;true;2022-06-16T14:16:01.616974;voiture_marque;1
 138;Pontiac;true;2022-06-16T14:16:01.620623;voiture_marque;1
 139;Porsche;true;2022-06-16T14:16:01.623296;voiture_marque;1
-14;Beijing;true;2022-06-16T14:16:01.198963;voiture_marque;1
 140;Premier;true;2022-06-16T14:16:01.625973;voiture_marque;1
 141;Proton;true;2022-06-16T14:16:01.629428;voiture_marque;1
 142;PUCH;true;2022-06-16T14:16:01.632236;voiture_marque;1
@@ -54,7 +143,6 @@
 147;Renault;true;2022-06-16T14:16:01.647214;voiture_marque;1
 148;Samsung;true;2022-06-16T14:16:01.649974;voiture_marque;1
 149;Rolls-Royce;true;2022-06-16T14:16:01.653674;voiture_marque;1
-15;Bentley;true;2022-06-16T14:16:01.203963;voiture_marque;1
 150;Ronart;true;2022-06-16T14:16:01.657;voiture_marque;1
 151;Rover;true;2022-06-16T14:16:01.660458;voiture_marque;1
 152;Saab;true;2022-06-16T14:16:01.663346;voiture_marque;1
@@ -65,7 +153,6 @@
 157;SEAT;true;2022-06-16T14:16:01.681976;voiture_marque;1
 158;ShuangHuan;true;2022-06-16T14:16:01.685102;voiture_marque;1
 159;Skoda;true;2022-06-16T14:16:01.689173;voiture_marque;1
-16;Bertone;true;2022-06-16T14:16:01.20821;voiture_marque;1
 160;Smart;true;2022-06-16T14:16:01.693073;voiture_marque;1
 161;Soueast;true;2022-06-16T14:16:01.696507;voiture_marque;1
 162;Spectre;true;2022-06-16T14:16:01.700342;voiture_marque;1
@@ -75,7 +162,6 @@
 167;Suzuki;true;2022-06-16T14:16:01.715753;voiture_marque;1
 168;Talbot;true;2022-06-16T14:16:01.718977;voiture_marque;1
 169;Tata;true;2022-06-16T14:16:01.724017;voiture_marque;1
-17;Bitter;true;2022-06-16T14:16:01.212245;voiture_marque;1
 170;Tatra;true;2022-06-16T14:16:01.728515;voiture_marque;1
 171;Tazzari;true;2022-06-16T14:16:01.731974;voiture_marque;1
 172;Tesla;true;2022-06-16T14:16:01.736974;voiture_marque;1
@@ -86,7 +172,6 @@
 177;Trabant;true;2022-06-16T14:16:01.75868;voiture_marque;1
 178;Tramontana;true;2022-06-16T14:16:01.761975;voiture_marque;1
 179;Triumph;true;2022-06-16T14:16:01.765974;voiture_marque;1
-18;BMW;true;2022-06-16T14:16:01.217045;voiture_marque;1
 180;TVR;true;2022-06-16T14:16:01.770723;voiture_marque;1
 181;Vauxhall;true;2022-06-16T14:16:01.775446;voiture_marque;1
 182;Vector;true;2022-06-16T14:16:01.779462;voiture_marque;1
@@ -101,119 +186,24 @@
 191;Zastava;true;2022-06-16T14:16:01.813446;voiture_marque;1
 192;Zotye;true;2022-06-16T14:16:01.816972;voiture_marque;1
 193;ZX;true;2022-06-16T14:16:01.820046;voiture_marque;1
-2;Acura;true;2022-06-16T14:16:01.141889;voiture_marque;1
-20;Brabus;true;2022-06-16T14:16:01.221038;voiture_marque;1
-2084;MZ;true;2022-06-16T14:16:06.096163;voiture_marque;20
-2089;NCR;true;2022-06-16T14:16:06.106165;voiture_marque;20
-2092;DAELIM;true;2022-06-16T14:16:06.115702;voiture_marque;20
-2093;ITALJET;true;2022-06-16T14:16:06.12634;voiture_marque;20
-2095;SYM;true;2022-06-16T14:16:06.134863;voiture_marque;20
-2096;AJS;true;2022-06-16T14:16:06.142205;voiture_marque;20
-21;Brilliance;true;2022-06-16T14:16:01.226054;voiture_marque;1
-2103;JAWA;true;2022-06-16T14:16:06.151601;voiture_marque;20
-2106;AMAZONAS;true;2022-06-16T14:16:06.160162;voiture_marque;20
-2107;DERBI;true;2022-06-16T14:16:06.168472;voiture_marque;20
-2109;NORTON;true;2022-06-16T14:16:06.176496;voiture_marque;20
 211;E-mobil;true;2022-06-16T14:16:01.822975;voiture_marque;1
-2119;Orange County Choppers;true;2022-06-16T14:16:06.184161;voiture_marque;20
 212;Autocam;true;2022-06-16T14:16:01.826091;voiture_marque;1
-2126;APRILIA;true;2022-06-16T14:16:06.192739;voiture_marque;20
-2129;OSSA;true;2022-06-16T14:16:06.200943;voiture_marque;20
-2130;TRIUMPH;true;2022-06-16T14:16:06.209026;voiture_marque;20
-2141;ATK;true;2022-06-16T14:16:06.216931;voiture_marque;20
-2148;KANUNI;true;2022-06-16T14:16:06.224843;voiture_marque;20
 215;VAZ (Lada);true;2022-06-16T14:16:01.831568;voiture_marque;1
-2152;DUCATI;true;2022-06-16T14:16:06.233251;voiture_marque;20
-2153;KAWASAKI;true;2022-06-16T14:16:06.242315;voiture_marque;20
-2154;PEUGEOT;true;2022-06-16T14:16:06.251754;voiture_marque;20
-2155;VENTO;true;2022-06-16T14:16:06.260234;voiture_marque;20
-2159;PGO;true;2022-06-16T14:16:06.26863;voiture_marque;20
 216;GAZ;true;2022-06-16T14:16:01.836138;voiture_marque;1
-2165;VERUCCI;true;2022-06-16T14:16:06.277289;voiture_marque;20
-2166;BAJAJ;true;2022-06-16T14:16:06.28534;voiture_marque;20
-2167;ECOSSE;true;2022-06-16T14:16:06.293438;voiture_marque;20
 217;ZAZ;true;2022-06-16T14:16:01.840277;voiture_marque;1
-2170;VICTORY;true;2022-06-16T14:16:06.30149;voiture_marque;20
 218;ZIL;true;2022-06-16T14:16:01.846086;voiture_marque;1
-2186;BENELLI;true;2022-06-16T14:16:06.309873;voiture_marque;20
-2188;KTM;true;2022-06-16T14:16:06.318194;voiture_marque;20
 219;IZH;true;2022-06-16T14:16:01.850287;voiture_marque;1
-2190;VOR;true;2022-06-16T14:16:06.326636;voiture_marque;20
-2191;BETA;true;2022-06-16T14:16:06.335513;voiture_marque;20
-2195;VOXAN;true;2022-06-16T14:16:06.345211;voiture_marque;20
-2198;KYMCO;true;2022-06-16T14:16:06.35407;voiture_marque;20
-22;Bristol;true;2022-06-16T14:16:01.230965;voiture_marque;1
-2200;VYRUS;true;2022-06-16T14:16:06.362179;voiture_marque;20
-2201;Big Bear Choppers;true;2022-06-16T14:16:06.370097;voiture_marque;20
-2203;LAVERDA;true;2022-06-16T14:16:06.378168;voiture_marque;20
-2205;WAKAN;true;2022-06-16T14:16:06.385982;voiture_marque;20
-2207;FISCHER;true;2022-06-16T14:16:06.394001;voiture_marque;20
-2209;PUCH;true;2022-06-16T14:16:06.402107;voiture_marque;20
 221;Canonnier;true;2022-06-16T14:16:01.854973;voiture_marque;1
-2211;BIMOTA;true;2022-06-16T14:16:06.410181;voiture_marque;20
-2218;LIFAN;true;2022-06-16T14:16:06.418169;voiture_marque;20
 222;LuAZ;true;2022-06-16T14:16:01.858974;voiture_marque;1
-2223;MAGNI;true;2022-06-16T14:16:06.426207;voiture_marque;20
-2228;MAICO;true;2022-06-16T14:16:06.435648;voiture_marque;20
 223;Moskvitch;true;2022-06-16T14:16:01.863974;voiture_marque;1
-2233;MALAGUTI;true;2022-06-16T14:16:06.444105;voiture_marque;20
-2236;BMW;true;2022-06-16T14:16:06.452226;voiture_marque;20
 224;SMZ;true;2022-06-16T14:16:01.867627;voiture_marque;1
-2242;GAS GAS;true;2022-06-16T14:16:06.460261;voiture_marque;20
-2243;MATCHLESS;true;2022-06-16T14:16:06.46836;voiture_marque;20
-2245;YAMAHA;true;2022-06-16T14:16:06.477618;voiture_marque;20
-2246;BORILE;true;2022-06-16T14:16:06.485104;voiture_marque;20
-2248;MBK;true;2022-06-16T14:16:06.496376;voiture_marque;20
-2251;BOSS HOSS;true;2022-06-16T14:16:06.504551;voiture_marque;20
 226;TagAZ;true;2022-06-16T14:16:01.870986;voiture_marque;1
-2262;GHEZZI-BRIAN;true;2022-06-16T14:16:06.513804;voiture_marque;20
-2265;ZERO;true;2022-06-16T14:16:06.522598;voiture_marque;20
-2266;BSA;true;2022-06-16T14:16:06.531105;voiture_marque;20
-2267;GILERA;true;2022-06-16T14:16:06.540106;voiture_marque;20
-2268;MIDUAL;true;2022-06-16T14:16:06.548024;voiture_marque;20
-2269;ROYAL ENFIELD;true;2022-06-16T14:16:06.556104;voiture_marque;20
 227;UAZ;true;2022-06-16T14:16:01.875331;voiture_marque;1
-2273;MIKILON;true;2022-06-16T14:16:06.56439;voiture_marque;20
-2274;SACHS;true;2022-06-16T14:16:06.573107;voiture_marque;20
-2280;ZUNDAPP;true;2022-06-16T14:16:06.582304;voiture_marque;20
-2281;BUELL;true;2022-06-16T14:16:06.590637;voiture_marque;20
-2288;MONDIAL;true;2022-06-16T14:16:06.598802;voiture_marque;20
-2291;CAGIVA;true;2022-06-16T14:16:06.612105;voiture_marque;20
-2294;SCORPA;true;2022-06-16T14:16:06.619901;voiture_marque;20
-2297;HARTFORD;true;2022-06-16T14:16:06.628105;voiture_marque;20
-2298;MOTO GUZZI;true;2022-06-16T14:16:06.636211;voiture_marque;20
-23;Bufori;true;2022-06-16T14:16:01.235965;voiture_marque;1
-2301;CCM;true;2022-06-16T14:16:06.644147;voiture_marque;20
-2303;MOTO MORINI;true;2022-06-16T14:16:06.652105;voiture_marque;20
-2304;SHERCO;true;2022-06-16T14:16:06.660104;voiture_marque;20
-2307;HERCULES;true;2022-06-16T14:16:06.667812;voiture_marque;20
-2311;CFMOTO;true;2022-06-16T14:16:06.675925;voiture_marque;20
-2312;HIGHLAND;true;2022-06-16T14:16:06.683779;voiture_marque;20
-2317;HONDA;true;2022-06-16T14:16:06.691709;voiture_marque;20
-2319;SIMSON;true;2022-06-16T14:16:06.699685;voiture_marque;20
-2323;MOTORHISPANIA;true;2022-06-16T14:16:06.707455;voiture_marque;20
-2327;HOREX;true;2022-06-16T14:16:06.71534;voiture_marque;20
-2331;CONFEDERATE;true;2022-06-16T14:16:06.72313;voiture_marque;20
-2332;HUSABERG;true;2022-06-16T14:16:06.732603;voiture_marque;20
-2333;MTT;true;2022-06-16T14:16:06.740131;voiture_marque;20
-2336;CPI;true;2022-06-16T14:16:06.749055;voiture_marque;20
-2337;HUSQVARNA;true;2022-06-16T14:16:06.75613;voiture_marque;20
-2338;MUNCH;true;2022-06-16T14:16:06.765495;voiture_marque;20
-2342;HYOSUNG;true;2022-06-16T14:16:06.773726;voiture_marque;20
-2347;INDIAN;true;2022-06-16T14:16:06.782132;voiture_marque;20
-2348;MV AGUSTA;true;2022-06-16T14:16:06.790512;voiture_marque;20
-2349;SUZUKI;true;2022-06-16T14:16:06.799353;voiture_marque;20
-24;Bugatti;true;2022-06-16T14:16:01.240964;voiture_marque;1
-25;Buick;true;2022-06-16T14:16:01.245643;voiture_marque;1
-26;BYD;true;2022-06-16T14:16:01.250965;voiture_marque;1
-27;Byvin;true;2022-06-16T14:16:01.255964;voiture_marque;1
-28;Cadillac;true;2022-06-16T14:16:01.260159;voiture_marque;1
 280;Ultima;true;2022-06-16T14:16:01.879081;voiture_marque;1
 282;Hawtai;true;2022-06-16T14:16:01.883288;voiture_marque;1
 284;Renaissance Cars;true;2022-06-16T14:16:01.887035;voiture_marque;1
 286;Paykan;true;2022-06-16T14:16:01.891287;voiture_marque;1
 289;Gordon;true;2022-06-16T14:16:01.896288;voiture_marque;1
-29;Callaway;true;2022-06-16T14:16:01.262964;voiture_marque;1
 290;Haval;true;2022-06-16T14:16:01.900496;voiture_marque;1
 291;Alpina;true;2022-06-16T14:16:01.904289;voiture_marque;1
 292;Alke;true;2022-06-16T14:16:02.279887;voiture_marque;2
@@ -224,8 +214,6 @@
 297;Asia;true;2022-06-16T14:16:02.300177;voiture_marque;2
 298;FAW;true;2022-06-16T14:16:02.303951;voiture_marque;2
 299;Isuzu;true;2022-06-16T14:16:02.307922;voiture_marque;2
-3;Alfa Romeo;true;2022-06-16T14:16:01.147003;voiture_marque;1
-30;Carbodies;true;2022-06-16T14:16:01.267219;voiture_marque;1
 300;Opel;true;2022-06-16T14:16:02.311884;voiture_marque;2
 301;Avtotor;true;2022-06-16T14:16:02.316886;voiture_marque;2
 302;Barkas;true;2022-06-16T14:16:02.321407;voiture_marque;2
@@ -236,7 +224,6 @@
 307;BAW;true;2022-06-16T14:16:02.338884;voiture_marque;2
 308;Ford;true;2022-06-16T14:16:02.343542;voiture_marque;2
 309;JAC;true;2022-06-16T14:16:02.347757;voiture_marque;2
-31;Caterham;true;2022-06-16T14:16:01.271133;voiture_marque;1
 310;Piaggio;true;2022-06-16T14:16:02.351598;voiture_marque;2
 311;VIS;true;2022-06-16T14:16:02.355697;voiture_marque;2
 312;BMC;true;2022-06-16T14:16:02.359883;voiture_marque;2
@@ -247,7 +234,6 @@
 317;Chana;true;2022-06-16T14:16:02.382118;voiture_marque;2
 318;Freightliner;true;2022-06-16T14:16:02.385953;voiture_marque;2
 319;JMC;true;2022-06-16T14:16:02.39091;voiture_marque;2
-32;Changan;true;2022-06-16T14:16:01.275138;voiture_marque;1
 320;SEAT;true;2022-06-16T14:16:02.396087;voiture_marque;2
 321;GolAZ;true;2022-06-16T14:16:02.400367;voiture_marque;2
 322;Changan;true;2022-06-16T14:16:02.40506;voiture_marque;2
@@ -258,7 +244,6 @@
 327;ChangFeng;true;2022-06-16T14:16:02.427869;voiture_marque;2
 328;GMC;true;2022-06-16T14:16:02.432148;voiture_marque;2
 329;LDV;true;2022-06-16T14:16:02.436551;voiture_marque;2
-33;ChangFeng;true;2022-06-16T14:16:01.278132;voiture_marque;1
 330;Sokon;true;2022-06-16T14:16:02.440871;voiture_marque;2
 331;ZAZ;true;2022-06-16T14:16:02.44628;voiture_marque;2
 332;Chevrolet;true;2022-06-16T14:16:02.4531;voiture_marque;2
@@ -269,7 +254,6 @@
 337;Citroen;true;2022-06-16T14:16:02.474674;voiture_marque;2
 338;Goupil;true;2022-06-16T14:16:02.47907;voiture_marque;2
 339;Lublin;true;2022-06-16T14:16:02.482672;voiture_marque;2
-34;Chery;true;2022-06-16T14:16:01.283132;voiture_marque;1
 340;Subaru;true;2022-06-16T14:16:02.486929;voiture_marque;2
 341;NAME-M;true;2022-06-16T14:16:02.490842;voiture_marque;2
 342;Dacia;true;2022-06-16T14:16:02.495046;voiture_marque;2
@@ -280,274 +264,74 @@
 347;Daewoo;true;2022-06-16T14:16:02.515387;voiture_marque;2
 348;Groz;true;2022-06-16T14:16:02.51937;voiture_marque;2
 349;Mercedes-Benz;true;2022-06-16T14:16:02.523253;voiture_marque;2
-35;Chevrolet;true;2022-06-16T14:16:01.287132;voiture_marque;1
 350;Toyota;true;2022-06-16T14:16:02.527356;voiture_marque;2
 351;RAF;true;2022-06-16T14:16:02.531336;voiture_marque;2
 352;DAF;true;2022-06-16T14:16:02.536137;voiture_marque;2
 354;MG;true;2022-06-16T14:16:02.540169;voiture_marque;2
 355;Trabant;true;2022-06-16T14:16:02.545251;voiture_marque;2
 356;SAMATLOR-NN;true;2022-06-16T14:16:02.550446;voiture_marque;2
-3562;JBC;true;2022-06-16T14:16:05.690191;voiture_marque;2
-3563;Grunber;true;2022-06-16T14:16:05.697803;voiture_marque;4
-3564;AMS-NN;true;2022-06-16T14:16:05.705215;voiture_marque;4
-3565;Humbaur;true;2022-06-16T14:16:05.712479;voiture_marque;4
-3566;Rofa;true;2022-06-16T14:16:05.720698;voiture_marque;4
-3567;Rolfo;true;2022-06-16T14:16:05.728067;voiture_marque;4
-3568;Brian James Trailers;true;2022-06-16T14:16:05.736368;voiture_marque;4
-3569;StavPricep;true;2022-06-16T14:16:05.745071;voiture_marque;4
 357;Daihatsu;true;2022-06-16T14:16:02.555403;voiture_marque;2
-3570;Lecinena;true;2022-06-16T14:16:05.75283;voiture_marque;4
 358;Hyundai;true;2022-06-16T14:16:02.559844;voiture_marque;2
-3589;DS;true;2022-06-16T14:16:01.917937;voiture_marque;1
 359;Mitsubishi;true;2022-06-16T14:16:02.564088;voiture_marque;2
-3590;PGO;true;2022-06-16T14:16:01.921334;voiture_marque;1
-3591;Zenvo;true;2022-06-16T14:16:01.926087;voiture_marque;1
-3592;IgorKokarev;true;2022-06-16T14:16:05.760657;voiture_marque;4
-3593;Stokota;true;2022-06-16T14:16:05.769116;voiture_marque;4
-3594;Cobus;true;2022-06-16T14:16:05.77723;voiture_marque;6
-36;Chrysler;true;2022-06-16T14:16:01.291131;voiture_marque;1
 360;Vauxhall;true;2022-06-16T14:16:02.568962;voiture_marque;2
-3608;Western;true;2022-06-16T14:16:05.785073;voiture_marque;4
 361;SEMAR;true;2022-06-16T14:16:02.573048;voiture_marque;2
-3610;BC-LDS;true;2022-06-16T14:16:05.792874;voiture_marque;4
-3619;Rezvani;true;2022-06-16T14:16:01.930467;voiture_marque;1
 362;DFSK;true;2022-06-16T14:16:02.577628;voiture_marque;2
-3620;Rimac;true;2022-06-16T14:16:01.934683;voiture_marque;1
-3621;AvtoMash;true;2022-06-16T14:16:05.800068;voiture_marque;4
-3622;"AlekseevkaXimmash ";true;2022-06-16T14:16:05.808815;voiture_marque;4
-3623;Saxas;true;2022-06-16T14:16:05.816776;voiture_marque;4
-3624;Transles;true;2022-06-16T14:16:05.82459;voiture_marque;4
-3625;Ekeri;true;2022-06-16T14:16:05.833072;voiture_marque;4
-3626;Tonghua;true;2022-06-16T14:16:05.841317;voiture_marque;4
 363;IFA;true;2022-06-16T14:16:02.583049;voiture_marque;2
 364;Mudan;true;2022-06-16T14:16:02.588092;voiture_marque;2
-3647;Kreon;true;2022-06-16T14:16:05.849693;voiture_marque;4
 365;Volkswagen;true;2022-06-16T14:16:02.592466;voiture_marque;2
 366;TagAZ;true;2022-06-16T14:16:02.596659;voiture_marque;2
-3664;Adler;true;2022-06-16T14:16:01.938382;voiture_marque;1
-3665;DeSoto;true;2022-06-16T14:16:01.944287;voiture_marque;1
-3666;Packard;true;2022-06-16T14:16:01.948713;voiture_marque;1
-3667;Willys;true;2022-06-16T14:16:01.953415;voiture_marque;1
-3668;Kombat;true;2022-06-16T14:16:01.957287;voiture_marque;1
-3669;Neman;true;2022-06-16T14:16:05.858146;voiture_marque;4
 367;Dodge;true;2022-06-16T14:16:02.601046;voiture_marque;2
-3670;Ifor Williams Trailers;true;2022-06-16T14:16:05.867068;voiture_marque;4
-3676;Borgward;true;2022-06-16T14:16:01.96164;voiture_marque;1
 368;International;true;2022-06-16T14:16:02.606277;voiture_marque;2
-3689;Ravon;true;2022-06-16T14:16:01.965328;voiture_marque;1
 369;Nissan;true;2022-06-16T14:16:02.611048;voiture_marque;2
-3690;ZiS;true;2022-06-16T14:16:01.96894;voiture_marque;1
-3691;GAC Gonow;true;2022-06-16T14:16:05.875871;voiture_marque;2
-3692;Atcomex;true;2022-06-16T14:16:05.884106;voiture_marque;4
-3693;Korten;true;2022-06-16T14:16:05.892475;voiture_marque;4
-3694;Syriusz;true;2022-06-16T14:16:05.900982;voiture_marque;4
-3695;Texoms;true;2022-06-16T14:16:05.910545;voiture_marque;4
-3696;Feldbinder;true;2022-06-16T14:16:05.918809;voiture_marque;4
-37;Citroen;true;2022-06-16T14:16:01.294648;voiture_marque;1
 370;Volteco;true;2022-06-16T14:16:02.615414;voiture_marque;2
-3705;AMC;true;2022-06-16T14:16:01.973562;voiture_marque;1
-3706;Zenos;true;2022-06-16T14:16:01.977334;voiture_marque;1
-3707;Zuk;true;2022-06-16T14:16:05.92707;voiture_marque;2
-3708;MosDisinMash;true;2022-06-16T14:16:05.934967;voiture_marque;4
-3709;Kolmogor;true;2022-06-16T14:16:05.943257;voiture_marque;4
 371;UAZ;true;2022-06-16T14:16:02.619392;voiture_marque;2
-3710;Berna;true;2022-06-16T14:16:05.951304;voiture_marque;5
-3711;SAURER;true;2022-06-16T14:16:05.959497;voiture_marque;5
 372;DongFeng;true;2022-06-16T14:16:02.623586;voiture_marque;2
-3728;W Motors;true;2022-06-16T14:16:01.982909;voiture_marque;1
-3729;Mitsubishi;true;2022-06-16T14:16:05.967731;voiture_marque;3
 373;Daewoo;true;2022-06-16T14:16:02.628402;voiture_marque;3
-3730;Adria;true;2022-06-16T14:16:05.976162;voiture_marque;4
-3731;AnVir;true;2022-06-16T14:16:05.984274;voiture_marque;4
-3732;Tanko;true;2022-06-16T14:16:05.993037;voiture_marque;4
-3739;Hudson;true;2022-06-16T14:16:01.98758;voiture_marque;1
 374;Howo;true;2022-06-16T14:16:02.632429;voiture_marque;3
-3740;Hubiere;true;2022-06-16T14:16:06.001166;voiture_marque;4
-3745;JBC;true;2022-06-16T14:16:06.009339;voiture_marque;5
-3749;Austin Healey;true;2022-06-16T14:16:01.992659;voiture_marque;1
 375;Kenworth;true;2022-06-16T14:16:02.636356;voiture_marque;3
-3752;Chana;true;2022-06-16T14:16:02.001335;voiture_marque;1
-3753;Changhe;true;2022-06-16T14:16:02.005658;voiture_marque;1
-3754;DFSK;true;2022-06-16T14:16:02.010964;voiture_marque;1
-3755;Efini;true;2022-06-16T14:16:02.015551;voiture_marque;1
-3756;Excalibur;true;2022-06-16T14:16:02.02206;voiture_marque;1
-3757;Groz;true;2022-06-16T14:16:02.027559;voiture_marque;1
 376;Sterling;true;2022-06-16T14:16:02.640173;voiture_marque;3
-3760;Hurtan;true;2022-06-16T14:16:02.03267;voiture_marque;1
-3761;Jiangnan;true;2022-06-16T14:16:02.037334;voiture_marque;1
-3762;Jinbei;true;2022-06-16T14:16:02.043334;voiture_marque;1
-3765;Monte Carlo;true;2022-06-16T14:16:02.048336;voiture_marque;1
-3767;Nysa;true;2022-06-16T14:16:02.053333;voiture_marque;1
 377;KamAZ;true;2022-06-16T14:16:02.645507;voiture_marque;3
-3771;Shifeng;true;2022-06-16T14:16:02.057335;voiture_marque;1
-3772;SMA;true;2022-06-16T14:16:02.061335;voiture_marque;1
-3774;Wuling;true;2022-06-16T14:16:02.066569;voiture_marque;1
-3779;Shacman;true;2022-06-16T14:16:06.01721;voiture_marque;3
 378;DAF;true;2022-06-16T14:16:02.650123;voiture_marque;3
-3780;General Trailers;true;2022-06-16T14:16:06.026891;voiture_marque;4
-3781;Alaska;true;2022-06-16T14:16:06.035161;voiture_marque;4
-3782;ATX;true;2022-06-16T14:16:06.044788;voiture_marque;4
-3783;KYRGYZAVTOMASH;true;2022-06-16T14:16:06.054651;voiture_marque;4
-3784;ZiS;true;2022-06-16T14:16:06.063208;voiture_marque;5
-3785;Volkswagen;true;2022-06-16T14:16:06.071285;voiture_marque;5
-3786;Studebaker;true;2022-06-16T14:16:06.079309;voiture_marque;5
-3787;AEC;true;2022-06-16T14:16:06.087736;voiture_marque;6
 379;Hyundai;true;2022-06-16T14:16:02.65468;voiture_marque;3
-38;Cizeta;true;2022-06-16T14:16:01.299132;voiture_marque;1
 380;Mack;true;2022-06-16T14:16:02.660048;voiture_marque;3
 381;Steyr;true;2022-06-16T14:16:02.664427;voiture_marque;3
-3815;Genesis;true;2022-06-16T14:16:02.070697;voiture_marque;1
-3816;International;true;2022-06-16T14:16:02.074288;voiture_marque;1
 382;KRAZ;true;2022-06-16T14:16:02.668938;voiture_marque;3
-3821;Zibar;true;2022-06-16T14:16:02.078599;voiture_marque;1
-3822;Autres auto;true;2022-06-16T14:16:02.082803;voiture_marque;1
-3827;Adler;true;2022-06-16T14:16:06.808103;voiture_marque;20
-3829;AEON;true;2022-06-16T14:16:06.816904;voiture_marque;20
 383;Dayun;true;2022-06-16T14:16:02.673349;voiture_marque;3
-3835;ARCTIC CAT;true;2022-06-16T14:16:06.82642;voiture_marque;20
-3836;ARIEL;true;2022-06-16T14:16:06.834699;voiture_marque;20
 384;International;true;2022-06-16T14:16:02.678451;voiture_marque;3
-3849;Big Dog;true;2022-06-16T14:16:06.843102;voiture_marque;20
 385;MAN;true;2022-06-16T14:16:02.682696;voiture_marque;3
 386;TATA Daewoo;true;2022-06-16T14:16:02.686668;voiture_marque;3
 387;MAZ;true;2022-06-16T14:16:02.69023;voiture_marque;3
 388;DongFeng;true;2022-06-16T14:16:02.695229;voiture_marque;3
 389;Isuzu;true;2022-06-16T14:16:02.699399;voiture_marque;3
-3894;DNEPR;true;2022-06-16T14:16:06.851459;voiture_marque;20
-39;Coggiola;true;2022-06-16T14:16:01.30424;voiture_marque;1
 390;Mercedes-Benz;true;2022-06-16T14:16:02.703597;voiture_marque;3
 391;Tatra;true;2022-06-16T14:16:02.708658;voiture_marque;3
-3911;EXCELSIOR;true;2022-06-16T14:16:06.859882;voiture_marque;20
-3919;GEELY;true;2022-06-16T14:16:06.868103;voiture_marque;20
 392;MAZ-MAN;true;2022-06-16T14:16:02.71291;voiture_marque;3
 393;ERF (MAN Truck);true;2022-06-16T14:16:02.717551;voiture_marque;3
-3932;HENDERSON;true;2022-06-16T14:16:06.876451;voiture_marque;20
-3934;HERO;true;2022-06-16T14:16:06.88458;voiture_marque;20
-3937;HESKETH;true;2022-06-16T14:16:06.893934;voiture_marque;20
 394;IVECO;true;2022-06-16T14:16:02.723356;voiture_marque;3
-3944;IZH;true;2022-06-16T14:16:06.902103;voiture_marque;20
 395;Peterbilt;true;2022-06-16T14:16:02.728712;voiture_marque;3
-3952;JUNAK;true;2022-06-16T14:16:06.910103;voiture_marque;20
-3955;KASINSKI;true;2022-06-16T14:16:06.918224;voiture_marque;20
 396;Volkswagen;true;2022-06-16T14:16:02.735514;voiture_marque;3
-3966;LEHMAN TRIKES;true;2022-06-16T14:16:06.927215;voiture_marque;20
 397;MZKT;true;2022-06-16T14:16:02.740231;voiture_marque;3
-3972;LINHAI;true;2022-06-16T14:16:06.935733;voiture_marque;20
 398;FAW;true;2022-06-16T14:16:02.744229;voiture_marque;3
-3987;MASH;true;2022-06-16T14:16:06.944778;voiture_marque;20
-3989;MEGELLI;true;2022-06-16T14:16:06.953102;voiture_marque;20
 399;IVECO-Ling Ye;true;2022-06-16T14:16:02.749579;voiture_marque;3
-3996;MODENAS;true;2022-06-16T14:16:06.962446;voiture_marque;20
-4;Alpine;true;2022-06-16T14:16:01.151129;voiture_marque;1
-40;Dacia;true;2022-06-16T14:16:01.308131;voiture_marque;1
 400;Renault;true;2022-06-16T14:16:02.754354;voiture_marque;3
-4001;MOTOCZYSZ;true;2022-06-16T14:16:06.971519;voiture_marque;20
-4006;MOTUS;true;2022-06-16T14:16:06.981536;voiture_marque;20
 401;Volvo;true;2022-06-16T14:16:02.758982;voiture_marque;3
 402;Rusich (KZKT);true;2022-06-16T14:16:02.763881;voiture_marque;3
-4021;PIAGGIO;true;2022-06-16T14:16:06.990641;voiture_marque;20
-4024;POLARIS;true;2022-06-16T14:16:06.999803;voiture_marque;20
 403;Ford;true;2022-06-16T14:16:02.768853;voiture_marque;3
 404;Iveco-AMT;true;2022-06-16T14:16:02.77345;voiture_marque;3
 405;Scania;true;2022-06-16T14:16:02.778871;voiture_marque;3
 406;BZKT;true;2022-06-16T14:16:02.783342;voiture_marque;3
 407;Tonar;true;2022-06-16T14:16:02.788951;voiture_marque;3
-4071;SWM;true;2022-06-16T14:16:07.008725;voiture_marque;20
-4075;TGB;true;2022-06-16T14:16:07.017988;voiture_marque;20
 408;Freightliner;true;2022-06-16T14:16:02.793743;voiture_marque;3
-4084;URAL;true;2022-06-16T14:16:07.026902;voiture_marque;20
-4089;VELOCETTE;true;2022-06-16T14:16:07.036757;voiture_marque;20
 409;JAC;true;2022-06-16T14:16:02.798416;voiture_marque;3
-4091;VESPA;true;2022-06-16T14:16:07.046103;voiture_marque;20
-4095;VINCENT HRD;true;2022-06-16T14:16:07.057398;voiture_marque;20
-41;Dadi;true;2022-06-16T14:16:01.310783;voiture_marque;1
-4102;WRM;true;2022-06-16T14:16:07.067105;voiture_marque;20
 411;GAZ;true;2022-06-16T14:16:02.803342;voiture_marque;3
-4116;AERMACCHI;true;2022-06-16T14:16:07.076277;voiture_marque;20
-4117;AJP;true;2022-06-16T14:16:07.088215;voiture_marque;20
-4118;ALTA MOTORS;true;2022-06-16T14:16:07.099868;voiture_marque;20
-4119;BARIGO;true;2022-06-16T14:16:07.109477;voiture_marque;20
 412;Ural;true;2022-06-16T14:16:02.808593;voiture_marque;3
-4120;BFG;true;2022-06-16T14:16:07.121246;voiture_marque;20
-4121;BRITTEN;true;2022-06-16T14:16:07.131784;voiture_marque;20
-4122;BROUGH SUPERIOR;true;2022-06-16T14:16:07.143344;voiture_marque;20
-4123;CAN-AM/ BRP;true;2022-06-16T14:16:07.152527;voiture_marque;20
-4124;CANNONDALE;true;2022-06-16T14:16:07.161774;voiture_marque;20
-4125;CARVER;true;2022-06-16T14:16:07.171104;voiture_marque;20
-4126;CEMEC;true;2022-06-16T14:16:07.182103;voiture_marque;20
-4127;CHAK MOTORS;true;2022-06-16T14:16:07.191871;voiture_marque;20
-4128;Christini;true;2022-06-16T14:16:07.200877;voiture_marque;20
-4129;CONDOR;true;2022-06-16T14:16:07.210104;voiture_marque;20
 413;Hania;true;2022-06-16T14:16:02.81364;voiture_marque;3
-4130;CRS;true;2022-06-16T14:16:07.220103;voiture_marque;20
-4131;Dafra Motos;true;2022-06-16T14:16:07.22891;voiture_marque;20
-4132;EBR Motorcycles;true;2022-06-16T14:16:07.237669;voiture_marque;20
-4133;ENERGICA;true;2022-06-16T14:16:07.246815;voiture_marque;20
-4134;GG MOTORRAD;true;2022-06-16T14:16:07.255818;voiture_marque;20
-4135;HARLEY DAVIDSON;true;2022-06-16T14:16:07.265105;voiture_marque;20
-4136;HODAKA;true;2022-06-16T14:16:07.274054;voiture_marque;20
-4137;MARUSHO-LILAC;true;2022-06-16T14:16:07.282103;voiture_marque;20
-4138;PETRONAS;true;2022-06-16T14:16:07.291615;voiture_marque;20
-4139;RIEJU MOTORS;true;2022-06-16T14:16:07.301052;voiture_marque;20
 414;Kalmar;true;2022-06-16T14:16:02.818608;voiture_marque;3
-4140;WHIZZER;true;2022-06-16T14:16:07.310749;voiture_marque;20
-4142;RAM;true;2022-06-16T14:16:02.087041;voiture_marque;1
-4143;Super SOCO;true;2022-06-16T14:16:07.320461;voiture_marque;20
-4144;Aurus;true;2022-06-16T14:16:02.091778;voiture_marque;1
-4145;Trumpchi;true;2022-06-16T14:16:02.096074;voiture_marque;1
-4146;Abarth;true;2022-06-16T14:16:02.099708;voiture_marque;1
-4147;Baic;true;2022-06-16T14:16:02.103071;voiture_marque;1
-4148;DFM;true;2022-06-16T14:16:02.106846;voiture_marque;1
-4149;Saipa;true;2022-06-16T14:16:02.111652;voiture_marque;1
-4154;Apal;true;2022-06-16T14:16:02.115341;voiture_marque;1
-4155;Bajaj;true;2022-06-16T14:16:02.118567;voiture_marque;1
-4156;Batmobile;true;2022-06-16T14:16:02.121748;voiture_marque;1
-4157;Bilenkin;true;2022-06-16T14:16:02.124568;voiture_marque;1
-4158;Cord;true;2022-06-16T14:16:02.128606;voiture_marque;1
-4159;Delage;true;2022-06-16T14:16:02.131904;voiture_marque;1
 416;ZIL;true;2022-06-16T14:16:02.823658;voiture_marque;3
-4160;DKW;true;2022-06-16T14:16:02.135567;voiture_marque;1
-4162;DW Hower;true;2022-06-16T14:16:02.138622;voiture_marque;1
-4163;Flanker;true;2022-06-16T14:16:02.141567;voiture_marque;1
-4164;GAC;true;2022-06-16T14:16:02.146595;voiture_marque;1
-4165;GP;true;2022-06-16T14:16:02.151861;voiture_marque;1
-4166;Hanomag;true;2022-06-16T14:16:02.154566;voiture_marque;1
-4167;Hispano-Suiza;true;2022-06-16T14:16:02.158948;voiture_marque;1
-4168;Horch;true;2022-06-16T14:16:02.162204;voiture_marque;1
-4169;KTM AG;true;2022-06-16T14:16:02.165373;voiture_marque;1
 417;Yarovit Motors;true;2022-06-16T14:16:02.828576;voiture_marque;3
-4170;Ligier;true;2022-06-16T14:16:02.168534;voiture_marque;1
-4171;Lucid;true;2022-06-16T14:16:02.172358;voiture_marque;1
-4172;Nash;true;2022-06-16T14:16:02.177279;voiture_marque;1
-4173;Rambler;true;2022-06-16T14:16:02.181092;voiture_marque;1
-4174;Renaissance;true;2022-06-16T14:16:02.185947;voiture_marque;1
-4175;Renault Samsung;true;2022-06-16T14:16:02.190978;voiture_marque;1
-4176;Rinspeed;true;2022-06-16T14:16:02.196352;voiture_marque;1
-4177;Shanghai Maple;true;2022-06-16T14:16:02.201064;voiture_marque;1
-4178;Simca;true;2022-06-16T14:16:02.205378;voiture_marque;1
-4179;Steyr;true;2022-06-16T14:16:02.209127;voiture_marque;1
 418;Hino;true;2022-06-16T14:16:02.833428;voiture_marque;3
-4180;Studebaker;true;2022-06-16T14:16:02.212432;voiture_marque;1
-4181;Think;true;2022-06-16T14:16:02.215697;voiture_marque;1
-4182;Wanderer;true;2022-06-16T14:16:02.219132;voiture_marque;1
-4183;Voiture de course;true;2022-06-16T14:16:02.222883;voiture_marque;1
-4184;Logem;true;2022-06-16T14:16:02.226237;voiture_marque;1
-4186;Dallara;true;2022-06-16T14:16:02.229897;voiture_marque;1
-4187;Heinkel;true;2022-06-16T14:16:02.233741;voiture_marque;1
-4188;Yulon;true;2022-06-16T14:16:02.237062;voiture_marque;1
-4189;Bio auto;true;2022-06-16T14:16:02.241309;voiture_marque;1
 419;Acerbi;true;2022-06-16T14:16:02.838345;voiture_marque;4
-4190;Deco Rides;true;2022-06-16T14:16:02.244949;voiture_marque;1
-4191;Sears;true;2022-06-16T14:16:02.247886;voiture_marque;1
-4192;Xpeng;true;2022-06-16T14:16:02.252172;voiture_marque;1
-4195;Roewe;true;2022-06-16T14:16:02.255933;voiture_marque;1
-4196;CheryExeed;true;2022-06-16T14:16:02.259898;voiture_marque;1
-4197;LiXiang;true;2022-06-16T14:16:02.263746;voiture_marque;1
-4198;Nio;true;2022-06-16T14:16:02.267751;voiture_marque;1
-4199;Hennessey;true;2022-06-16T14:16:02.271324;voiture_marque;1
-42;Daewoo;true;2022-06-16T14:16:01.314232;voiture_marque;1
 420;Gebert;true;2022-06-16T14:16:02.84345;voiture_marque;4
-4200;Polestar;true;2022-06-16T14:16:02.274887;voiture_marque;1
 421;Muller-Mitteltal;true;2022-06-16T14:16:02.849342;voiture_marque;4
 422;Westfalia;true;2022-06-16T14:16:02.856343;voiture_marque;4
 423;Neva trucks and trailers;true;2022-06-16T14:16:02.861875;voiture_marque;4
@@ -567,7 +351,6 @@
 437;WM Meyer;true;2022-06-16T14:16:02.92893;voiture_marque;4
 438;NPF Magistr;true;2022-06-16T14:16:02.934173;voiture_marque;4
 439;Agados;true;2022-06-16T14:16:02.93903;voiture_marque;4
-44;Daihatsu;true;2022-06-16T14:16:01.317132;voiture_marque;1
 440;Grunwald;true;2022-06-16T14:16:02.945062;voiture_marque;4
 441;Nursan;true;2022-06-16T14:16:02.94987;voiture_marque;4
 442;York;true;2022-06-16T14:16:02.95467;voiture_marque;4
@@ -578,7 +361,6 @@
 447;Z-TRAILER;true;2022-06-16T14:16:02.980612;voiture_marque;4
 448;OdAZ;true;2022-06-16T14:16:02.985548;voiture_marque;4
 449;Alka;true;2022-06-16T14:16:02.990899;voiture_marque;4
-45;Daimler;true;2022-06-16T14:16:01.321132;voiture_marque;1
 450;GTI;true;2022-06-16T14:16:02.996898;voiture_marque;4
 451;OFF MECC;true;2022-06-16T14:16:03.001654;voiture_marque;4
 452;Zaslaw;true;2022-06-16T14:16:03.006895;voiture_marque;4
@@ -589,7 +371,6 @@
 457;Zorzi;true;2022-06-16T14:16:03.034899;voiture_marque;4
 458;PZGT;true;2022-06-16T14:16:03.040902;voiture_marque;4
 459;Altin Trailer;true;2022-06-16T14:16:03.046196;voiture_marque;4
-46;Dallas;true;2022-06-16T14:16:01.325131;voiture_marque;1
 460;Gute Wolf;true;2022-06-16T14:16:03.050896;voiture_marque;4
 461;Otokar;true;2022-06-16T14:16:03.056649;voiture_marque;4
 462;AUTO;true;2022-06-16T14:16:03.062214;voiture_marque;4
@@ -600,7 +381,6 @@
 467;Avtomaster;true;2022-06-16T14:16:03.087362;voiture_marque;4
 468;PMZ;true;2022-06-16T14:16:03.092471;voiture_marque;4
 469;Ardor;true;2022-06-16T14:16:03.097034;voiture_marque;4
-47;Datsun;true;2022-06-16T14:16:01.328131;voiture_marque;1
 470;Hapert;true;2022-06-16T14:16:03.102034;voiture_marque;4
 471;Ozgul;true;2022-06-16T14:16:03.10607;voiture_marque;4
 472;Avtospetstekhnika;true;2022-06-16T14:16:03.112076;voiture_marque;4
@@ -611,7 +391,6 @@
 477;APS;true;2022-06-16T14:16:03.135877;voiture_marque;4
 478;Progress;true;2022-06-16T14:16:03.14008;voiture_marque;4
 479;Atlant;true;2022-06-16T14:16:03.144834;voiture_marque;4
-48;De Tomaso;true;2022-06-16T14:16:01.331132;voiture_marque;1
 480;Haulmark;true;2022-06-16T14:16:03.149844;voiture_marque;4
 481;Parcisa;true;2022-06-16T14:16:03.15391;voiture_marque;4
 482;AST-Kanash;true;2022-06-16T14:16:03.159404;voiture_marque;4
@@ -622,7 +401,6 @@
 487;Baltspecmash;true;2022-06-16T14:16:03.185094;voiture_marque;4
 488;Promtekhservis;true;2022-06-16T14:16:03.19037;voiture_marque;4
 489;Avtotreiding;true;2022-06-16T14:16:03.195421;voiture_marque;4
-49;DeLorean;true;2022-06-16T14:16:01.33413;voiture_marque;1
 490;Heil;true;2022-06-16T14:16:03.200276;voiture_marque;4
 491;Prestige;true;2022-06-16T14:16:03.205285;voiture_marque;4
 492;Becema;true;2022-06-16T14:16:03.210407;voiture_marque;4
@@ -633,8 +411,6 @@
 497;Bogdan-Spetsavtotekhnika;true;2022-06-16T14:16:03.237706;voiture_marque;4
 498;RosSpetcTrailer;true;2022-06-16T14:16:03.24374;voiture_marque;4
 499;Bartoletti;true;2022-06-16T14:16:03.250183;voiture_marque;4
-5;AM General;true;2022-06-16T14:16:01.156032;voiture_marque;1
-50;Derways;true;2022-06-16T14:16:01.336717;voiture_marque;1
 500;Honold;true;2022-06-16T14:16:03.257094;voiture_marque;4
 501;Pronar;true;2022-06-16T14:16:03.262482;voiture_marque;4
 502;VARZ;true;2022-06-16T14:16:03.268473;voiture_marque;4
@@ -645,7 +421,6 @@
 507;VZTM;true;2022-06-16T14:16:03.296754;voiture_marque;4
 508;Rusich (KZKT);true;2022-06-16T14:16:03.30252;voiture_marque;4
 509;Benalu;true;2022-06-16T14:16:03.308257;voiture_marque;4
-51;Dodge;true;2022-06-16T14:16:01.339131;voiture_marque;1
 510;Hulco;true;2022-06-16T14:16:03.313677;voiture_marque;4
 511;Respo;true;2022-06-16T14:16:03.320097;voiture_marque;4
 512;VMZ;true;2022-06-16T14:16:03.326753;voiture_marque;4
@@ -656,7 +431,6 @@
 517;VOMZ;true;2022-06-16T14:16:03.3541;voiture_marque;4
 518;Sarmat;true;2022-06-16T14:16:03.359092;voiture_marque;4
 519;Bison;true;2022-06-16T14:16:03.365093;voiture_marque;4
-52;DongFeng;true;2022-06-16T14:16:01.343183;voiture_marque;1
 520;Intercars;true;2022-06-16T14:16:03.370113;voiture_marque;4
 521;Robinson;true;2022-06-16T14:16:03.375418;voiture_marque;4
 522;GAZ;true;2022-06-16T14:16:03.381096;voiture_marque;4
@@ -667,7 +441,6 @@
 527;GK Commonwealth;true;2022-06-16T14:16:03.408096;voiture_marque;4
 528;SelkhozProdmash;true;2022-06-16T14:16:03.413777;voiture_marque;4
 529;Boeckmann;true;2022-06-16T14:16:03.419142;voiture_marque;4
-53;Doninvest;true;2022-06-16T14:16:01.347132;voiture_marque;1
 530;IPV;true;2022-06-16T14:16:03.42475;voiture_marque;4
 531;RTS Trailmaster;true;2022-06-16T14:16:03.430406;voiture_marque;4
 532;GKB;true;2022-06-16T14:16:03.436123;voiture_marque;4
@@ -678,7 +451,6 @@
 537;Graz;true;2022-06-16T14:16:03.469997;voiture_marque;4
 538;SZAP;true;2022-06-16T14:16:03.476341;voiture_marque;4
 539;Briab;true;2022-06-16T14:16:03.481785;voiture_marque;4
-54;Donkervoort;true;2022-06-16T14:16:01.349549;voiture_marque;1
 540;Juki;true;2022-06-16T14:16:03.487047;voiture_marque;4
 541;Sacim;true;2022-06-16T14:16:03.492679;voiture_marque;4
 542;DenSim-Kupava;true;2022-06-16T14:16:03.497397;voiture_marque;4
@@ -689,7 +461,6 @@
 547;Diesel-TS;true;2022-06-16T14:16:03.522088;voiture_marque;4
 548;Sibtral;true;2022-06-16T14:16:03.527142;voiture_marque;4
 549;BURG;true;2022-06-16T14:16:03.531833;voiture_marque;4
-55;E-Car;true;2022-06-16T14:16:01.353132;voiture_marque;1
 550;Karavan;true;2022-06-16T14:16:03.536642;voiture_marque;4
 551;Saris;true;2022-06-16T14:16:03.541444;voiture_marque;4
 552;Dnestr-Auto;true;2022-06-16T14:16:03.546219;voiture_marque;4
@@ -700,7 +471,6 @@
 557;Eurotrailer;true;2022-06-16T14:16:03.573499;voiture_marque;4
 558;SNM (Stroyneftemash);true;2022-06-16T14:16:03.5791;voiture_marque;4
 559;Carnehl;true;2022-06-16T14:16:03.585103;voiture_marque;4
-56;Eagle;true;2022-06-16T14:16:01.356215;voiture_marque;1
 560;Kempf;true;2022-06-16T14:16:03.590101;voiture_marque;4
 561;Scania;true;2022-06-16T14:16:03.595951;voiture_marque;4
 562;Egorievsk Agricultural Machinery;true;2022-06-16T14:16:03.601356;voiture_marque;4
@@ -711,7 +481,6 @@
 567;Zavod GT7;true;2022-06-16T14:16:03.630135;voiture_marque;4
 568;Spetspritsep;true;2022-06-16T14:16:03.636105;voiture_marque;4
 569;Chereau;true;2022-06-16T14:16:03.642431;voiture_marque;4
-57;Eagle Cars;true;2022-06-16T14:16:01.359131;voiture_marque;1
 570;Knapen;true;2022-06-16T14:16:03.647847;voiture_marque;4
 571;Schuh;true;2022-06-16T14:16:03.653166;voiture_marque;4
 572;Source;true;2022-06-16T14:16:03.6581;voiture_marque;4
@@ -732,7 +501,6 @@
 587;KARZ;true;2022-06-16T14:16:03.748666;voiture_marque;4
 588;Start;true;2022-06-16T14:16:03.755958;voiture_marque;4
 589;CIMC Silvergreen;true;2022-06-16T14:16:03.761202;voiture_marque;4
-59;FAW;true;2022-06-16T14:16:01.362961;voiture_marque;1
 590;Kroger;true;2022-06-16T14:16:03.770284;voiture_marque;4
 591;Shladot;true;2022-06-16T14:16:03.778195;voiture_marque;4
 592;KZPT (Sibtral);true;2022-06-16T14:16:03.784378;voiture_marque;4
@@ -743,8 +511,6 @@
 597;KZS;true;2022-06-16T14:16:03.820194;voiture_marque;4
 598;Stroyremauto;true;2022-06-16T14:16:03.828858;voiture_marque;4
 599;Cometto;true;2022-06-16T14:16:03.836197;voiture_marque;4
-6;Ariel;true;2022-06-16T14:16:01.161887;voiture_marque;1
-60;Ferrari;true;2022-06-16T14:16:01.366134;voiture_marque;1
 600;LAG;true;2022-06-16T14:16:03.843207;voiture_marque;4
 601;Sommer;true;2022-06-16T14:16:03.848576;voiture_marque;4
 602;Klimovoavtopritsep;true;2022-06-16T14:16:03.854416;voiture_marque;4
@@ -755,7 +521,6 @@
 607;KMZ;true;2022-06-16T14:16:03.88443;voiture_marque;4
 608;Tekhnotron;true;2022-06-16T14:16:03.892028;voiture_marque;4
 609;D-Tec;true;2022-06-16T14:16:03.900204;voiture_marque;4
-61;Fiat;true;2022-06-16T14:16:01.370133;voiture_marque;1
 610;Lamberet;true;2022-06-16T14:16:03.906789;voiture_marque;4
 611;Steinsberger;true;2022-06-16T14:16:03.913803;voiture_marque;4
 612;Korida-Tex;true;2022-06-16T14:16:03.920196;voiture_marque;4
@@ -766,7 +531,6 @@
 617;KRAZ;true;2022-06-16T14:16:03.95179;voiture_marque;4
 618;Tonar;true;2022-06-16T14:16:03.957935;voiture_marque;4
 619;De Angelis;true;2022-06-16T14:16:03.96312;voiture_marque;4
-62;Fisker;true;2022-06-16T14:16:01.375132;voiture_marque;1
 620;Liangshan Dongyue;true;2022-06-16T14:16:03.967805;voiture_marque;4
 621;Stoughton;true;2022-06-16T14:16:03.973234;voiture_marque;4
 622;Cryogenmash;true;2022-06-16T14:16:03.979002;voiture_marque;4
@@ -777,7 +541,6 @@
 627;KrKZ;true;2022-06-16T14:16:04.007128;voiture_marque;4
 628;Transmash (KAMA);true;2022-06-16T14:16:04.014866;voiture_marque;4
 629;Dennison;true;2022-06-16T14:16:04.021333;voiture_marque;4
-63;Ford;true;2022-06-16T14:16:01.379135;voiture_marque;1
 630;Lintrailers;true;2022-06-16T14:16:04.028867;voiture_marque;4
 631;Tauras;true;2022-06-16T14:16:04.034544;voiture_marque;4
 632;Kuzpolimermash;true;2022-06-16T14:16:04.040867;voiture_marque;4
@@ -788,7 +551,6 @@
 637;Kupava;true;2022-06-16T14:16:04.072343;voiture_marque;4
 638;Trailer;true;2022-06-16T14:16:04.077751;voiture_marque;4
 639;Doll;true;2022-06-16T14:16:04.083272;voiture_marque;4
-64;Foton;true;2022-06-16T14:16:01.383319;voiture_marque;1
 640;Load Rite;true;2022-06-16T14:16:04.088916;voiture_marque;4
 641;Thor;true;2022-06-16T14:16:04.094636;voiture_marque;4
 642;Kurganpritsep;true;2022-06-16T14:16:04.101403;voiture_marque;4
@@ -799,7 +561,6 @@
 647;Kurgan trailers;true;2022-06-16T14:16:04.134013;voiture_marque;4
 648;UAZ;true;2022-06-16T14:16:04.140634;voiture_marque;4
 649;ES-GE;true;2022-06-16T14:16:04.146633;voiture_marque;4
-65;FSO;true;2022-06-16T14:16:01.386714;voiture_marque;1
 650;Luyue;true;2022-06-16T14:16:04.153339;voiture_marque;4
 651;Tiki Treiler;true;2022-06-16T14:16:04.159164;voiture_marque;4
 652;LAV;true;2022-06-16T14:16:04.165375;voiture_marque;4
@@ -810,7 +571,6 @@
 657;Lenkomteh;true;2022-06-16T14:16:04.193668;voiture_marque;4
 658;Uralavtopritsep;true;2022-06-16T14:16:04.199843;voiture_marque;4
 659;Excalibur_;true;2022-06-16T14:16:04.205781;voiture_marque;4
-66;Fuqi;true;2022-06-16T14:16:01.389131;voiture_marque;1
 660;MAN;true;2022-06-16T14:16:04.211746;voiture_marque;4
 661;Trail King;true;2022-06-16T14:16:04.21836;voiture_marque;4
 662;Lidselmash;true;2022-06-16T14:16:04.224634;voiture_marque;4
@@ -821,7 +581,6 @@
 667;LTS-Pilot plant;true;2022-06-16T14:16:04.255473;voiture_marque;4
 668;Owner;true;2022-06-16T14:16:04.262004;voiture_marque;4
 669;Finkl;true;2022-06-16T14:16:04.267964;voiture_marque;4
-67;Geely;true;2022-06-16T14:16:01.392638;voiture_marque;1
 670;Massenza;true;2022-06-16T14:16:04.273683;voiture_marque;4
 671;Trigano;true;2022-06-16T14:16:04.280634;voiture_marque;4
 672;MagisTral;true;2022-06-16T14:16:04.286786;voiture_marque;4
@@ -832,7 +591,6 @@
 677;MAZ;true;2022-06-16T14:16:04.318011;voiture_marque;4
 678;CP;true;2022-06-16T14:16:04.325637;voiture_marque;4
 679;Fliegl - Uglichmash;true;2022-06-16T14:16:04.331677;voiture_marque;4
-68;Geo;true;2022-06-16T14:16:01.395132;voiture_marque;1
 680;Mega;true;2022-06-16T14:16:04.337973;voiture_marque;4
 681;TSR;true;2022-06-16T14:16:04.344153;voiture_marque;4
 682;MAk-a;true;2022-06-16T14:16:04.349633;voiture_marque;4
@@ -843,7 +601,6 @@
 687;Manak-Auto;true;2022-06-16T14:16:04.379384;voiture_marque;4
 688;Chaika-Service;true;2022-06-16T14:16:04.384772;voiture_marque;4
 689;Fontaine;true;2022-06-16T14:16:04.391627;voiture_marque;4
-69;GMC;true;2022-06-16T14:16:01.399133;voiture_marque;1
 690;Menci;true;2022-06-16T14:16:04.397772;voiture_marque;4
 691;Van Hool;true;2022-06-16T14:16:04.40484;voiture_marque;4
 692;MZSA;true;2022-06-16T14:16:04.41153;voiture_marque;4
@@ -854,8 +611,6 @@
 697;MoAZ;true;2022-06-16T14:16:04.444832;voiture_marque;4
 698;CHPZ;true;2022-06-16T14:16:04.451433;voiture_marque;4
 699;FoxTank;true;2022-06-16T14:16:04.458288;voiture_marque;4
-7;Aro;true;2022-06-16T14:16:01.166964;voiture_marque;1
-70;Gonow;true;2022-06-16T14:16:01.403349;voiture_marque;1
 700;Meusburger;true;2022-06-16T14:16:04.465127;voiture_marque;4
 701;Viberti;true;2022-06-16T14:16:04.471907;voiture_marque;4
 702;MordovAgroMash;true;2022-06-16T14:16:04.478029;voiture_marque;4
@@ -866,7 +621,6 @@
 707;MTZ (Belarus);true;2022-06-16T14:16:04.509139;voiture_marque;4
 708;Shturman Kredo+;true;2022-06-16T14:16:04.515525;voiture_marque;4
 709;Galtrailer;true;2022-06-16T14:16:04.521513;voiture_marque;4
-71;Great Wall;true;2022-06-16T14:16:01.406197;voiture_marque;1
 710;Mistrall;true;2022-06-16T14:16:04.528132;voiture_marque;4
 711;Wagen-Meyer;true;2022-06-16T14:16:04.53437;voiture_marque;4
 712;MTM;true;2022-06-16T14:16:04.540907;voiture_marque;4
@@ -877,7 +631,6 @@
 717;ASTRA;true;2022-06-16T14:16:04.575932;voiture_marque;5
 718;Hania;true;2022-06-16T14:16:04.582953;voiture_marque;5
 719;Mudan;true;2022-06-16T14:16:04.589406;voiture_marque;5
-72;Hafei;true;2022-06-16T14:16:01.40917;voiture_marque;1
 720;Tatra;true;2022-06-16T14:16:04.596055;voiture_marque;5
 721;ZIL;true;2022-06-16T14:16:04.602375;voiture_marque;5
 722;Avia;true;2022-06-16T14:16:04.608759;voiture_marque;5
@@ -887,7 +640,6 @@
 726;ZSA;true;2022-06-16T14:16:04.634935;voiture_marque;5
 727;BAW;true;2022-06-16T14:16:04.641332;voiture_marque;5
 729;Nissan;true;2022-06-16T14:16:04.647935;voiture_marque;5
-73;Haima;true;2022-06-16T14:16:01.411625;voiture_marque;1
 730;Tiema;true;2022-06-16T14:16:04.654403;voiture_marque;5
 731;KAZ;true;2022-06-16T14:16:04.661094;voiture_marque;5
 732;Beifan;true;2022-06-16T14:16:04.667577;voiture_marque;5
@@ -897,7 +649,6 @@
 737;BMC;true;2022-06-16T14:16:04.696313;voiture_marque;5
 738;Hyundai;true;2022-06-16T14:16:04.703098;voiture_marque;5
 739;Peterbilt;true;2022-06-16T14:16:04.710137;voiture_marque;5
-74;Hindustan;true;2022-06-16T14:16:01.414131;voiture_marque;1
 740;WAW;true;2022-06-16T14:16:04.717144;voiture_marque;5
 741;KRAZ;true;2022-06-16T14:16:04.7241;voiture_marque;5
 742;CAMC;true;2022-06-16T14:16:04.731094;voiture_marque;5
@@ -907,7 +658,6 @@
 746;MAZ;true;2022-06-16T14:16:04.761135;voiture_marque;5
 748;Isuzu;true;2022-06-16T14:16:04.76801;voiture_marque;5
 749;Renault;true;2022-06-16T14:16:04.776019;voiture_marque;5
-75;Holden;true;2022-06-16T14:16:01.416132;voiture_marque;1
 750;YoungMan;true;2022-06-16T14:16:04.784021;voiture_marque;5
 751;MAZ-MAN;true;2022-06-16T14:16:04.794018;voiture_marque;5
 752;Chevrolet;true;2022-06-16T14:16:04.801017;voiture_marque;5
@@ -917,7 +667,6 @@
 757;Daewoo;true;2022-06-16T14:16:04.831577;voiture_marque;5
 758;IVECO HongYan;true;2022-06-16T14:16:04.838529;voiture_marque;5
 759;Scania;true;2022-06-16T14:16:04.846341;voiture_marque;5
-76;Honda;true;2022-06-16T14:16:01.418884;voiture_marque;1
 761;MoAZ;true;2022-06-16T14:16:04.854349;voiture_marque;5
 762;DAF;true;2022-06-16T14:16:04.862017;voiture_marque;5
 763;IVECO-Ling Ye;true;2022-06-16T14:16:04.869679;voiture_marque;5
@@ -926,7 +675,6 @@
 767;Dayun;true;2022-06-16T14:16:04.893097;voiture_marque;5
 768;Iveco-AMT;true;2022-06-16T14:16:04.900745;voiture_marque;5
 769;Shacman;true;2022-06-16T14:16:04.908155;voiture_marque;5
-77;HuangHai;true;2022-06-16T14:16:01.421133;voiture_marque;1
 770;BZKT;true;2022-06-16T14:16:04.91574;voiture_marque;5
 771;Rusich (KZKT);true;2022-06-16T14:16:04.923131;voiture_marque;5
 772;DongFeng;true;2022-06-16T14:16:04.930624;voiture_marque;5
@@ -936,7 +684,6 @@
 777;FAW;true;2022-06-16T14:16:04.966828;voiture_marque;5
 778;JMC;true;2022-06-16T14:16:04.97636;voiture_marque;5
 779;Silant;true;2022-06-16T14:16:04.98432;voiture_marque;5
-78;Hummer;true;2022-06-16T14:16:01.424133;voiture_marque;1
 780;VMZ;true;2022-06-16T14:16:04.996648;voiture_marque;5
 781;Tekhnospas-NN;true;2022-06-16T14:16:05.003714;voiture_marque;5
 782;Ford;true;2022-06-16T14:16:05.010172;voiture_marque;5
@@ -947,7 +694,6 @@
 787;Foton;true;2022-06-16T14:16:05.051128;voiture_marque;5
 788;MAN;true;2022-06-16T14:16:05.058213;voiture_marque;5
 789;Sterling;true;2022-06-16T14:16:05.066338;voiture_marque;5
-79;Hyundai;true;2022-06-16T14:16:01.426132;voiture_marque;1
 790;GAZ-SAZ;true;2022-06-16T14:16:05.073777;voiture_marque;5
 792;Freightliner;true;2022-06-16T14:16:05.081219;voiture_marque;5
 793;Mercedes-Benz;true;2022-06-16T14:16:05.088584;voiture_marque;5
@@ -955,8 +701,6 @@
 797;GMC;true;2022-06-16T14:16:05.103316;voiture_marque;5
 798;Mitsubishi;true;2022-06-16T14:16:05.110852;voiture_marque;5
 799;TATA Daewoo;true;2022-06-16T14:16:05.118298;voiture_marque;5
-8;Asia;true;2022-06-16T14:16:01.171965;voiture_marque;1
-80;Infiniti;true;2022-06-16T14:16:01.429133;voiture_marque;1
 800;Guran;true;2022-06-16T14:16:05.125731;voiture_marque;5
 801;Yarovit Motors;true;2022-06-16T14:16:05.132726;voiture_marque;5
 802;ANKAI;true;2022-06-16T14:16:05.140727;voiture_marque;6
@@ -966,7 +710,6 @@
 807;Asia;true;2022-06-16T14:16:05.170763;voiture_marque;6
 808;Ikarbus;true;2022-06-16T14:16:05.178152;voiture_marque;6
 809;Neoplan;true;2022-06-16T14:16:05.185075;voiture_marque;6
-81;Innocenti;true;2022-06-16T14:16:01.43313;voiture_marque;1
 810;Yutong;true;2022-06-16T14:16:05.192605;voiture_marque;6
 811;LAZ;true;2022-06-16T14:16:05.19976;voiture_marque;6
 812;Ayats;true;2022-06-16T14:16:05.206761;voiture_marque;6
@@ -977,7 +720,6 @@
 817;BAW;true;2022-06-16T14:16:05.242661;voiture_marque;6
 818;Intech;true;2022-06-16T14:16:05.249757;voiture_marque;6
 819;Otoyol;true;2022-06-16T14:16:05.257969;voiture_marque;6
-82;Invicta;true;2022-06-16T14:16:01.435131;voiture_marque;1
 820;Zonda;true;2022-06-16T14:16:05.265117;voiture_marque;6
 821;MAZ;true;2022-06-16T14:16:05.272918;voiture_marque;6
 822;Bluebird;true;2022-06-16T14:16:05.279917;voiture_marque;6
@@ -987,7 +729,6 @@
 826;MARZ;true;2022-06-16T14:16:05.310672;voiture_marque;6
 827;Bova;true;2022-06-16T14:16:05.31825;voiture_marque;6
 829;Setra;true;2022-06-16T14:16:05.326018;voiture_marque;6
-83;Iran Khodro;true;2022-06-16T14:16:01.438132;voiture_marque;1
 830;BAZ;true;2022-06-16T14:16:05.334985;voiture_marque;6
 831;Neman OZ;true;2022-06-16T14:16:05.342071;voiture_marque;6
 832;Bristol;true;2022-06-16T14:16:05.350377;voiture_marque;6
@@ -998,7 +739,6 @@
 837;Daewoo;true;2022-06-16T14:16:05.390794;voiture_marque;6
 838;Jelcz;true;2022-06-16T14:16:05.398592;voiture_marque;6
 839;TAM;true;2022-06-16T14:16:05.406036;voiture_marque;6
-84;Isdera;true;2022-06-16T14:16:01.441131;voiture_marque;1
 840;VMZ;true;2022-06-16T14:16:05.413703;voiture_marque;6
 841;PAZ;true;2022-06-16T14:16:05.421531;voiture_marque;6
 842;DongFeng;true;2022-06-16T14:16:05.42853;voiture_marque;6
@@ -1009,7 +749,6 @@
 847;Ford;true;2022-06-16T14:16:05.468981;voiture_marque;6
 848;Kia;true;2022-06-16T14:16:05.479387;voiture_marque;6
 849;Thomas Built Buses;true;2022-06-16T14:16:05.487604;voiture_marque;6
-85;Isuzu;true;2022-06-16T14:16:01.445131;voiture_marque;1
 850;GAZ;true;2022-06-16T14:16:05.495551;voiture_marque;6
 851;RoAZ;true;2022-06-16T14:16:05.502993;voiture_marque;6
 852;Foton;true;2022-06-16T14:16:05.510989;voiture_marque;6
@@ -1020,7 +759,6 @@
 857;Foxbus;true;2022-06-16T14:16:05.54999;voiture_marque;6
 858;MAN;true;2022-06-16T14:16:05.557428;voiture_marque;6
 859;Van Hool;true;2022-06-16T14:16:05.565699;voiture_marque;6
-86;IVECO;true;2022-06-16T14:16:01.448859;voiture_marque;1
 860;ZAZ;true;2022-06-16T14:16:05.573243;voiture_marque;6
 861;TulaBus;true;2022-06-16T14:16:05.580154;voiture_marque;6
 862;Golden Dragon;true;2022-06-16T14:16:05.588017;voiture_marque;6
@@ -1031,21 +769,283 @@
 867;Hentgong;true;2022-06-16T14:16:05.627194;voiture_marque;6
 868;Mercedes-Benz;true;2022-06-16T14:16:05.634225;voiture_marque;6
 869;VDL Bus Chassis (DAF);true;2022-06-16T14:16:05.642718;voiture_marque;6
-87;JAC;true;2022-06-16T14:16:01.451857;voiture_marque;1
 870;KAvZ;true;2022-06-16T14:16:05.651071;voiture_marque;6
 871;Ural;true;2022-06-16T14:16:05.659397;voiture_marque;6
 872;Higer;true;2022-06-16T14:16:05.667139;voiture_marque;6
 873;Mitsubishi;true;2022-06-16T14:16:05.674799;voiture_marque;6
 874;Volkswagen;true;2022-06-16T14:16:05.68243;voiture_marque;6
-88;Jaguar;true;2022-06-16T14:16:01.454678;voiture_marque;1
-89;Jeep;true;2022-06-16T14:16:01.459131;voiture_marque;1
-9;Aston Martin;true;2022-06-16T14:16:01.175966;voiture_marque;1
-90;Jensen;true;2022-06-16T14:16:01.462134;voiture_marque;1
-91;JMC;true;2022-06-16T14:16:01.466977;voiture_marque;1
-92;Kia;true;2022-06-16T14:16:01.469975;voiture_marque;1
-93;Koenigsegg;true;2022-06-16T14:16:01.473666;voiture_marque;1
-95;Lamborghini;true;2022-06-16T14:16:01.476979;voiture_marque;1
-96;Lancia;true;2022-06-16T14:16:01.479975;voiture_marque;1
-97;Land Rover;true;2022-06-16T14:16:01.481977;voiture_marque;1
-98;Landwind;true;2022-06-16T14:16:01.485979;voiture_marque;1
-99;Lexus;true;2022-06-16T14:16:01.488978;voiture_marque;1
+2084;MZ;true;2022-06-16T14:16:06.096163;voiture_marque;20
+2089;NCR;true;2022-06-16T14:16:06.106165;voiture_marque;20
+2092;DAELIM;true;2022-06-16T14:16:06.115702;voiture_marque;20
+2093;ITALJET;true;2022-06-16T14:16:06.12634;voiture_marque;20
+2095;SYM;true;2022-06-16T14:16:06.134863;voiture_marque;20
+2096;AJS;true;2022-06-16T14:16:06.142205;voiture_marque;20
+2103;JAWA;true;2022-06-16T14:16:06.151601;voiture_marque;20
+2106;AMAZONAS;true;2022-06-16T14:16:06.160162;voiture_marque;20
+2107;DERBI;true;2022-06-16T14:16:06.168472;voiture_marque;20
+2109;NORTON;true;2022-06-16T14:16:06.176496;voiture_marque;20
+2119;Orange County Choppers;true;2022-06-16T14:16:06.184161;voiture_marque;20
+2126;APRILIA;true;2022-06-16T14:16:06.192739;voiture_marque;20
+2129;OSSA;true;2022-06-16T14:16:06.200943;voiture_marque;20
+2130;TRIUMPH;true;2022-06-16T14:16:06.209026;voiture_marque;20
+2141;ATK;true;2022-06-16T14:16:06.216931;voiture_marque;20
+2148;KANUNI;true;2022-06-16T14:16:06.224843;voiture_marque;20
+2152;DUCATI;true;2022-06-16T14:16:06.233251;voiture_marque;20
+2153;KAWASAKI;true;2022-06-16T14:16:06.242315;voiture_marque;20
+2154;PEUGEOT;true;2022-06-16T14:16:06.251754;voiture_marque;20
+2155;VENTO;true;2022-06-16T14:16:06.260234;voiture_marque;20
+2159;PGO;true;2022-06-16T14:16:06.26863;voiture_marque;20
+2165;VERUCCI;true;2022-06-16T14:16:06.277289;voiture_marque;20
+2166;BAJAJ;true;2022-06-16T14:16:06.28534;voiture_marque;20
+2167;ECOSSE;true;2022-06-16T14:16:06.293438;voiture_marque;20
+2170;VICTORY;true;2022-06-16T14:16:06.30149;voiture_marque;20
+2186;BENELLI;true;2022-06-16T14:16:06.309873;voiture_marque;20
+2188;KTM;true;2022-06-16T14:16:06.318194;voiture_marque;20
+2190;VOR;true;2022-06-16T14:16:06.326636;voiture_marque;20
+2191;BETA;true;2022-06-16T14:16:06.335513;voiture_marque;20
+2195;VOXAN;true;2022-06-16T14:16:06.345211;voiture_marque;20
+2198;KYMCO;true;2022-06-16T14:16:06.35407;voiture_marque;20
+2200;VYRUS;true;2022-06-16T14:16:06.362179;voiture_marque;20
+2201;Big Bear Choppers;true;2022-06-16T14:16:06.370097;voiture_marque;20
+2203;LAVERDA;true;2022-06-16T14:16:06.378168;voiture_marque;20
+2205;WAKAN;true;2022-06-16T14:16:06.385982;voiture_marque;20
+2207;FISCHER;true;2022-06-16T14:16:06.394001;voiture_marque;20
+2209;PUCH;true;2022-06-16T14:16:06.402107;voiture_marque;20
+2211;BIMOTA;true;2022-06-16T14:16:06.410181;voiture_marque;20
+2218;LIFAN;true;2022-06-16T14:16:06.418169;voiture_marque;20
+2223;MAGNI;true;2022-06-16T14:16:06.426207;voiture_marque;20
+2228;MAICO;true;2022-06-16T14:16:06.435648;voiture_marque;20
+2233;MALAGUTI;true;2022-06-16T14:16:06.444105;voiture_marque;20
+2236;BMW;true;2022-06-16T14:16:06.452226;voiture_marque;20
+2242;GAS GAS;true;2022-06-16T14:16:06.460261;voiture_marque;20
+2243;MATCHLESS;true;2022-06-16T14:16:06.46836;voiture_marque;20
+2245;YAMAHA;true;2022-06-16T14:16:06.477618;voiture_marque;20
+2246;BORILE;true;2022-06-16T14:16:06.485104;voiture_marque;20
+2248;MBK;true;2022-06-16T14:16:06.496376;voiture_marque;20
+2251;BOSS HOSS;true;2022-06-16T14:16:06.504551;voiture_marque;20
+2262;GHEZZI-BRIAN;true;2022-06-16T14:16:06.513804;voiture_marque;20
+2265;ZERO;true;2022-06-16T14:16:06.522598;voiture_marque;20
+2266;BSA;true;2022-06-16T14:16:06.531105;voiture_marque;20
+2267;GILERA;true;2022-06-16T14:16:06.540106;voiture_marque;20
+2268;MIDUAL;true;2022-06-16T14:16:06.548024;voiture_marque;20
+2269;ROYAL ENFIELD;true;2022-06-16T14:16:06.556104;voiture_marque;20
+2273;MIKILON;true;2022-06-16T14:16:06.56439;voiture_marque;20
+2274;SACHS;true;2022-06-16T14:16:06.573107;voiture_marque;20
+2280;ZUNDAPP;true;2022-06-16T14:16:06.582304;voiture_marque;20
+2281;BUELL;true;2022-06-16T14:16:06.590637;voiture_marque;20
+2288;MONDIAL;true;2022-06-16T14:16:06.598802;voiture_marque;20
+2291;CAGIVA;true;2022-06-16T14:16:06.612105;voiture_marque;20
+2294;SCORPA;true;2022-06-16T14:16:06.619901;voiture_marque;20
+2297;HARTFORD;true;2022-06-16T14:16:06.628105;voiture_marque;20
+2298;MOTO GUZZI;true;2022-06-16T14:16:06.636211;voiture_marque;20
+2301;CCM;true;2022-06-16T14:16:06.644147;voiture_marque;20
+2303;MOTO MORINI;true;2022-06-16T14:16:06.652105;voiture_marque;20
+2304;SHERCO;true;2022-06-16T14:16:06.660104;voiture_marque;20
+2307;HERCULES;true;2022-06-16T14:16:06.667812;voiture_marque;20
+2311;CFMOTO;true;2022-06-16T14:16:06.675925;voiture_marque;20
+2312;HIGHLAND;true;2022-06-16T14:16:06.683779;voiture_marque;20
+2317;HONDA;true;2022-06-16T14:16:06.691709;voiture_marque;20
+2319;SIMSON;true;2022-06-16T14:16:06.699685;voiture_marque;20
+2323;MOTORHISPANIA;true;2022-06-16T14:16:06.707455;voiture_marque;20
+2327;HOREX;true;2022-06-16T14:16:06.71534;voiture_marque;20
+2331;CONFEDERATE;true;2022-06-16T14:16:06.72313;voiture_marque;20
+2332;HUSABERG;true;2022-06-16T14:16:06.732603;voiture_marque;20
+2333;MTT;true;2022-06-16T14:16:06.740131;voiture_marque;20
+2336;CPI;true;2022-06-16T14:16:06.749055;voiture_marque;20
+2337;HUSQVARNA;true;2022-06-16T14:16:06.75613;voiture_marque;20
+2338;MUNCH;true;2022-06-16T14:16:06.765495;voiture_marque;20
+2342;HYOSUNG;true;2022-06-16T14:16:06.773726;voiture_marque;20
+2347;INDIAN;true;2022-06-16T14:16:06.782132;voiture_marque;20
+2348;MV AGUSTA;true;2022-06-16T14:16:06.790512;voiture_marque;20
+2349;SUZUKI;true;2022-06-16T14:16:06.799353;voiture_marque;20
+3562;JBC;true;2022-06-16T14:16:05.690191;voiture_marque;2
+3563;Grunber;true;2022-06-16T14:16:05.697803;voiture_marque;4
+3564;AMS-NN;true;2022-06-16T14:16:05.705215;voiture_marque;4
+3565;Humbaur;true;2022-06-16T14:16:05.712479;voiture_marque;4
+3566;Rofa;true;2022-06-16T14:16:05.720698;voiture_marque;4
+3567;Rolfo;true;2022-06-16T14:16:05.728067;voiture_marque;4
+3568;Brian James Trailers;true;2022-06-16T14:16:05.736368;voiture_marque;4
+3569;StavPricep;true;2022-06-16T14:16:05.745071;voiture_marque;4
+3570;Lecinena;true;2022-06-16T14:16:05.75283;voiture_marque;4
+3589;DS;true;2022-06-16T14:16:01.917937;voiture_marque;1
+3590;PGO;true;2022-06-16T14:16:01.921334;voiture_marque;1
+3591;Zenvo;true;2022-06-16T14:16:01.926087;voiture_marque;1
+3592;IgorKokarev;true;2022-06-16T14:16:05.760657;voiture_marque;4
+3593;Stokota;true;2022-06-16T14:16:05.769116;voiture_marque;4
+3594;Cobus;true;2022-06-16T14:16:05.77723;voiture_marque;6
+3608;Western;true;2022-06-16T14:16:05.785073;voiture_marque;4
+3610;BC-LDS;true;2022-06-16T14:16:05.792874;voiture_marque;4
+3619;Rezvani;true;2022-06-16T14:16:01.930467;voiture_marque;1
+3620;Rimac;true;2022-06-16T14:16:01.934683;voiture_marque;1
+3621;AvtoMash;true;2022-06-16T14:16:05.800068;voiture_marque;4
+3622;AlekseevkaXimmash ;true;2022-06-16T14:16:05.808815;voiture_marque;4
+3623;Saxas;true;2022-06-16T14:16:05.816776;voiture_marque;4
+3624;Transles;true;2022-06-16T14:16:05.82459;voiture_marque;4
+3625;Ekeri;true;2022-06-16T14:16:05.833072;voiture_marque;4
+3626;Tonghua;true;2022-06-16T14:16:05.841317;voiture_marque;4
+3647;Kreon;true;2022-06-16T14:16:05.849693;voiture_marque;4
+3664;Adler;true;2022-06-16T14:16:01.938382;voiture_marque;1
+3665;DeSoto;true;2022-06-16T14:16:01.944287;voiture_marque;1
+3666;Packard;true;2022-06-16T14:16:01.948713;voiture_marque;1
+3667;Willys;true;2022-06-16T14:16:01.953415;voiture_marque;1
+3668;Kombat;true;2022-06-16T14:16:01.957287;voiture_marque;1
+3669;Neman;true;2022-06-16T14:16:05.858146;voiture_marque;4
+3670;Ifor Williams Trailers;true;2022-06-16T14:16:05.867068;voiture_marque;4
+3676;Borgward;true;2022-06-16T14:16:01.96164;voiture_marque;1
+3689;Ravon;true;2022-06-16T14:16:01.965328;voiture_marque;1
+3690;ZiS;true;2022-06-16T14:16:01.96894;voiture_marque;1
+3691;GAC Gonow;true;2022-06-16T14:16:05.875871;voiture_marque;2
+3692;Atcomex;true;2022-06-16T14:16:05.884106;voiture_marque;4
+3693;Korten;true;2022-06-16T14:16:05.892475;voiture_marque;4
+3694;Syriusz;true;2022-06-16T14:16:05.900982;voiture_marque;4
+3695;Texoms;true;2022-06-16T14:16:05.910545;voiture_marque;4
+3696;Feldbinder;true;2022-06-16T14:16:05.918809;voiture_marque;4
+3705;AMC;true;2022-06-16T14:16:01.973562;voiture_marque;1
+3706;Zenos;true;2022-06-16T14:16:01.977334;voiture_marque;1
+3707;Zuk;true;2022-06-16T14:16:05.92707;voiture_marque;2
+3708;MosDisinMash;true;2022-06-16T14:16:05.934967;voiture_marque;4
+3709;Kolmogor;true;2022-06-16T14:16:05.943257;voiture_marque;4
+3710;Berna;true;2022-06-16T14:16:05.951304;voiture_marque;5
+3711;SAURER;true;2022-06-16T14:16:05.959497;voiture_marque;5
+3728;W Motors;true;2022-06-16T14:16:01.982909;voiture_marque;1
+3729;Mitsubishi;true;2022-06-16T14:16:05.967731;voiture_marque;3
+3730;Adria;true;2022-06-16T14:16:05.976162;voiture_marque;4
+3731;AnVir;true;2022-06-16T14:16:05.984274;voiture_marque;4
+3732;Tanko;true;2022-06-16T14:16:05.993037;voiture_marque;4
+3739;Hudson;true;2022-06-16T14:16:01.98758;voiture_marque;1
+3740;Hubiere;true;2022-06-16T14:16:06.001166;voiture_marque;4
+3745;JBC;true;2022-06-16T14:16:06.009339;voiture_marque;5
+3749;Austin Healey;true;2022-06-16T14:16:01.992659;voiture_marque;1
+3752;Chana;true;2022-06-16T14:16:02.001335;voiture_marque;1
+3753;Changhe;true;2022-06-16T14:16:02.005658;voiture_marque;1
+3754;DFSK;true;2022-06-16T14:16:02.010964;voiture_marque;1
+3755;Efini;true;2022-06-16T14:16:02.015551;voiture_marque;1
+3756;Excalibur;true;2022-06-16T14:16:02.02206;voiture_marque;1
+3757;Groz;true;2022-06-16T14:16:02.027559;voiture_marque;1
+3760;Hurtan;true;2022-06-16T14:16:02.03267;voiture_marque;1
+3761;Jiangnan;true;2022-06-16T14:16:02.037334;voiture_marque;1
+3762;Jinbei;true;2022-06-16T14:16:02.043334;voiture_marque;1
+3765;Monte Carlo;true;2022-06-16T14:16:02.048336;voiture_marque;1
+3767;Nysa;true;2022-06-16T14:16:02.053333;voiture_marque;1
+3771;Shifeng;true;2022-06-16T14:16:02.057335;voiture_marque;1
+3772;SMA;true;2022-06-16T14:16:02.061335;voiture_marque;1
+3774;Wuling;true;2022-06-16T14:16:02.066569;voiture_marque;1
+3779;Shacman;true;2022-06-16T14:16:06.01721;voiture_marque;3
+3780;General Trailers;true;2022-06-16T14:16:06.026891;voiture_marque;4
+3781;Alaska;true;2022-06-16T14:16:06.035161;voiture_marque;4
+3782;ATX;true;2022-06-16T14:16:06.044788;voiture_marque;4
+3783;KYRGYZAVTOMASH;true;2022-06-16T14:16:06.054651;voiture_marque;4
+3784;ZiS;true;2022-06-16T14:16:06.063208;voiture_marque;5
+3785;Volkswagen;true;2022-06-16T14:16:06.071285;voiture_marque;5
+3786;Studebaker;true;2022-06-16T14:16:06.079309;voiture_marque;5
+3787;AEC;true;2022-06-16T14:16:06.087736;voiture_marque;6
+3815;Genesis;true;2022-06-16T14:16:02.070697;voiture_marque;1
+3816;International;true;2022-06-16T14:16:02.074288;voiture_marque;1
+3821;Zibar;true;2022-06-16T14:16:02.078599;voiture_marque;1
+3822;Autres auto;true;2022-06-16T14:16:02.082803;voiture_marque;1
+3827;Adler;true;2022-06-16T14:16:06.808103;voiture_marque;20
+3829;AEON;true;2022-06-16T14:16:06.816904;voiture_marque;20
+3835;ARCTIC CAT;true;2022-06-16T14:16:06.82642;voiture_marque;20
+3836;ARIEL;true;2022-06-16T14:16:06.834699;voiture_marque;20
+3849;Big Dog;true;2022-06-16T14:16:06.843102;voiture_marque;20
+3894;DNEPR;true;2022-06-16T14:16:06.851459;voiture_marque;20
+3911;EXCELSIOR;true;2022-06-16T14:16:06.859882;voiture_marque;20
+3919;GEELY;true;2022-06-16T14:16:06.868103;voiture_marque;20
+3932;HENDERSON;true;2022-06-16T14:16:06.876451;voiture_marque;20
+3934;HERO;true;2022-06-16T14:16:06.88458;voiture_marque;20
+3937;HESKETH;true;2022-06-16T14:16:06.893934;voiture_marque;20
+3944;IZH;true;2022-06-16T14:16:06.902103;voiture_marque;20
+3952;JUNAK;true;2022-06-16T14:16:06.910103;voiture_marque;20
+3955;KASINSKI;true;2022-06-16T14:16:06.918224;voiture_marque;20
+3966;LEHMAN TRIKES;true;2022-06-16T14:16:06.927215;voiture_marque;20
+3972;LINHAI;true;2022-06-16T14:16:06.935733;voiture_marque;20
+3987;MASH;true;2022-06-16T14:16:06.944778;voiture_marque;20
+3989;MEGELLI;true;2022-06-16T14:16:06.953102;voiture_marque;20
+3996;MODENAS;true;2022-06-16T14:16:06.962446;voiture_marque;20
+4001;MOTOCZYSZ;true;2022-06-16T14:16:06.971519;voiture_marque;20
+4006;MOTUS;true;2022-06-16T14:16:06.981536;voiture_marque;20
+4021;PIAGGIO;true;2022-06-16T14:16:06.990641;voiture_marque;20
+4024;POLARIS;true;2022-06-16T14:16:06.999803;voiture_marque;20
+4071;SWM;true;2022-06-16T14:16:07.008725;voiture_marque;20
+4075;TGB;true;2022-06-16T14:16:07.017988;voiture_marque;20
+4084;URAL;true;2022-06-16T14:16:07.026902;voiture_marque;20
+4089;VELOCETTE;true;2022-06-16T14:16:07.036757;voiture_marque;20
+4091;VESPA;true;2022-06-16T14:16:07.046103;voiture_marque;20
+4095;VINCENT HRD;true;2022-06-16T14:16:07.057398;voiture_marque;20
+4102;WRM;true;2022-06-16T14:16:07.067105;voiture_marque;20
+4116;AERMACCHI;true;2022-06-16T14:16:07.076277;voiture_marque;20
+4117;AJP;true;2022-06-16T14:16:07.088215;voiture_marque;20
+4118;ALTA MOTORS;true;2022-06-16T14:16:07.099868;voiture_marque;20
+4119;BARIGO;true;2022-06-16T14:16:07.109477;voiture_marque;20
+4120;BFG;true;2022-06-16T14:16:07.121246;voiture_marque;20
+4121;BRITTEN;true;2022-06-16T14:16:07.131784;voiture_marque;20
+4122;BROUGH SUPERIOR;true;2022-06-16T14:16:07.143344;voiture_marque;20
+4123;CAN-AM/ BRP;true;2022-06-16T14:16:07.152527;voiture_marque;20
+4124;CANNONDALE;true;2022-06-16T14:16:07.161774;voiture_marque;20
+4125;CARVER;true;2022-06-16T14:16:07.171104;voiture_marque;20
+4126;CEMEC;true;2022-06-16T14:16:07.182103;voiture_marque;20
+4127;CHAK MOTORS;true;2022-06-16T14:16:07.191871;voiture_marque;20
+4128;Christini;true;2022-06-16T14:16:07.200877;voiture_marque;20
+4129;CONDOR;true;2022-06-16T14:16:07.210104;voiture_marque;20
+4130;CRS;true;2022-06-16T14:16:07.220103;voiture_marque;20
+4131;Dafra Motos;true;2022-06-16T14:16:07.22891;voiture_marque;20
+4132;EBR Motorcycles;true;2022-06-16T14:16:07.237669;voiture_marque;20
+4133;ENERGICA;true;2022-06-16T14:16:07.246815;voiture_marque;20
+4134;GG MOTORRAD;true;2022-06-16T14:16:07.255818;voiture_marque;20
+4135;HARLEY DAVIDSON;true;2022-06-16T14:16:07.265105;voiture_marque;20
+4136;HODAKA;true;2022-06-16T14:16:07.274054;voiture_marque;20
+4137;MARUSHO-LILAC;true;2022-06-16T14:16:07.282103;voiture_marque;20
+4138;PETRONAS;true;2022-06-16T14:16:07.291615;voiture_marque;20
+4139;RIEJU MOTORS;true;2022-06-16T14:16:07.301052;voiture_marque;20
+4140;WHIZZER;true;2022-06-16T14:16:07.310749;voiture_marque;20
+4142;RAM;true;2022-06-16T14:16:02.087041;voiture_marque;1
+4143;Super SOCO;true;2022-06-16T14:16:07.320461;voiture_marque;20
+4144;Aurus;true;2022-06-16T14:16:02.091778;voiture_marque;1
+4145;Trumpchi;true;2022-06-16T14:16:02.096074;voiture_marque;1
+4146;Abarth;true;2022-06-16T14:16:02.099708;voiture_marque;1
+4147;Baic;true;2022-06-16T14:16:02.103071;voiture_marque;1
+4148;DFM;true;2022-06-16T14:16:02.106846;voiture_marque;1
+4149;Saipa;true;2022-06-16T14:16:02.111652;voiture_marque;1
+4154;Apal;true;2022-06-16T14:16:02.115341;voiture_marque;1
+4155;Bajaj;true;2022-06-16T14:16:02.118567;voiture_marque;1
+4156;Batmobile;true;2022-06-16T14:16:02.121748;voiture_marque;1
+4157;Bilenkin;true;2022-06-16T14:16:02.124568;voiture_marque;1
+4158;Cord;true;2022-06-16T14:16:02.128606;voiture_marque;1
+4159;Delage;true;2022-06-16T14:16:02.131904;voiture_marque;1
+4160;DKW;true;2022-06-16T14:16:02.135567;voiture_marque;1
+4162;DW Hower;true;2022-06-16T14:16:02.138622;voiture_marque;1
+4163;Flanker;true;2022-06-16T14:16:02.141567;voiture_marque;1
+4164;GAC;true;2022-06-16T14:16:02.146595;voiture_marque;1
+4165;GP;true;2022-06-16T14:16:02.151861;voiture_marque;1
+4166;Hanomag;true;2022-06-16T14:16:02.154566;voiture_marque;1
+4167;Hispano-Suiza;true;2022-06-16T14:16:02.158948;voiture_marque;1
+4168;Horch;true;2022-06-16T14:16:02.162204;voiture_marque;1
+4169;KTM AG;true;2022-06-16T14:16:02.165373;voiture_marque;1
+4170;Ligier;true;2022-06-16T14:16:02.168534;voiture_marque;1
+4171;Lucid;true;2022-06-16T14:16:02.172358;voiture_marque;1
+4172;Nash;true;2022-06-16T14:16:02.177279;voiture_marque;1
+4173;Rambler;true;2022-06-16T14:16:02.181092;voiture_marque;1
+4174;Renaissance;true;2022-06-16T14:16:02.185947;voiture_marque;1
+4175;Renault Samsung;true;2022-06-16T14:16:02.190978;voiture_marque;1
+4176;Rinspeed;true;2022-06-16T14:16:02.196352;voiture_marque;1
+4177;Shanghai Maple;true;2022-06-16T14:16:02.201064;voiture_marque;1
+4178;Simca;true;2022-06-16T14:16:02.205378;voiture_marque;1
+4179;Steyr;true;2022-06-16T14:16:02.209127;voiture_marque;1
+4180;Studebaker;true;2022-06-16T14:16:02.212432;voiture_marque;1
+4181;Think;true;2022-06-16T14:16:02.215697;voiture_marque;1
+4182;Wanderer;true;2022-06-16T14:16:02.219132;voiture_marque;1
+4183;Voiture de course;true;2022-06-16T14:16:02.222883;voiture_marque;1
+4184;Logem;true;2022-06-16T14:16:02.226237;voiture_marque;1
+4186;Dallara;true;2022-06-16T14:16:02.229897;voiture_marque;1
+4187;Heinkel;true;2022-06-16T14:16:02.233741;voiture_marque;1
+4188;Yulon;true;2022-06-16T14:16:02.237062;voiture_marque;1
+4189;Bio auto;true;2022-06-16T14:16:02.241309;voiture_marque;1
+4190;Deco Rides;true;2022-06-16T14:16:02.244949;voiture_marque;1
+4191;Sears;true;2022-06-16T14:16:02.247886;voiture_marque;1
+4192;Xpeng;true;2022-06-16T14:16:02.252172;voiture_marque;1
+4195;Roewe;true;2022-06-16T14:16:02.255933;voiture_marque;1
+4196;CheryExeed;true;2022-06-16T14:16:02.259898;voiture_marque;1
+4197;LiXiang;true;2022-06-16T14:16:02.263746;voiture_marque;1
+4198;Nio;true;2022-06-16T14:16:02.267751;voiture_marque;1
+4199;Hennessey;true;2022-06-16T14:16:02.271324;voiture_marque;1
+4200;Polestar;true;2022-06-16T14:16:02.274887;voiture_marque;1
